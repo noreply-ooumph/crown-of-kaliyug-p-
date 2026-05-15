@@ -1,0 +1,31 @@
+# Crown of Kaliyug — Platform Specifications
+# A-11 Formatter Agent configurations
+
+youtube:
+  resolution: "1920x1080"
+  bitrate: "8000k"
+  fps: 24
+
+instagram_reel:
+  resolution: "1080x1920"
+  bitrate: "3500k"
+  fps: 30
+  teaser_start_sec: 300
+
+twitter:
+  resolution: "1080x1080"
+  bitrate: "2500k"
+  fps: 24
+  hook_start_sec: 120
+
+whatsapp:
+  resolution: "720x1280"
+  bitrate: "1500k"
+  fps: 24
+  max_size_mb: 16
+  wa_start_sec: 300
+
+thumbnail:
+  resolution: "1280x720"
+  format: "png"
+  thumbnail_frame_sec: 320

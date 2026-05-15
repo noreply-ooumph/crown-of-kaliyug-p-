@@ -1,0 +1,19 @@
+{
+  "title": "Script Output Schema",
+  "type": "object",
+  "properties": {
+    "episode_id": { "type": "string" },
+    "title_english": { "type": "string" },
+    "scenes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "scene_id": { "type": "string" },
+          "location": { "type": "string" },
+          "dialogue_slots": { "type": "array" }
+        }
+      }
+    }
+  }
+}

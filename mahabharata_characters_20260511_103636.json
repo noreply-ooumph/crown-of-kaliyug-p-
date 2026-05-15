@@ -1,0 +1,2045 @@
+[
+  {
+    "name": "Yudhishthira",
+    "sanskrit_name": "Yudhishthira, the steady one in battle, one who remains steadfast",
+    "role": "Warrior, king, and leader of the Pandavas",
+    "faction": "Pandava",
+    "age_appearance": "Late 30s, with a wise and weathered appearance, yet still radiating youthful vigor and authority",
+    "physical_appearance": {
+      "height": "Tall and stately at around 6'2\", with a strong yet lean build",
+      "build": "Broad-shouldered, with a muscular yet lithe physique, reflecting his warrior training and discipline",
+      "skin_tone": "A deep, rich brown, reminiscent of polished teakwood",
+      "face_shape": "Strong, angular features with high cheekbones, a square jaw, and a prominent nose",
+      "eyes": "Large, calm, and piercing brown eyes that seem to see right through you, with a deep wisdom and compassion",
+      "hair": "Dark, shoulder-length hair, often tied back in a simple yet elegant knot, adorned with a few strands of sacred tulsi",
+      "facial_hair": "A short, well-groomed beard that adds to his dignified and regal appearance",
+      "distinctive_marks": "A small, intricate mark on his forehead, symbolizing his divine ancestry and connection to the gods",
+      "posture": "Perfectly upright, with a quiet confidence and authority that commands respect without demanding it"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A simple, yet elegant dhoti in a deep, rich blue, symbolizing his connection to the infinite and the divine",
+      "upper_body": "A golden, armored chest plate, adorned with intricate, swirling patterns that reflect his royal heritage",
+      "armour": "Light, yet strong armor that covers his arms and shoulders, with a subtle, shimmering quality that hints at its divine origins",
+      "weapons_carried": "A mighty bow, the Ajagava, slung over his shoulder, with a quiver full of arrows at his side",
+      "jewellery": "A simple, golden crown on his head, with a few, choice gems that reflect his status as a king and a warrior",
+      "footwear": "Simple, yet sturdy sandals that are suitable for both walking and riding",
+      "colour_palette": "Deep blues and golds, with accents of rich brown and creamy white",
+      "fabric_textures": "Luxurious silks and fine cottons, with intricate, embroidered patterns that reflect his royal heritage",
+      "divine_elements": "A subtle, shimmering aura that surrounds him, reflecting his divine ancestry and connection to the gods"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone, with a warm, rich quality that commands attention",
+      "pitch_hz": "around 90Hz",
+      "tone_quality": "Warm, rich, and resonant, with a subtle, velvety smoothness that is both soothing and commanding",
+      "volume_default": "Measured and controlled, with a subtle, authoritative quality that demands attention without being loud",
+      "speech_speed": "Deliberate and measured, with a slow, steady pace that reflects his thoughtful and contemplative nature",
+      "accent_flavour": "A subtle, Vedic flavor, with a hint of rustic, rural simplicity that reflects his connection to the land and the people",
+      "breath_pattern": "Long, controlled breaths, with a subtle, rhythmic quality that reflects his connection to the natural world",
+      "emotional_range": "Subtle, yet powerful, with a deep, inner stillness that is both calming and commanding",
+      "signature_sounds": "A low, rumbling laugh, and a subtle, clicking sound with his tongue when he is deep in thought",
+      "tts_voice_match": "ElevenLabs' DeepVoice, with a subtle, customized tweak to reflect his unique, Vedic flavor"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a deep, scholarly understanding of the Vedic scriptures and the ancient traditions",
+      "sentence_structure": "Complex, with a subtle, rhythmic quality that reflects his poetic and musical nature",
+      "signature_phrases": [
+        "I will not swerve from the path of dharma",
+        "The truth is my shield and my sword",
+        "I will not betray the trust of my brothers"
+      ],
+      "topics_they_initiate": "Dharma, duty, and the natural order of the universe",
+      "topics_they_avoid": "Personal gossip, petty squabbles, and unnecessary conflicts",
+      "how_they_address_others": "With respect, dignity, and a deep sense of compassion, using formal titles and honorifics when appropriate",
+      "dialogue_style": "Measured, thoughtful, and contemplative, with a subtle, poetic quality that reflects his deep understanding of the human condition"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering commitment to dharma",
+      "virtues": [
+        "Wisdom",
+        "Compassion",
+        "Courage"
+      ],
+      "flaws": [
+        "Over-cautiousness",
+        "Self-doubt",
+        "Tendency to trust others too much"
+      ],
+      "motivation": "To uphold the principles of dharma, and to protect his family and his people",
+      "fear": "Failure to live up to his duties, and the loss of his loved ones",
+      "internal_conflict": "The tension between his duty to his family and his duty to the greater good",
+      "relationship_with_dharma": "Deeply committed, with a subtle, nuanced understanding of the complexities and challenges of the natural order",
+      "in_battle": "Calm, focused, and strategic, with a deep sense of inner peace and clarity",
+      "in_peace": "Contemplative, thoughtful, and compassionate, with a deep sense of connection to the natural world and the people around him"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 1000 a majestic, regal figure with a strong, yet lean build, dressed in a simple, yet elegant dhoti, with a golden, armored chest plate, and a mighty bow slung over his shoulder, set against a backdrop of a serene, natural landscape, with a subtle, shimmering aura that surrounds him, reflecting his divine ancestry and connection to the gods",
+      "stable_diffusion_prompt": "regal, majestic, strong, lean, dhoti, golden armor, bow, serene landscape, subtle aura, divine ancestry",
+      "negative_prompt": "ugly, weak, timid, poor, dirty, messy, chaotic",
+      "reference_style": "Baahubali film aesthetic, with a subtle, nuanced blend of traditional Indian and contemporary styles",
+      "lighting_setup": "Soft, natural light, with a subtle, warm glow that reflects the serenity and peace of the natural landscape",
+      "camera_angle": "Eye-level, with a subtle, slight tilt upwards to reflect the majesty and authority of the character"
+    },
+    "animation_notes": {
+      "idle_animation": "Perfectly still, with a subtle, almost imperceptible movement of the eyes, as if watching the world around him with a deep sense of awareness and attention",
+      "walk_cycle": "Slow, deliberate, and powerful, with a subtle, rhythmic quality that reflects his connection to the natural world",
+      "battle_stance": "Strong, focused, and strategic, with a deep sense of inner peace and clarity, as if channeling the power of the gods",
+      "signature_gesture": "A subtle, almost imperceptible nod of the head, as if acknowledging the wisdom and guidance of the divine",
+      "entry_animation": "A slow, deliberate walk into the scene, with a subtle, almost imperceptible pause, as if surveying the surroundings and assessing the situation"
+    },
+    "differentiation_from_others": "Yudhishthira's unique blend of regal authority, compassionate wisdom, and strong, yet lean physicality sets him apart from other characters, as does his subtle, nuanced connection to the natural world and the divine. His measured, thoughtful speech and deliberate, powerful movements reflect his deep understanding of the complexities and challenges of the human condition, and his commitment to upholding the principles of dharma. His subtle, shimmering aura and majestic, regal presence command attention and respect, without demanding it, and his calm, focused demeanor in battle and his contemplative, compassionate nature in peace set him apart as a truly unique and compelling character."
+  },
+  {
+    "name": "Bhima",
+    "sanskrit_name": "Bhīma, meaning 'the terrible' or 'the formidable'",
+    "role": "Warrior",
+    "faction": "Pandava",
+    "age_appearance": "Appears to be in his mid-30s, with a strong and athletic build, at the time of the war",
+    "physical_appearance": {
+      "height": "Towering at around 6'5\" with a muscular frame",
+      "build": "Broad-shouldered, V-tapered, with a powerful warrior's physique",
+      "skin_tone": "Deep wheatish bronze, like the colour of polished copper",
+      "face_shape": "Square jaw, high cheekbones, and a strong brow ridge",
+      "eyes": "Lotus-shaped, amber gold, with a calm but piercing intensity",
+      "hair": "Dark black, waist-length, tied in a warrior's knot with a peacock feather",
+      "facial_hair": "A thick, dark beard, trimmed short to accentuate his strong features",
+      "distinctive_marks": "A small scar above his left eyebrow, and a series of battle scars on his arms and torso",
+      "posture": "Perfectly upright, with a commanding stillness, and a relaxed confidence"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A golden dhoti in Kanchipuram silk, with a deep saffron upper body wrap",
+      "upper_body": "A leather chest guard, adorned with intricate gold filigree",
+      "armour": "The Kavacha Kundala — golden divine armour fused to his skin, with a subtle glow",
+      "weapons_carried": "A massive club, slung over his shoulder, and a sword at his left hip",
+      "jewellery": "A golden crown, with a large, polished ruby at its centre, and a pair of earrings shaped like lion's heads",
+      "footwear": "A pair of sturdy, leather sandals, with gold buckles",
+      "colour_palette": "Deep gold, rich saffron, and burnished copper",
+      "fabric_textures": "Hammered gold, peacock feather sheen, and raw silk",
+      "divine_elements": "A subtle, golden aura surrounding his body, and a series of intricate, divine symbols etched into his armour"
+    },
+    "voice_profile": {
+      "pitch": "Deep baritone, with a commanding resonance",
+      "pitch_hz": "75Hz",
+      "tone_quality": "Warm, resonant, and authoritative",
+      "volume_default": "Controlled and measured, but capable of rising to a thunderous roar",
+      "speech_speed": "Slow and deliberate, with a measured pace of around 100wpm",
+      "accent_flavour": "Northern Vedic formality, with a hint of rustic warmth",
+      "breath_pattern": "Long, controlled breaths, with a subtle pause before speaking",
+      "emotional_range": "Expressive, but controlled — his voice rises in battle fury, but remains calm in times of peace",
+      "signature_sounds": "A low, rumbling laugh, and a sharp, clicking sound with his tongue when annoyed",
+      "tts_voice_match": "ElevenLabs' 'Deep Baritone' voice profile"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a touch of rustic directness",
+      "sentence_structure": "Short, declarative sentences, with a focus on action and practicality",
+      "signature_phrases": [
+        "I will not back down!",
+        "For the Pandavas!",
+        "By the honour of my family!"
+      ],
+      "topics_they_initiate": "Battle tactics, honour, and loyalty",
+      "topics_they_avoid": "Personal feelings, and emotional vulnerability",
+      "how_they_address_others": "With respect, but also with a sense of equality — he addresses everyone as a fellow warrior",
+      "dialogue_style": "Blunt and warrior-direct, with a focus on action and results"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering loyalty",
+      "virtues": [
+        "Courage",
+        "Honesty",
+        "Protectiveness"
+      ],
+      "flaws": [
+        "Temper",
+        "Impulsiveness",
+        "Overprotectiveness"
+      ],
+      "motivation": "To protect his family, and uphold his honour",
+      "fear": "Failure, and the loss of those he loves",
+      "internal_conflict": "The tension between his desire for battle, and his need to protect his loved ones",
+      "relationship_with_dharma": "He sees dharma as a guiding principle, but also as a flexible concept that must be adapted to the situation",
+      "in_battle": "A wild, berserker rage, with a focus on crushing his enemies",
+      "in_peace": "A calm, and relaxed confidence, with a focus on enjoying the company of his loved ones"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --chaos 20 --midjourney-beta --stylize 1000 'Bhima, the Pandava warrior, standing victorious on a battlefield, with a massive club in hand, and a fierce expression on his face. Golden armour, with a subtle glow, and a deep, burnished copper skin tone. Background: a dark, stormy sky, with flashes of lightning. Style: hyper-realistic, with a focus on texture, and lighting.'",
+      "stable_diffusion_prompt": "Bhima, the Pandava warrior, with golden armour, and a massive club, standing on a battlefield, with a fierce expression, and a subtle, golden aura. Style: hyper-realistic, with a focus on texture, and lighting. --q 2 --midjourney-beta --stylize 1000",
+      "negative_prompt": "do not include any elements that are not directly related to Bhima, or the Pandavas. Avoid any modern, or anachronistic elements.",
+      "reference_style": "Baahubali film aesthetic, with a focus on grandeur, and epic scope",
+      "lighting_setup": "Dramatic, with a focus on high contrast, and deep shadows. A mix of warm, and cool colours, to create a sense of tension, and energy",
+      "camera_angle": "Low angle, looking up, to emphasize Bhima's size, and power"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing still, with a slight, relaxed swagger, and a hint of a smile",
+      "walk_cycle": "A slow, powerful stride, with a sense of confidence, and authority",
+      "battle_stance": "A wide, aggressive stance, with his club at the ready, and a fierce expression",
+      "signature_gesture": "A sharp, downward swing of his club, with a loud, thunderous roar",
+      "entry_animation": "A dramatic, slow-motion entrance, with a focus on his size, and power. He should emerge from the shadows, or from a cloud of dust, to emphasize his imposing presence"
+    },
+    "differentiation_from_others": "Bhima's unique combination of size, strength, and confidence sets him apart from other characters. His golden armour, and subtle, golden aura, make him visually distinct, and his deep, resonant voice, and commanding presence, make him aurally unmistakable. His blend of rustic, warrior-directness, and formal, Vedic language, also sets him apart from other characters, and makes him a compelling, and complex figure."
+  },
+  {
+    "name": "Arjuna",
+    "sanskrit_name": "अर्जुन (Arjuna) - means 'bright' or 'shining'",
+    "role": "Warrior and prince",
+    "faction": "Pandava",
+    "age_appearance": "Late 20s to early 30s, with a strong, youthful appearance and an aura of calm confidence",
+    "physical_appearance": {
+      "height": "Towering at around 6'1\" with a muscular yet lean build",
+      "build": "Broad-shouldered, V-tapered, with a strong warrior's physique honed from years of training and battle",
+      "skin_tone": "Deep wheatish bronze, similar to the colour of polished copper",
+      "face_shape": "Strong, angular features with high cheekbones, a straight nose, and a determined jawline",
+      "eyes": "Lotus-shaped, with an intense, piercing gaze that seems to see right through you, his eyes are an deep, burnished gold",
+      "hair": "Dark black, worn long and tied back in a warrior's knot, adorned with a peacock feather",
+      "facial_hair": "Clean-shaven, revealing his strong, determined features",
+      "distinctive_marks": "A small, intricate scar above his left eyebrow and the Sudarshana chakra mark on his right palm",
+      "posture": "Upright and confident, with a commanding presence that draws the eye"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A golden dhoti in Kanchipuram silk, pleated and draped in the traditional style of the Pandavas, in a deep saffron colour",
+      "upper_body": "A golden, scale-like armour that protects his chest and shoulders, adorned with small, glinting rubies",
+      "armour": "The Kavacha Kundala - a golden, divine armour fused to his skin, glowing with a soft, ethereal light",
+      "weapons_carried": "The Gandiva bow, slung across his back, with two quivers full of arrows and a sword at his left hip",
+      "jewellery": "A golden, gemstone-encrusted crown on his head, with earrings and a necklace that match the armour's design",
+      "footwear": "Golden, gemstone-encrusted sandals that seem to shine like the sun",
+      "colour_palette": "Gold, deep saffron, burnished copper, and the deep blue of a summer sky",
+      "fabric_textures": "Hammered gold, peacock feather sheen, and the soft, luxurious texture of Kanchipuram silk",
+      "divine_elements": "The glowing, ethereal aura of the Kavacha Kundala armour and the Sudarshana chakra mark on his right palm"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone",
+      "pitch_hz": "85Hz",
+      "tone_quality": "Warm, rich, and commanding, with a hint of a growl when he's angry or determined",
+      "volume_default": "Controlled and measured, never loud or boisterous",
+      "speech_speed": "Slow and deliberate, around 90 words per minute",
+      "accent_flavour": "Northern Vedic formality, with a hint of rustic warmth from his time in the wilderness",
+      "breath_pattern": "Long, controlled breaths, like a warrior preparing for battle",
+      "emotional_range": "Barely changes, only his eyes betraying his emotions, but his voice rises sharply in battle fury",
+      "signature_sounds": "A low, rumbling laugh and a sharp, decisive click of his tongue when he's impatient or annoyed",
+      "tts_voice_match": "Kokoro TTS - 'Deep Baritone' voice profile"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly and formal, with a deep understanding of the Vedas and the ancient traditions",
+      "sentence_structure": "Long, philosophical sentences, often with intricate metaphors and poetic flourishes",
+      "signature_phrases": [
+        "I will not back down",
+        "For the sake of dharma",
+        "The time for words is over"
+      ],
+      "topics_they_initiate": "The nature of duty, the importance of honour, and the path to spiritual enlightenment",
+      "topics_they_avoid": "Personal weaknesses, emotional vulnerabilities, and the conflicts within his own heart",
+      "how_they_address_others": "With respect and dignity, using titles and honorifics for those who deserve them",
+      "dialogue_style": "Cryptic and layered, with a deep understanding of the complexities of human nature"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering dedication to duty",
+      "virtues": [
+        "Courage",
+        "Loyalty",
+        "Self-discipline"
+      ],
+      "flaws": [
+        "Overconfidence",
+        "Impulsiveness",
+        "Emotional detachment"
+      ],
+      "motivation": "The desire to fulfill his duty as a warrior and a prince, and to protect his loved ones",
+      "fear": "Failure and the loss of those he cares about",
+      "internal_conflict": "The tension between his duty as a warrior and his desire for spiritual enlightenment",
+      "relationship_with_dharma": "A deep understanding of the importance of duty and righteousness, and a commitment to upholding them",
+      "in_battle": "Cold, surgical precision, with a focus on strategy and tactics",
+      "in_peace": "A sense of calm and tranquility, with a deep connection to nature and the divine"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Arjuna, the Pandava prince, standing tall with his Gandiva bow and quiver, wearing the Kavacha Kundala armour, with a golden, gemstone-encrusted crown on his head, set against a backdrop of a sunny, cloudless sky, with a few birds flying in the distance, --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Arjuna, the Pandava prince, in a hyper-realistic, photorealistic style, with intricate details and textures, wearing the Kavacha Kundala armour and carrying the Gandiva bow, with a deep, burnished gold colour palette and a sense of warm, golden light",
+      "negative_prompt": "Avoid any depictions of Arjuna as weak, timid, or unsure, and do not include any anachronistic or out-of-place elements",
+      "reference_style": "A mix of Baahubali film aesthetic and Amar Chitra Katha illustrations, with a focus on hyper-realistic CGI",
+      "lighting_setup": "Warm, golden lighting with deep shadows, to emphasize Arjuna's strong, chiseled features and the intricate details of his armour",
+      "camera_angle": "A low angle, looking up at Arjuna, to convey his strength and confidence"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing perfectly still, like a statue, with a sense of calm and confidence",
+      "walk_cycle": "A slow, powerful stride, with a sense of deliberate, measured movement",
+      "battle_stance": "A wide, strong stance, with his feet shoulder-width apart and his Gandiva bow at the ready",
+      "signature_gesture": "A slow, deliberate nod of his head, as if acknowledging a truth or accepting a challenge",
+      "entry_animation": "Emerging from the shadows, with a sense of drama and anticipation, as if the very presence of Arjuna is enough to command attention"
+    },
+    "differentiation_from_others": "Arjuna's unique combination of physical and spiritual strength, his unwavering dedication to duty, and his intricate, divine armour make him unmistakable. His calm, confident demeanor and his piercing, lotus-shaped eyes set him apart from other characters. His voice, with its deep, resonant baritone and measured, deliberate tone, is instantly recognizable. Overall, Arjuna's character is a masterful blend of contradictions - strength and vulnerability, confidence and humility - that make him a compelling and complex figure."
+  },
+  {
+    "name": "Nakula",
+    "sanskrit_name": "Nakula - He who is most handsome and skilled",
+    "role": "Warrior and horse expert",
+    "faction": "Pandava",
+    "age_appearance": "Young adult, around 25 years old, with an athletic yet lean build, giving an impression of a skilled and agile warrior",
+    "physical_appearance": {
+      "height": "Stands at around 5'10\" with a lean yet muscular build, proportionate to his role as a skilled horseman and warrior",
+      "build": "Athletic with broad shoulders and a tapered waist, highlighting his agility and strength",
+      "skin_tone": "Wheatish golden complexion, similar to the sun-kissed fields of the Indian plains",
+      "face_shape": "Oval face with high cheekbones and a strong jawline, giving him a resolute and determined look",
+      "eyes": "Almond-shaped eyes with an expressive and deep brown color, fringed with thick eyelashes, often sparkling with warmth and kindness",
+      "hair": "Dark brown hair that falls to his shoulders, often tied back in a simple yet elegant knot, adorned with a feather or a decorative pin",
+      "facial_hair": "Clean-shaven, accentuating his sharp facial features and youthful appearance",
+      "distinctive_marks": "A small scar above his left eyebrow from a childhood accident, and a series of intricate, auspicious marks on his palms, signifying his divine lineage",
+      "posture": "Carries himself with confidence and poise, reflecting his training as a warrior and his noble upbringing"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "Wears a golden-yellow dhoti made of the finest Kanchipuram silk, wrapped elegantly around his waist, symbolizing his connection to the sun and his role as a warrior",
+      "upper_body": "A sleeveless, armored vest made of leather and bronze, adorned with intricate patterns and symbols of his clan",
+      "armour": "Wears a pair of bronze gauntlets and greaves, engraved with the emblem of the Pandavas, providing protection without hindering his agility",
+      "weapons_carried": "Carries a longbow and a quiver full of arrows on his back, along with a short sword at his hip, ready for battle at a moment's notice",
+      "jewellery": "Adorns a simple, yet elegant golden necklace with a small, polished gemstone, a gift from his mother, symbolizing her love and blessings",
+      "footwear": "Wears a pair of sturdy, knee-high leather boots, suitable for riding and combat, with a subtle brogue pattern, reflecting his practical yet refined taste",
+      "colour_palette": "Dominant colors include shades of gold, brown, and beige, reflecting his connection to the earth and the sun",
+      "fabric_textures": "Mix of smooth silk, rough leather, and polished bronze, providing a tactile and visual representation of his multifaceted personality",
+      "divine_elements": "A soft, golden aura surrounds him, symbolizing his divine heritage and the blessings of the gods"
+    },
+    "voice_profile": {
+      "pitch": "Mid-range tenor, with a warm and resonant quality, capable of conveying a wide range of emotions",
+      "pitch_hz": "Approximately 120Hz, providing a sense of balance and harmony",
+      "tone_quality": "Smooth and melodious, like the sound of a gentle stream, making his voice a joy to listen to",
+      "volume_default": "Speaks at a moderate volume, neither too loud nor too soft, always mindful of his audience and the context",
+      "speech_speed": "Average speech speed, around 120 words per minute, allowing him to convey complex ideas with clarity and precision",
+      "accent_flavour": "Slightly formal, with a hint of rustic charm, reflecting his upbringing in the countryside and his noble lineage",
+      "breath_pattern": "Takes deep, controlled breaths, often pausing to collect his thoughts before speaking, giving his words weight and consideration",
+      "emotional_range": "His voice rises and falls with his emotions, but always remains measured and dignified, reflecting his training as a warrior and a leader",
+      "signature_sounds": "Often begins his sentences with a gentle clearing of his throat, and ends with a soft smile, making his speech patterns uniquely recognizable",
+      "tts_voice_match": "Closest match would be a warm and resonant male voice, with a mid-range pitch and a smooth tone quality, such as the 'Young Warrior' voice profile"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal and elegant, with a touch of rustic simplicity, reflecting his upbringing and education",
+      "sentence_structure": "Constructs his sentences with clarity and precision, often using metaphors and analogies to convey complex ideas",
+      "signature_phrases": [
+        "By the honor of the Pandavas",
+        "As the sun rises in the east",
+        "May the gods guide us"
+      ],
+      "topics_they_initiate": "Often speaks about honor, duty, and loyalty, as well as the importance of living in harmony with nature",
+      "topics_they_avoid": "Tends to avoid speaking about his personal feelings or weaknesses, preferring to focus on the greater good",
+      "how_they_address_others": "Addresses his elders and superiors with respect and deference, using formal titles and honorifics, while speaking to his peers and friends with warmth and familiarity",
+      "dialogue_style": "Engaging and persuasive, with a touch of humor and wit, making him a compelling and charismatic conversationalist"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Loyal and honorable to a fault",
+      "virtues": [
+        "Loyalty",
+        "Courage",
+        "Compassion"
+      ],
+      "flaws": [
+        "Overprotectiveness",
+        "Impulsiveness",
+        "Self-doubt"
+      ],
+      "motivation": "Driven by a strong sense of duty and responsibility, particularly towards his family and community",
+      "fear": "Fears failure and disappointing those he cares about, as well as the loss of his loved ones",
+      "internal_conflict": "Struggles with balancing his own desires and needs with the expectations and demands of others",
+      "relationship_with_dharma": "Sees himself as a defender of dharma and righteousness, and is willing to make sacrifices for the greater good",
+      "in_battle": "Fights with skill and precision, using his intellect and strategic thinking to outmaneuver his opponents",
+      "in_peace": "Is a gentle and compassionate soul, always looking for ways to help and support those around him"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Generate a hyper-realistic image of Nakula, the Pandava warrior, standing in a sun-drenched landscape, with a golden aura surrounding him, wearing a golden-yellow dhoti and bronze armor, carrying a longbow and quiver, with a confident and determined expression, --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Create an image of Nakula, with a warm and elegant lighting, using a mix of smooth and rough textures, and a color palette dominated by shades of gold, brown, and beige, with a soft focus on the background, and a sharp focus on the subject",
+      "negative_prompt": "Avoid depicting Nakula with a menacing or aggressive expression, or with a cluttered and distracting background",
+      "reference_style": "Inspired by the artistic style of the Baahubali film, with a mix of realistic and stylized elements",
+      "lighting_setup": "Use a warm and soft lighting, with a combination of natural and artificial light sources, to create a sense of depth and dimensionality",
+      "camera_angle": "Shoot from a slightly low angle, looking up at Nakula, to convey a sense of respect and admiration"
+    },
+    "animation_notes": {
+      "idle_animation": "Stands with his weight evenly distributed on both feet, with a slight lean forward, as if ready to spring into action",
+      "walk_cycle": "Walks with a smooth and confident stride, with a slight bounce in his step, reflecting his athleticism and agility",
+      "battle_stance": "Assumes a wide and balanced stance, with his feet shoulder-width apart, and his weight evenly distributed between both legs, ready to unleash a powerful attack",
+      "signature_gesture": "Often touches his forehead, or makes a slight bow, as a sign of respect and acknowledgement",
+      "entry_animation": "Enters the scene with a confident and purposeful stride, as if announcing his presence to the world"
+    },
+    "differentiation_from_others": "Nakula's unique blend of athletic build, elegant attire, and warm, resonant voice, sets him apart from other characters, making him instantly recognizable. His confident yet compassionate demeanor, and his deep sense of loyalty and duty, make him a compelling and relatable character. The golden aura surrounding him, and the soft focus on the background, create a sense of depth and dimensionality, drawing the viewer's attention to his noble presence. His warm and elegant lighting, and the mix of smooth and rough textures, add a tactile and visual richness to his character, making him a joy to behold."
+  },
+  {
+    "name": "Sahadeva",
+    "sanskrit_name": "Sahadeva — Sahadeva, meaning 'with gods' or 'accompanied by the gods', son of Madri and the Ashvini Kumaras",
+    "role": "Warrior, brother, advisor",
+    "faction": "Pandava",
+    "age_appearance": "Late twenties, youthful yet seasoned, with an air of quiet confidence",
+    "physical_appearance": {
+      "height": "Slightly above average at 5'10\" with a lean, athletic yet powerful build",
+      "build": "Broad-shouldered, with a strong core and well-defined limbs, indicative of a skilled warrior",
+      "skin_tone": "Medium wheatish complexion with a golden undertone, similar to the warm glow of honey",
+      "face_shape": "Oval face with high cheekbones and a strong jawline, softened by a gentle nose and expressive lips",
+      "eyes": "Large, expressive eyes with a deep, soulful brown colour, fringed with thick lashes and filled with warmth and kindness",
+      "hair": "Dark brown hair, styled in a simple yet elegant manner, often adorned with a few strategically placed strands loose around the face",
+      "facial_hair": "Clean-shaven, with a smooth, unlined complexion that belies his age and experience",
+      "distinctive_marks": "A small, intricate mark on his forehead, reminiscent of a crescent moon, symbolizing his divine parentage",
+      "posture": "Upright and confident, with a subtle air of humility and a deep sense of inner peace"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "Cream-coloured dhoti made of the finest silk, wrapped elegantly around his waist and legs, with intricate golden thread embroidery",
+      "upper_body": "A sleeveless, high-collared vest, adorned with small, shimmering gemstones that reflect the colours of the sky",
+      "armour": "A golden, scale-like armour covering his torso, with a subtle sheen that hints at its divine origins",
+      "weapons_carried": "A longbow and quiver full of arrows, slung over his shoulder, with a sword at his side, sheathed in a leather scabbard",
+      "jewellery": "A simple, elegant crown on his head, with a few strategically placed gemstones that accentuate his features, and a delicate, beaded necklace around his neck",
+      "footwear": "Leather sandals, polished to a high sheen, with a subtle, intricate design that reflects his connection to the natural world",
+      "colour_palette": "Earthy tones, with shades of gold, cream, and brown, punctuated by the deep blues and greens of the sky and the forest",
+      "fabric_textures": "Silk, leather, and the soft, luxurious texture of his armour, with a subtle sheen that hints at its divine origins",
+      "divine_elements": "A soft, golden glow surrounding his body, with an aura of peace and tranquility that puts those around him at ease"
+    },
+    "voice_profile": {
+      "pitch": "Low, smooth baritone, with a hint of warmth and kindness",
+      "pitch_hz": "80Hz",
+      "tone_quality": "Warm, resonant, and soothing, with a subtle depth that commands attention",
+      "volume_default": "Moderate, with a subtle emphasis on key words and phrases",
+      "speech_speed": "Deliberate and measured, with a pace that invites contemplation and reflection",
+      "accent_flavour": "Subtle, with a hint of rustic warmth and a deep sense of connection to the natural world",
+      "breath_pattern": "Deep, controlled breaths, with a subtle pause before speaking, as if collecting his thoughts",
+      "emotional_range": "Expressive, yet restrained, with a deep sense of empathy and compassion",
+      "signature_sounds": "A soft, gentle laugh, with a hint of warmth and kindness, and a subtle, musical quality to his voice",
+      "tts_voice_match": "Kokoro TTS - 'WarmBaritone'"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a deep understanding of the Sanskrit language and the ancient traditions of his people",
+      "sentence_structure": "Complex, with a subtle emphasis on nuance and context",
+      "signature_phrases": [
+        "'May the gods guide us', 'With humility and compassion', 'In the stillness, we find wisdom'"
+      ],
+      "topics_they_initiate": "Philosophy, spirituality, and the natural world",
+      "topics_they_avoid": "Gossip, politics, and conflict",
+      "how_they_address_others": "With respect and kindness, using titles and honorifics to show their esteem",
+      "dialogue_style": "Reflective, with a deep sense of empathy and compassion, and a willingness to listen and learn"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Compassionate wisdom",
+      "virtues": [
+        "Empathy",
+        "Self-discipline",
+        "Loyalty"
+      ],
+      "flaws": [
+        "Overthinking",
+        "Self-doubt",
+        "Complacency"
+      ],
+      "motivation": "To serve others, and to uphold the principles of justice and compassion",
+      "fear": "Failure, and the loss of those he loves",
+      "internal_conflict": "The tension between his desire for peace and his duty to defend his family and kingdom",
+      "relationship_with_dharma": "Deep respect, and a commitment to upholding the natural order of the universe",
+      "in_battle": "Focused, with a deep sense of calm and clarity, and a willingness to adapt to changing circumstances",
+      "in_peace": "Reflective, with a deep sense of empathy and compassion, and a willingness to listen and learn"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Sahadeva, son of Madri, standing in a serene, natural environment, with a subtle, golden glow surrounding his body, --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "A calm, compassionate warrior, with a deep sense of inner peace, and a connection to the natural world, standing in a forest glade, with a soft, warm light",
+      "negative_prompt": "No modern clothing, no urban environment, no aggressive or confrontational pose",
+      "reference_style": "Amar Chitra Katha illustrations, with a subtle, dreamlike quality",
+      "lighting_setup": "Soft, warm, and natural, with a deep sense of depth and dimensionality",
+      "camera_angle": "Eye-level, with a subtle, slight low-angle perspective, to emphasize his calm, compassionate nature"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing still, with a subtle, gentle sway, as if swaying in the breeze",
+      "walk_cycle": "Slow, deliberate, and peaceful, with a deep sense of connection to the natural world",
+      "battle_stance": "Focused, with a deep sense of calm and clarity, and a willingness to adapt to changing circumstances",
+      "signature_gesture": "A subtle, gentle bow, with a deep sense of respect and humility",
+      "entry_animation": "Emerging from a natural environment, such as a forest or a mountain range, with a subtle, golden glow surrounding his body"
+    },
+    "differentiation_from_others": "Sahadeva's calm, compassionate nature, and his deep sense of connection to the natural world, set him apart from other characters, as does his subtle, golden glow, and his elegant, yet simple, attire. His reflective, empathetic personality, and his willingness to listen and learn, make him a unique and compelling character, with a deep sense of inner peace and wisdom."
+  },
+  {
+    "name": "Dushasana",
+    "sanskrit_name": "दुःशासन (Dushasana) - He who is difficult to rule",
+    "role": "Kaurava warrior, brother of Duryodhana",
+    "faction": "Kaurava",
+    "age_appearance": "Late youth to early adulthood, with a strong and intimidating presence",
+    "physical_appearance": {
+      "height": "Tall and muscular at around 6'1\" with a broad, imposing frame",
+      "build": "Powerfully built, with well-defined muscles and a commanding presence",
+      "skin_tone": "Deep golden brown, reminiscent of polished copper",
+      "face_shape": "Strong, angular features with high cheekbones and a prominent jawline",
+      "eyes": "Almond-shaped, dark brown eyes that seem to bore into those he looks at, with a sharp, intelligent glint",
+      "hair": "Dark brown, shoulder-length hair, often tied back in a simple knot",
+      "facial_hair": "A short, neatly trimmed beard that accentuates his strong jawline",
+      "distinctive_marks": "A small scar above his left eyebrow from a childhood accident, and a series of intricate, tribal-like tattoos on his right arm",
+      "posture": "Confident and assertive, with a tendency to stand tall and expand his chest, as if daring others to challenge him"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A rich, golden dhoti made from the finest Kanchipuram silk, wrapped around his waist in a complex, elegant pattern",
+      "upper_body": "A sleeveless, leather armour piece that covers his torso, adorned with small, shimmering silver rivets",
+      "armour": "A pair of sturdy, bronze greaves that protect his shins, and a set of articulated, leather arm guards",
+      "weapons_carried": "A long, curved sword at his left hip, and a small, leather quiver on his back containing a dozen arrows",
+      "jewellery": "A simple, gold armlet on his right bicep, and a pair of large, polished silver earrings that glint in the light",
+      "footwear": "A pair of sturdy, knee-high leather boots, adorned with small, intricate buckles",
+      "colour_palette": "Deep gold, rich brown, and polished silver - a palette that reflects his wealth, status, and martial prowess",
+      "fabric_textures": "The smooth, lustrous texture of silk, the rough, pebbled texture of leather, and the cold, metallic sheen of bronze",
+      "divine_elements": "A small, glowing gemstone set into the hilt of his sword, said to grant the wielder strength and courage in battle"
+    },
+    "voice_profile": {
+      "pitch": "A deep, resonant baritone, perfect for commanding attention and inspiring loyalty",
+      "pitch_hz": "Around 80Hz, with a rich, sonorous quality that seems to vibrate through the air",
+      "tone_quality": "Warm and authoritative, with a hint of roughness that suggests a life of hard-won experience",
+      "volume_default": "Loud and clear, with a tendency to project his voice across the battlefield or in the midst of a crowded hall",
+      "speech_speed": "Moderate to fast, around 120wpm, with a tendency to slow down and emphasize key points when speaking",
+      "accent_flavour": "A northern Vedic accent, with a hint of rustic, rural flavour that reflects his upbringing in the Kaurava court",
+      "breath_pattern": "Deep, controlled breaths that seem to fill his lungs, followed by slow, measured exhales that suggest a life of discipline and self-control",
+      "emotional_range": "A wide range of emotions, from calm, measured tones to passionate, fiery outbursts that can shake the very foundations of the earth",
+      "signature_sounds": "A low, rumbling laugh that seems to shake his entire body, and a sharp, cutting tone that can slice through even the most heated of arguments",
+      "tts_voice_match": "The 'Deep Voice' profile on ElevenLabs, with a slight adjustment to the pitch and tone to better reflect Dushasana's unique vocal characteristics"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal and scholarly, with a tendency to use complex, poetic language when speaking",
+      "sentence_structure": "Long, winding sentences that seem to twist and turn like a serpent, with a tendency to use metaphors and allegories to make his points",
+      "signature_phrases": [
+        "By the honour of the Kauravas!",
+        "I swear it upon my sword!",
+        "You will pay for your insolence!"
+      ],
+      "topics_they_initiate": "War, honour, loyalty, and the duties of a warrior",
+      "topics_they_avoid": "His own personal feelings or weaknesses, as well as any topic that might be seen as 'soft' or 'weak'",
+      "how_they_address_others": "With a mixture of respect and condescension, depending on the person's status and position",
+      "dialogue_style": "Direct and forceful, with a tendency to dominate the conversation and impose his will on others"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unyielding loyalty to his family and kingdom",
+      "virtues": [
+        "Courage",
+        "Loyalty",
+        "Strength"
+      ],
+      "flaws": [
+        "Arrogance",
+        "Hot-headedness",
+        "A tendency to underestimate others"
+      ],
+      "motivation": "A desire to protect and serve his family, and to prove himself as a worthy warrior",
+      "fear": "Failure, and the loss of honour and reputation",
+      "internal_conflict": "A constant struggle to balance his own desires and impulses with the demands of duty and loyalty",
+      "relationship_with_dharma": "A complex and often conflicted one, as he struggles to reconcile his own sense of honour and duty with the demands of a rapidly changing world",
+      "in_battle": "A force to be reckoned with, using his strength, courage, and martial prowess to devastating effect",
+      "in_peace": "A proud and sometimes arrogant figure, who can come across as aloof or dismissive to those who do not know him"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Dushasana, the Kaurava warrior, standing proudly in his golden armour, with his sword at his side and a confident glint in his eye. --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Dushasana, the Kaurava warrior, in his golden armour, with his sword and shield, standing proudly in a sun-drenched landscape. Positive tags: strong, confident, warrior, Kaurava, golden armour",
+      "negative_prompt": "Avoid any images that depict Dushasana as weak, timid, or unsure of himself. No images that show him without his armour or sword.",
+      "reference_style": "A mix of Baahubali film aesthetic and Amar Chitra Katha illustrations, with a focus on bold lines, vibrant colours, and dynamic poses",
+      "lighting_setup": "A warm, golden light that seems to emanate from within Dushasana himself, with deep shadows that accentuate his strong features and powerful physique",
+      "camera_angle": "A low angle, looking up at Dushasana as he stands proudly, with his sword at his side and his eyes gleaming with confidence"
+    },
+    "animation_notes": {
+      "idle_animation": "A slow, relaxed pose, with his weight shifted onto one leg and his sword hand resting on the hilt of his sword",
+      "walk_cycle": "A strong, purposeful stride, with his head held high and his shoulders back",
+      "battle_stance": "A wide, aggressive stance, with his feet shoulder-width apart and his sword at the ready",
+      "signature_gesture": "A sharp, cutting motion with his hand, as if slicing through the air with his sword",
+      "entry_animation": "A dramatic, sweeping motion, as if Dushasana is emerging from the very shadows themselves, his sword and armour glinting in the light"
+    },
+    "differentiation_from_others": "Dushasana's unique blend of physical and personality traits, including his towering height, broad shoulders, and confident stride, make him instantly recognizable. His golden armour and sword, adorned with intricate patterns and symbols, are a testament to his wealth and status as a Kaurava warrior. His deep, resonant voice and poetic language, combined with his tendency to dominate conversations and impose his will on others, make him a formidable presence in any scene. Whether standing proudly in his armour or charging into battle with his sword, Dushasana is a character who demands attention and inspires awe."
+  },
+  {
+    "name": "Karna",
+    "sanskrit_name": "कarna, meaning 'the ear' or 'one who is born from the ear' of his mother Kunti",
+    "role": "Warrior",
+    "faction": "Kaurava",
+    "age_appearance": "Late 20s to early 30s, with a strong, imposing physique and an aura of quiet confidence",
+    "physical_appearance": {
+      "height": "Towering at around 6'2\" with a muscular yet lean build, broad shoulders and a deep chest",
+      "build": "V-tapered warrior's physique with well-defined muscles, honed from years of intense training and battle",
+      "skin_tone": "Deep wheatish bronze, like the sun-kissed earth of the Indian plains",
+      "face_shape": "Chiseled features with high cheekbones, a strong brow ridge, and a sharp jawline",
+      "eyes": "Almond-shaped, piercing brown eyes that seem to bore into those he looks at, with a hint of sadness and depth",
+      "hair": "Dark black hair that falls to his shoulders, often tied back in a simple yet elegant knot",
+      "facial_hair": "A short, well-groomed beard that frames his face and adds to his aura of quiet strength",
+      "distinctive_marks": "A golden Kavacha (armour) that is said to make him invulnerable, a gift from the Sun God Surya",
+      "posture": "Perfectly upright, with a commanding presence that draws the eye and inspires respect"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A golden dhoti in Kanchipuram silk, pleated and draped elegantly around his waist",
+      "upper_body": "A sleeveless, golden-hued armour that covers his chest and shoulders, adorned with intricate engravings",
+      "armour": "The Kavacha Kundala, a divine armour that is said to make him invulnerable, fused to his skin and glowing with a soft, golden light",
+      "weapons_carried": "A powerful bow, the Vijaya, slung over his shoulder, and a quiver full of arrows at his hip",
+      "jewellery": "A golden necklace with a small, gleaming sun emblem, symbolizing his connection to Surya",
+      "footwear": "Golden sandals that seem to shine like the sun, with delicate straps that crisscross his feet",
+      "colour_palette": "Gold, bronze, and dark brown, with hints of deep crimson and blue",
+      "fabric_textures": "The soft sheen of Kanchipuram silk, the rough texture of leather, and the smooth, metallic glow of his armour",
+      "divine_elements": "The Kavacha Kundala, his divine armour, which glows with a soft, golden light and seems to pulse with an inner energy"
+    },
+    "voice_profile": {
+      "pitch": "Deep baritone, with a resonant, commanding quality that draws the listener in",
+      "pitch_hz": "85Hz",
+      "tone_quality": "Warm, rich, and authoritative, with a hint of sadness and depth",
+      "volume_default": "Moderate, with a tendency to rise in passion or emphasis",
+      "speech_speed": "Slow and measured, around 90wpm, with a tendency to pause for emphasis or effect",
+      "accent_flavour": "A slightly rustic, countryside flavour, reflecting his humble origins and upbringing",
+      "breath_pattern": "Long, controlled breaths, with a tendency to exhale slowly and deliberately",
+      "emotional_range": "Moderate, with a tendency to rise in passion or excitement, but also to fall in moments of sadness or introspection",
+      "signature_sounds": "A low, rumbling laugh, a sharp click of the tongue in annoyance or frustration",
+      "tts_voice_match": "Kokoro TTS, with a custom voice profile that captures his unique tone and timbre"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a tendency to use poetic or literary language in moments of passion or emphasis",
+      "sentence_structure": "Complex, with a tendency to use long, winding sentences that reflect his thoughts and emotions",
+      "signature_phrases": [
+        "I am Karna, the son of Kunti",
+        "I will not be defeated",
+        "I will fight for what is right"
+      ],
+      "topics_they_initiate": "War, duty, honour, and the complexities of human relationships",
+      "topics_they_avoid": "His own emotions, his past, or his relationships with others",
+      "how_they_address_others": "With respect and courtesy, using titles or honorifics to address those he considers his equals or superiors",
+      "dialogue_style": "Formal, with a tendency to use poetic or literary language, and a strong sense of drama and flair"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering loyalty and duty",
+      "virtues": [
+        "Courage",
+        "Honour",
+        "Loyalty"
+      ],
+      "flaws": [
+        "Pride",
+        "Anger",
+        "Self-doubt"
+      ],
+      "motivation": "To prove himself as a warrior and a hero, and to earn the respect and admiration of others",
+      "fear": "Being rejected or abandoned by those he loves and respects",
+      "internal_conflict": "The tension between his loyalty to his friends and allies, and his own sense of duty and honour",
+      "relationship_with_dharma": "A complex and nuanced one, reflecting his own inner conflicts and doubts",
+      "in_battle": "A fierce and formidable warrior, with a tendency to fight with passion and intensity",
+      "in_peace": "A quiet and introspective person, with a tendency to withdraw into himself and his own thoughts"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Karna, the son of Kunti, standing tall and proud, with his golden armour and his bow, Vijaya, in a golden, sun-kissed landscape, with a sense of drama and flair, --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Karna, the warrior, with his golden armour and his bow, in a heroic, larger-than-life pose, with a sense of movement and energy, and a warm, golden light",
+      "negative_prompt": "No dark or muted colours, no dull or lifeless textures, no sense of sadness or defeat",
+      "reference_style": "Amar Chitra Katha illustrations, with a sense of drama and flair, and a strong emphasis on colour and texture",
+      "lighting_setup": "A warm, golden light, with a sense of depth and dimensionality, and a strong emphasis on highlighting Karna's facial features and expressions",
+      "camera_angle": "A low angle, looking up at Karna, with a sense of awe and respect, and a strong emphasis on capturing his heroic, larger-than-life presence"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing tall and proud, with his weight shifted slightly onto one leg, and a sense of quiet confidence and authority",
+      "walk_cycle": "A slow and deliberate walk, with a sense of purpose and determination, and a strong emphasis on capturing the movement and flow of his golden armour",
+      "battle_stance": "A fierce and formidable stance, with his bow at the ready, and a sense of intensity and focus",
+      "signature_gesture": "A slow, deliberate bow, with a sense of respect and courtesy, and a strong emphasis on capturing the movement and flow of his golden armour",
+      "entry_animation": "A dramatic and heroic entrance, with a sense of movement and energy, and a strong emphasis on capturing Karna's larger-than-life presence and charisma"
+    },
+    "differentiation_from_others": "Karna's unique combination of physical and emotional characteristics, including his golden armour, his bow, and his sense of quiet confidence and authority, make him unmistakable and unforgettable. His sense of drama and flair, his tendency to use poetic or literary language, and his strong emphasis on honour and duty, set him apart from other characters and make him a compelling and complex figure. His inner conflicts and doubts, his sense of self-doubt and uncertainty, and his tendency to withdraw into himself and his own thoughts, add depth and nuance to his character, and make him a rich and compelling subject for animation and storytelling."
+  },
+  {
+    "name": "Shakuni",
+    "sanskrit_name": "शakuni (Shakuni) - Meaning: 'Bird' or 'one who has the nature of a bird', implying cunning and adaptability",
+    "role": "Master strategist, warrior, and uncle of the Kauravas",
+    "faction": "Kaurava",
+    "age_appearance": "Middle-aged, with an appearance that belies his age and intellect, often underestimated by his foes due to his slight frame and age",
+    "physical_appearance": {
+      "height": "Slightly below average height, around 5'6\", with a lean and agile build, allowing for quick movements and unexpected strength",
+      "build": "Lean and wiry, indicative of his strategic and cunning nature rather than brute physical strength",
+      "skin_tone": "Fair to medium complexion, with a subtle golden undertone, hinting at his noble lineage",
+      "face_shape": "Oval face with high cheekbones, a sharp jawline, and a pointed chin, giving him a fox-like appearance",
+      "eyes": "Piercing brown eyes, almond-shaped and slanted upwards slightly at the outer corners, full of intelligence and cunning",
+      "hair": "Dark brown hair, often neatly combed back and tied in a simple knot, reflecting his practical and no-nonsense approach to life",
+      "facial_hair": "Well-groomed beard and mustache, trimmed short to maintain a neat and dignified appearance",
+      "distinctive_marks": "A small, intricate tattoo of a dice on his left palm, symbolizing his mastery over chance and fate",
+      "posture": "Upright and confident, with a subtle air of superiority, reflecting his intellectual prowess and strategic mind"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "Richly embroidered silk dhoti in shades of deep blue and gold, reflecting his noble status and affinity for luxury",
+      "upper_body": "A matching blue and gold angarkha (long tunic) with intricate patterns, covering his torso and symbolizing his connection to the royal family",
+      "armour": "Light, flexible leather armour underneath his garments for protection, allowing for mobility and stealth",
+      "weapons_carried": "A short sword at his side and a set of dice hidden in his clothing, reflecting his preference for strategy over brute force",
+      "jewellery": "A simple yet elegant gold necklace with a small, polished stone pendant, symbolizing his connection to his family and heritage",
+      "footwear": "Comfortable, soft leather sandals, suitable for both walking and riding, reflecting his practicality",
+      "colour_palette": "Deep blues, golds, and creamy whites, reflecting his noble lineage and taste for elegance",
+      "fabric_textures": "Silk, fine cotton, and soft leather, chosen for comfort and luxury",
+      "divine_elements": "A small, almost imperceptible glow around the dice tattoo on his palm, hinting at his divine connection to fate and chance"
+    },
+    "voice_profile": {
+      "pitch": "Mid-range tenor with a smooth, velvety quality, capable of conveying both warmth and menace",
+      "pitch_hz": "120Hz, giving him a voice that is both clear and commanding",
+      "tone_quality": "Smooth, with a hint of sharpness when he is being cunning or ironic, making his voice unforgettable",
+      "volume_default": "Moderate, with the ability to raise or lower his voice to suit the situation, showing his control over his emotions",
+      "speech_speed": "Rapid and engaging, with a tendency to slow down for emphasis or effect, reflecting his strategic thinking",
+      "accent_flavour": "Refined, with a hint of the Gandhara region's distinct dialect, giving a touch of his origin and upbringing",
+      "breath_pattern": "Controlled, deep breaths, often preceding a crucial statement or move, showing his calm and calculated approach",
+      "emotional_range": "Expressive, but with a tendency to restraint, only fully revealing his emotions in moments of great intensity or triumph",
+      "signature_sounds": "A faint, low chuckle when amused or pleased, and a sharp, clicking sound with his tongue when annoyed or dismissive",
+      "tts_voice_match": "Kokoro TTS's 'Elegant Strategist' voice profile, capturing the essence of Shakuni's refined and cunning personality"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly, with a preference for precise, evocative words that convey complex ideas and strategies",
+      "sentence_structure": "Complex, often layering multiple ideas or suggestions within a single sentence, reflecting his mastery of strategy and diplomacy",
+      "signature_phrases": [
+        "The dice have been cast.",
+        "Fate is not to be trifled with.",
+        "A good strategist always adapts."
+      ],
+      "topics_they_initiate": "Politics, strategy, the art of war, and the nature of fate and chance",
+      "topics_they_avoid": "Personal feelings, emotional vulnerabilities, and direct confrontations unless absolutely necessary",
+      "how_they_address_others": "With titles and respect, unless he intends to unsettle or belittle, in which case he uses direct, piercing language",
+      "dialogue_style": "Engaging, layered with meaning, and often laced with subtle irony or double meanings, making conversations with him both intriguing and challenging"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Cunning strategic mind",
+      "virtues": [
+        "Intellectual honesty",
+        "Loyalty to those he cares about",
+        "Adaptability"
+      ],
+      "flaws": [
+        "Manipulative tendencies",
+        "Overconfidence in his strategies",
+        "Emotional detachment"
+      ],
+      "motivation": "To prove the superiority of his intellect and strategic prowess, often through the success of those he supports",
+      "fear": "Being outmaneuvered or outsmarted, which would undermine his sense of self-worth and identity",
+      "internal_conflict": "The struggle between his desire for recognition and his need to manipulate events from behind the scenes, leading to feelings of isolation",
+      "relationship_with_dharma": "He sees dharma as a set of rules and guidelines that can be used strategically, rather than moral absolutes",
+      "in_battle": "Cold, calculating, and always looking for the strategic advantage, willing to use any means necessary to achieve victory",
+      "in_peace": "Charismatic, engaging, and intellectually stimulating, enjoying the company of others as long as it serves his interests or provides mental stimulation"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 3000 a dignified, cunning Shakuni from the Mahabharata, dressed in deep blue and gold silk, with a sharp, strategic gaze, standing against a backdrop of a luxurious, ancient Indian palace, with golden accents and soft, warm lighting",
+      "stable_diffusion_prompt": "Shakuni from the Mahabharata, dressed in luxury, with a piercing gaze, intricate dice tattoo on his left palm, against a lavish ancient Indian setting, with high detail and realistic lighting, no blur",
+      "negative_prompt": "No modern clothing, no weapons visible, no extreme facial expressions, avoid any dark or ominous lighting",
+      "reference_style": "A mix of traditional Indian art and realistic, detailed CGI, blending historical accuracy with a touch of mythological flair",
+      "lighting_setup": "Soft, warm golden lighting to emphasize luxury and sophistication, with subtle shadows to hint at his mysterious nature",
+      "camera_angle": "Slightly above eye level, looking down, to convey a sense of power and strategic oversight"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing with a slight lean forward, as if always ready to move or react, with his eyes scanning the surroundings",
+      "walk_cycle": "Purposeful strides, with a subtle bounce in his step, indicating energy and a sense of direction",
+      "battle_stance": "Balanced, with his weight evenly distributed between both feet, ready to move in any direction, with his sword at the ready",
+      "signature_gesture": "Tapping his fingers on the hilt of his sword or the dice in his palm, a habit when thinking or anticipating a move",
+      "entry_animation": "Entering with a flourish, his movements fluid and calculated, as if he has always been part of the scene, commanding attention without demanding it"
+    },
+    "differentiation_from_others": "Shakuni is unmistakable due to his unique blend of elegance, strategic brilliance, and cunning nature. His sharp, piercing gaze, combined with his refined and commanding presence, sets him apart from other characters. The intricate dice tattoo on his palm and his affinity for luxurious attire are also distinctive features that make him visually recognizable. Additionally, his voice, with its smooth, velvety quality and mid-range tenor, is both captivating and unforgettable, further distinguishing him from others."
+  },
+  {
+    "name": "Krishna",
+    "sanskrit_name": "कृष्ण (Kṛṣṇa), meaning 'dark' or 'all-attractive'",
+    "role": "Divine prince, warrior, and sage",
+    "faction": "Pandava / Divine",
+    "age_appearance": "Apparent age range of 25-30 years, with a strong, athletic build and an ageless, divine aura",
+    "physical_appearance": {
+      "height": "Tall and stately, standing around 5'10\" with a powerful, muscular frame",
+      "build": "Broad-shouldered, V-tapered physique with a strong, warrior's build",
+      "skin_tone": "Deep, wheatish bronze, like the colour of dark, polished wood",
+      "face_shape": "Chiseled, square jawline with high cheekbones and a strong brow ridge",
+      "eyes": "Lotus-shaped, with deep, piercing eyes that shine like amber gold in the sunlight",
+      "hair": "Dark black, shoulder-length hair, often tied in a warrior's knot with a peacock feather",
+      "facial_hair": "Clean-shaven, with a smooth, divine complexion",
+      "distinctive_marks": "The Sudarshana chakra mark on his right palm, and lotus-shaped feet",
+      "posture": "Perfectly upright, with a commanding, relaxed confidence that is both authoritative and calming"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A golden dhoti in Kanchipuram silk, with intricate, divine embroidery",
+      "upper_body": "A sleeveless, golden armour that showcases his powerful physique",
+      "armour": "The Kavacha Kundala, a golden, divine armour that is fused to his skin and glows with an inner light",
+      "weapons_carried": "The Gandiva bow across his back, with two quivers and a sword at his left hip",
+      "jewellery": "A golden, divine crown with peacock feathers, and a Kaustubha gemstone around his neck",
+      "footwear": "Golden, divine sandals that shine like the sun",
+      "colour_palette": "Gold, blue, and white, with a hint of divine, otherworldly light",
+      "fabric_textures": "Hammered gold, peacock feather sheen, and the soft, luxurious texture of Kanchipuram silk",
+      "divine_elements": "A glowing, divine aura that surrounds his body, with the Sudarshana chakra mark on his right palm"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone, like the sound of a divine, cosmic drum",
+      "pitch_hz": "85Hz, with a rich, harmonically complex timbre",
+      "tone_quality": "Warm, velvety smooth, with a hint of divine, otherworldly authority",
+      "volume_default": "Controlled and measured, with a voice that carries far and wide",
+      "speech_speed": "Slow and deliberate, with a pace that is both calming and authoritative",
+      "accent_flavour": "Northern Vedic formality, with a hint of Yadava rustic warmth and a deep, cosmic wisdom",
+      "breath_pattern": "Long, controlled breaths, with a sense of inner peace and divine calm",
+      "emotional_range": "Barely changes, with a voice that remains calm and authoritative, even in the most intense situations",
+      "signature_sounds": "A low, rumbling laugh, and a clicking tongue that signals his divine, otherworldly wisdom",
+      "tts_voice_match": "Kokoro TTS, with a customized voice profile that captures his unique, divine timbre"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly and divine, with a deep understanding of the ancient Vedic scriptures",
+      "sentence_structure": "Long, philosophical, and poetic, with a style that is both ornate and profound",
+      "signature_phrases": [
+        "'Yada yada hi dharmasya...', 'Karmanye vadhikaraste...', 'Sarva dharman parityajya..."
+      ],
+      "topics_they_initiate": "Divine wisdom, cosmic duty, and the secrets of the universe",
+      "topics_they_avoid": "Personal, mundane, or worldly matters that distract from the divine path",
+      "how_they_address_others": "With respect, compassion, and an understanding of their unique, divine potential",
+      "dialogue_style": "Cryptic and layered, with a style that is both poetic and profoundly wise"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Divine wisdom and compassion",
+      "virtues": [
+        "Wisdom",
+        "Compassion",
+        "Courage"
+      ],
+      "flaws": [
+        "Detachment",
+        "Mystery",
+        "Divine aloofness"
+      ],
+      "motivation": "To guide humanity towards the divine path, and to fulfill his cosmic duty",
+      "fear": "The darkness of ignorance, and the suffering of those who are lost",
+      "internal_conflict": "The tension between his divine nature and his human, worldly responsibilities",
+      "relationship_with_dharma": "A deep understanding of the cosmic duty, and a commitment to upholding the divine order",
+      "in_battle": "Strategic calm, with a focus on protecting the innocent and vanquishing the forces of darkness",
+      "in_peace": "Compassionate, wise, and profoundly present, with a deep understanding of the human condition"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --q 2 --ar 2:3 a hyper-realistic, divine avatar of Krishna, with a golden dhoti, and a Gandiva bow, in a serene, natural environment, with a warm, golden light, and a sense of profound wisdom and compassion",
+      "stable_diffusion_prompt": "A divine, hyper-realistic avatar of Krishna, with a golden dhoti, and a Gandiva bow, in a serene, natural environment, with a warm, golden light, and a sense of profound wisdom and compassion, --v 5 --q 2 --ar 2:3",
+      "negative_prompt": "Avoid any images that depict Krishna as mundane, or worldly, or without his divine, golden aura",
+      "reference_style": "Hyper-realistic CGI, with a hint of divine, otherworldly light, and a deep understanding of the cosmic, Vedic scriptures",
+      "lighting_setup": "A warm, golden light, that shines from within, and illuminates the surrounding environment",
+      "camera_angle": "A low angle, looking up, that captures his divine, authoritative presence"
+    },
+    "animation_notes": {
+      "idle_animation": "Perfectly still, like a statue, with a sense of profound calm, and inner peace",
+      "walk_cycle": "A slow, powerful stride, that conveys his divine, authoritative presence",
+      "battle_stance": "A strong, warrior's stance, with the Gandiva bow at the ready, and a sense of focused, divine intent",
+      "signature_gesture": "A sideways head tilt, with a slight smile, that signals his divine, otherworldly wisdom",
+      "entry_animation": "A dramatic, divine entrance, with a flash of golden light, and a sense of profound, cosmic energy"
+    },
+    "differentiation_from_others": "Krishna's divine, golden aura, and his profound, otherworldly wisdom, set him apart from all other characters, and make him unmistakable, with a presence that is both authoritative, and profoundly compassionate. His unique, warrior's physique, and his mastery of the Gandiva bow, also distinguish him from others, and make him a powerful, divine figure, who is both feared, and revered. His slow, deliberate speech, and his poetic, philosophical language, also set him apart, and make him a deeply wise, and profoundly insightful character, who is both a guide, and a mentor, to those who seek the divine path."
+  },
+  {
+    "name": "Draupadi",
+    "sanskrit_name": "Draupadi - Daughter of Drupada",
+    "role": "Queen of the Pandavas",
+    "faction": "Pandava",
+    "age_appearance": "Age 25-30, with a youthful yet mature and strong presence",
+    "physical_appearance": {
+      "height": "Tall and statuesque, around 5'8\" with an athletic build",
+      "build": "Lithe, hourglass figure with toned muscles",
+      "skin_tone": "Deep, golden wheatish complexion with a warm glow",
+      "face_shape": "Heart-shaped face with high cheekbones and a pointed chin",
+      "eyes": "Large, expressive, dark brown eyes that seem to hold a deep wisdom",
+      "hair": "Long, dark, luscious hair often adorned with flowers and tied in an elegant braid",
+      "facial_hair": "No facial hair, with a smooth and radiant complexion",
+      "distinctive_marks": "A small, delicate nose ring and a subtle, enigmatic smile",
+      "posture": "Confident and poised, with an effortless elegance"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A rich, red silk saree draped in the traditional Panchala style",
+      "upper_body": "A golden blouse with intricate, gemstone-encrusted patterns",
+      "armour": "No visible armour, but an aura of inner strength and resilience",
+      "weapons_carried": "None visible, but often depicted with a small, delicate dagger",
+      "jewellery": "Intricate, golden ornaments adorned with precious gems, including a prominent, glittering nose ring",
+      "footwear": "Delicate, gemstone-studded anklets and elegant, red silk sandals",
+      "colour_palette": "Deep reds, golden yellows, and rich, earthy browns",
+      "fabric_textures": "Silk, gold, and precious gems, with an emphasis on luxurious, tactile fabrics",
+      "divine_elements": "A soft, ethereal aura that hints at her divine, celestial origins"
+    },
+    "voice_profile": {
+      "pitch": "Melodious, mid-range soprano with a warm, rich timbre",
+      "pitch_hz": "230Hz",
+      "tone_quality": "Smooth, velvety, and soothing, with a subtle, underlying strength",
+      "volume_default": "Soft and measured, with a tendency to speak from the heart",
+      "speech_speed": "Moderate, around 120wpm, with a natural, effortless flow",
+      "accent_flavour": "Subtle, refined, and cultured, with hints of ancient, Vedic wisdom",
+      "breath_pattern": "Long, controlled breaths, with a calm, peaceful centre",
+      "emotional_range": "Expressive and varied, with a deep emotional intelligence",
+      "signature_sounds": "A soft, gentle laugh, and a subtle, enigmatic smile",
+      "tts_voice_match": "Kokoro TTS - Female, Soft, and Soothing"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Refined, cultured, and scholarly, with a deep understanding of ancient lore",
+      "sentence_structure": "Eloquent, poetic, and expressive, with a natural, storytelling flair",
+      "signature_phrases": [
+        "I am the daughter of Drupada, and the queen of the Pandavas",
+        "My heart belongs to my husbands, and my soul to the divine",
+        "In the midst of turmoil, I remain steadfast, like a lotus in the storm"
+      ],
+      "topics_they_initiate": "Philosophy, spirituality, and the intricacies of the human heart",
+      "topics_they_avoid": "Gossip, petty squabbles, and mundane, worldly concerns",
+      "how_they_address_others": "With respect, empathy, and a deep understanding of their inner struggles",
+      "dialogue_style": "Poetic, introspective, and deeply personal, with a natural, empathetic resonance"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering inner strength",
+      "virtues": [
+        "Compassion",
+        "Wisdom",
+        "Courage"
+      ],
+      "flaws": [
+        "Vulnerability to emotional pain",
+        "Tendency to internalize struggles",
+        "Difficulty in expressing anger or assertiveness"
+      ],
+      "motivation": "To protect and nurture those she loves, and to uphold the principles of justice and righteousness",
+      "fear": "Losing those she loves, and failing to fulfill her duties as a queen and a wife",
+      "internal_conflict": "The struggle to balance her own desires and needs with the demands of her role and responsibilities",
+      "relationship_with_dharma": "A deep, unwavering commitment to the principles of righteousness and justice",
+      "in_battle": "Courageous, strategic, and fiercely protective of her loved ones",
+      "in_peace": "Nurturing, compassionate, and deeply empathetic, with a natural, healing presence"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 750 a portrait of Draupadi, the queen of the Pandavas, in a traditional Panchala saree, with intricate, gemstone-encrusted ornaments, and a soft, ethereal aura",
+      "stable_diffusion_prompt": "Draupadi, queen of the Pandavas, in a traditional Panchala saree, with intricate, gemstone-encrusted ornaments, and a soft, ethereal aura, elegant, refined, and cultured, with a deep, inner strength",
+      "negative_prompt": "avoiding clichés, stereotypes, or overly dramatic representations",
+      "reference_style": "Baahubali film aesthetic, with a blend of traditional, Indian classical art and modern, cinematic flair",
+      "lighting_setup": "Soft, warm, and golden, with a subtle, mystical glow",
+      "camera_angle": "Eye-level, with a subtle, slight tilt, to convey a sense of intimacy and connection"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing tall, with a soft, gentle sway, as if swaying to the rhythm of the wind",
+      "walk_cycle": "Elegant, fluid, and refined, with a subtle, hip swivel and a soft, whispering of the saree",
+      "battle_stance": "Courageous, fierce, and determined, with a strong, steady gaze and a subtle, inner fire",
+      "signature_gesture": "A subtle, gentle smile, and a soft, enigmatic glance",
+      "entry_animation": "Emerging from a soft, golden light, with a subtle, mystical aura and a gentle, whispering of the wind"
+    },
+    "differentiation_from_others": "Draupadi's unique blend of elegance, refinement, and inner strength sets her apart from other characters. Her traditional Panchala saree, intricate ornaments, and soft, ethereal aura create a distinctive visual identity. Her melodious voice, poetic dialogue, and compassionate personality make her a memorable and relatable character. Her courage, wisdom, and unwavering commitment to justice and righteousness inspire and uplift those around her, making her a true heroine of the Mahabharata."
+  },
+  {
+    "name": "Kunti",
+    "sanskrit_name": "कुन्ती (Kunti) - 'Princess of Kunti Kingdom'",
+    "role": "Queen Mother",
+    "faction": "Pandava",
+    "age_appearance": "Middle-aged, with a regal and wise aura",
+    "physical_appearance": {
+      "height": "Tall, around 5'8\", with a slender yet strong build",
+      "build": "Elegant and refined, with a gentle curves and a quiet strength",
+      "skin_tone": "Fair, with a warm golden undertone, like the first light of dawn",
+      "face_shape": "Oval, with high cheekbones and a smooth, unlined forehead",
+      "eyes": "Large and expressive, with a deep, soulful brown colour, like the evening sky",
+      "hair": "Long and dark, tied in a elegant braid, adorned with a few subtle ornaments",
+      "facial_hair": "None, with a smooth and serene complexion",
+      "distinctive_marks": "A small, delicate nose ring, and a subtle, enigmatic smile",
+      "posture": "Upright and confident, with a quiet authority and poise"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A flowing, silk saree in a deep, rich blue colour, with intricate gold embroidery",
+      "upper_body": "A delicate, gemstone-encrusted blouse, with a subtle, shimmering fabric",
+      "armour": "None, with a focus on elegance and refinement over martial protection",
+      "weapons_carried": "None, with a focus on her role as a queen and a mother",
+      "jewellery": "A few, tasteful ornaments, including a delicate necklace, and a pair of elegant earrings",
+      "footwear": "Ornate, gemstone-encrusted sandals, with a delicate, ankle-high strap",
+      "colour_palette": "Deep blues, rich golds, and warm, golden undertones",
+      "fabric_textures": "Silk, velvet, and intricate, hand-woven embroidery",
+      "divine_elements": "A subtle, shimmering aura, like the soft glow of a candle flame"
+    },
+    "voice_profile": {
+      "pitch": "Warm, and melodious, with a gentle, soothing quality",
+      "pitch_hz": "180Hz",
+      "tone_quality": "Smooth, and refined, with a subtle, musical cadence",
+      "volume_default": "Moderate, with a focus on clarity and precision",
+      "speech_speed": "Deliberate, and measured, with a focus on conveying complex ideas",
+      "accent_flavour": "Refined, and cultured, with a subtle, Vedic influence",
+      "breath_pattern": "Deep, and controlled, with a focus on conveying emotion and emphasis",
+      "emotional_range": "Expressive, and nuanced, with a focus on conveying the depths of human emotion",
+      "signature_sounds": "A soft, musical laugh, and a subtle, clicking sound, when emphasizing a point",
+      "tts_voice_match": "Kokoro TTS - 'Indian Female 2'"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly, and refined, with a focus on conveying complex ideas",
+      "sentence_structure": "Complex, and nuanced, with a focus on conveying subtle shades of meaning",
+      "signature_phrases": [
+        "The path of dharma is not always easy, but it is always right",
+        "A true warrior must always be prepared to face their fears",
+        "The bonds of family are the strongest of all"
+      ],
+      "topics_they_initiate": "Philosophy, spirituality, and the importance of family",
+      "topics_they_avoid": "Gossip, and idle chatter",
+      "how_they_address_others": "With respect, and courtesy, using formal titles and honorifics",
+      "dialogue_style": "Refined, and nuanced, with a focus on conveying complex ideas"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Wisdom and compassion",
+      "virtues": [
+        "Empathy",
+        "Integrity",
+        "Self-discipline"
+      ],
+      "flaws": [
+        "Overprotectiveness",
+        "Emotional turmoil",
+        "Self-doubt"
+      ],
+      "motivation": "The well-being, and happiness of her family",
+      "fear": "The loss of her loved ones",
+      "internal_conflict": "The struggle to balance her own desires, with the needs of her family",
+      "relationship_with_dharma": "A deep, and abiding commitment to the path of righteousness",
+      "in_battle": "Calm, and resolute, with a focus on protecting her loved ones",
+      "in_peace": "Warm, and nurturing, with a focus on building strong relationships"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 1000 a regal, and refined queen, with a warm, and compassionate smile, wearing a flowing, silk saree, in a deep, rich blue colour, with intricate gold embroidery",
+      "stable_diffusion_prompt": "A beautiful, and elegant queen, with a gentle, and refined face, wearing a flowing, silk saree, in a deep, rich blue colour, with intricate gold embroidery, standing in a serene, and peaceful environment",
+      "negative_prompt": "avoid anything crude, or unrefined, avoid anything that looks too modern, or anachronistic",
+      "reference_style": "Amar Chitra Katha illustrations, with a focus on elegant, and refined lines",
+      "lighting_setup": "Soft, and warm, with a focus on conveying a sense of serenity, and peace",
+      "camera_angle": "Slightly elevated, with a focus on conveying a sense of respect, and admiration"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing tall, with a gentle, and subtle sway, as if swaying to the rhythm of a gentle breeze",
+      "walk_cycle": "Elegant, and refined, with a focus on conveying a sense of poise, and confidence",
+      "battle_stance": "Calm, and resolute, with a focus on protecting her loved ones",
+      "signature_gesture": "A gentle, and subtle smile, that conveys a sense of warmth, and compassion",
+      "entry_animation": "A slow, and deliberate entrance, with a focus on conveying a sense of dignity, and respect"
+    },
+    "differentiation_from_others": "Kunti is visually, and aurally unmistakable, due to her refined, and elegant appearance, her warm, and compassionate smile, and her deep, and abiding commitment to the path of righteousness. Her voice is like music, and her words are like pearls of wisdom. She is a true queen, and a shining example of wisdom, and compassion."
+  },
+  {
+    "name": "Gandhari",
+    "sanskrit_name": "Gāndhārī - She who is from Gandhara, a region of great beauty and fragrance",
+    "role": "Queen, matriarch, and a central figure in the Mahabharata",
+    "faction": "Kaurava",
+    "age_appearance": "Middle-aged, appearing as a mature and wise queen in her 40s, with a regal yet worn demeanor from years of blindfolded dedication and strife",
+    "physical_appearance": {
+      "height": "Tall and statuesque, standing at around 5'8\" with a commanding presence",
+      "build": "A strong and maternal build, with broad shoulders and a full figure, symbolizing her role as a queen and a mother",
+      "skin_tone": "A deep, golden brown skin tone, reminiscent of the rich, fertile lands of Gandhara",
+      "face_shape": "A heart-shaped face with high cheekbones, a strong jawline, and a distinctive nose, giving her a unique and memorable appearance",
+      "eyes": "Though blindfolded for most of her life, her eyes are described as being lotus-shaped, with a deep, pools-like quality, and an unwavering intensity",
+      "hair": "Long, dark hair, often tied back in a simple yet elegant knot, adorned with a few, choice jewels, reflecting her status and dignity",
+      "facial_hair": "Clean-shaven, with a smooth, unblemished complexion",
+      "distinctive_marks": "A blindfold covering her eyes, symbolizing her voluntary blindness in solidarity with her husband, and a few, subtle lines etched on her face, telling the story of her life's hardships",
+      "posture": "Perfectly upright, with a quiet confidence and a deep sense of inner strength, commanding respect without needing to demand it"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A rich, golden-brown sari, intricately embroidered with patterns reflecting her Gandharan heritage, draped elegantly around her",
+      "upper_body": "A matching, short-sleeved blouse, adorned with precious gems, covering her shoulders and upper chest",
+      "armour": "No visible armour, as her role is more maternal and diplomatic, though a golden, ornate belt around her waist hints at her royal status",
+      "weapons_carried": "None visible, as she is not a warrior, but a queen and a matriarch",
+      "jewellery": "A simple, yet elegant golden necklace, with a few, choice gems, and matching earrings, reflecting her refined taste and royal status",
+      "footwear": "Ornate, golden sandals, with delicate straps and intricate designs, fitting for a queen",
+      "colour_palette": "Earthy tones, with shades of gold, brown, and deep red, reflecting her connection to the land and her royal lineage",
+      "fabric_textures": "Rich silks, fine cottons, and possibly some wool or velvet, used in her clothing and adornments, reflecting her wealth and status",
+      "divine_elements": "A subtle, divine aura surrounding her, hinting at her deep connection to her family's destiny and the larger, cosmic drama unfolding"
+    },
+    "voice_profile": {
+      "pitch": "A warm, rich, and commanding alto, with a deep, soothing quality",
+      "pitch_hz": "Approximately 160Hz, with a range that can drop to 140Hz for emphasis or rise to 180Hz for passion",
+      "tone_quality": "Smooth, like honey, with a slight, throaty undertone, giving her voice a sense of warmth and authority",
+      "volume_default": "Moderate, with a tendency to speak in a measured, thoughtful manner, though capable of rising to great passion when needed",
+      "speech_speed": "Deliberate and considered, around 100-110 words per minute, allowing her words to carry weight and depth",
+      "accent_flavour": "A slight, Gandharan accent, with its unique melodic intonation and rhythm, adding a touch of exotic beauty to her speech",
+      "breath_pattern": "Deep, controlled breaths, often pausing for emphasis or to allow her words to sink in, demonstrating her wisdom and patience",
+      "emotional_range": "Her voice remains relatively calm and composed, even in the face of great turmoil, though her emotions can be inferred from subtle shifts in tone and pitch",
+      "signature_sounds": "A gentle, soothing hum, sometimes accompanying her speech, and a soft, enigmatic smile that can be heard in her voice",
+      "tts_voice_match": "Closest match would be a customized voice profile blending elements of mature, authoritative voices with a touch of exotic, regal flair"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a deep understanding of ancient lore and philosophical texts, often peppered with metaphors and analogies from nature",
+      "sentence_structure": "Complex, with a tendency to use parables and allegories to convey deeper truths and wisdom",
+      "signature_phrases": [
+        "As the rivers flow to the sea, so too must our actions be guided by the currents of dharma",
+        "The blindfold I wear is not just over my eyes, but also over my heart, for I have dedicated myself to the path of righteousness",
+        "A queen's strength lies not in her arms, but in her heart and her wisdom"
+      ],
+      "topics_they_initiate": "Discussions on duty, morality, and the intricacies of human nature, as well as the stories of her ancestors and the lore of Gandhara",
+      "topics_they_avoid": "Personal grievances or petty squabbles, unless they pertain to the greater good or the fate of her family",
+      "how_they_address_others": "With respect and dignity, using appropriate titles and honorifics, reflecting her own noble upbringing and sense of decorum",
+      "dialogue_style": "Reflective, wise, and guiding, often sharing tales from her past or the wisdom of her ancestors to illuminate the path forward"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering dedication to duty",
+      "virtues": [
+        "Wisdom",
+        "Compassion",
+        "Resilience"
+      ],
+      "flaws": [
+        "Overprotectiveness of her sons",
+        "Blind loyalty to her family, even when misguided",
+        "A tendency to prioritize duty over personal desire"
+      ],
+      "motivation": "The well-being and prosperity of her family, particularly her sons, and the fulfillment of her duty as a queen and a matriarch",
+      "fear": "The downfall of her family and the failure of her sons to fulfill their destinies",
+      "internal_conflict": "The struggle between her duty as a mother to protect her sons and her duty as a queen to uphold justice and righteousness",
+      "relationship_with_dharma": "Deeply respectful and committed, believing in the universal law that guides all actions and their consequences",
+      "in_battle": "Though not a warrior, her presence can inspire and galvanize her sons and allies, reminding them of their duty and the righteousness of their cause",
+      "in_peace": "A pillar of strength and wisdom, guiding her family with compassion and foresight, and working tirelessly for the prosperity of her kingdom"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --q 2 --ar 2:3 A majestic, middle-aged queen with a strong, Gandharan features, wearing a golden-brown sari and adorned with precious gems, standing tall with a commanding presence, blindfolded, with a subtle, divine aura surrounding her, warm, golden lighting, with a slight, soft focus to emphasize her ethereal quality",
+      "stable_diffusion_prompt": "A regal, mature woman, blindfolded, in a golden-brown sari, with intricate embroidery, precious gems, and a divine aura, warm, golden light, soft focus, elegant, refined, majestic, queenly, Gandharan, mythological, realistic, detailed",
+      "negative_prompt": "No modern clothing, no urban setting, no futuristic elements, no overtly dramatic or melodramatic expressions",
+      "reference_style": "A blend of traditional Indian and Middle Eastern aesthetics, with an emphasis on elegance, refinement, and a deep connection to the natural world",
+      "lighting_setup": "Warm, golden lighting, with soft shadows, to emphasize her majestic and ethereal qualities",
+      "camera_angle": "A slight, low angle, looking up, to convey her commanding presence and authority"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing tall, with a slight, gentle sway, as if moved by an unseen breeze, her blindfolded eyes seeming to see right through to the soul",
+      "walk_cycle": "A stately, deliberate walk, with long, flowing strides, as if gliding across the ground, her golden sari shimmering with each step",
+      "battle_stance": "Not applicable, as she is not a warrior, but if needed, a commanding, maternal presence, shielding and protecting those around her",
+      "signature_gesture": "A gentle, soothing touch of her hand, as if blessing or comforting, accompanied by a soft, enigmatic smile",
+      "entry_animation": "Emerging from a warm, golden light, as if born from the sun itself, her presence filling the space with an aura of wisdom, compassion, and authority"
+    },
+    "differentiation_from_others": "Gandhari is unmistakable due to her blindfold, her majestic, commanding presence, and her deep, warm voice, which carries the weight of wisdom and authority. Her unique blend of Gandharan and Kaurava heritage, reflected in her clothing, jewelry, and mannerisms, sets her apart from other characters. Her role as a queen and a matriarch, combined with her unwavering dedication to duty and her family, makes her a compelling and complex figure, impossible to confuse with any other character in the Mahabharata."
+  },
+  {
+    "name": "Bhishma",
+    "sanskrit_name": "Bhishma, meaning 'terrific' or 'fearsome'",
+    "role": "Warrior, advisor, and grandsire of the Kauravas and Pandavas",
+    "faction": "Kaurava",
+    "age_appearance": "Apparent age range: late 60s to early 70s, despite being over 200 years old due to his boon; appears as a strong, towering, and majestic figure with a commanding presence",
+    "physical_appearance": {
+      "height": "Towering at around 6'6\" with a muscular yet lean frame",
+      "build": "Broad-shouldered, V-tapered, with a warrior's physique honed from centuries of martial training and discipline",
+      "skin_tone": "Deep wheatish bronze, like the color of aged, polished copper",
+      "face_shape": "Square jaw, high cheekbones, and a strong brow ridge that speaks to his unyielding resolve",
+      "eyes": "Lotus-shaped, piercing blue eyes that seem to see right through, with an intensity that commands respect and inspires awe",
+      "hair": "Waist-length silver hair, often tied in a simple yet elegant knot, symbolizing his detachment and wisdom",
+      "facial_hair": "A thick, well-groomed white beard that reaches down to his chest, trimmed in a way that adds to his dignity and stature",
+      "distinctive_marks": "A divine mark on his forehead, a symbol of his unmatched prowess and his status as a maharathi",
+      "posture": "Perfectly upright, with a commanding stillness that reflects his unshakeable commitment to his vows and principles"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A golden dhoti made of the finest Kanchipuram silk, draped in a simple yet elegant manner, symbolizing his nobility and purity",
+      "upper_body": "A golden, intricately designed chest plate that shines like the sun, adorned with symbols of his lineage and martial prowess",
+      "armour": "Kavacha Kundala, a divine armour that has been fused to his skin, glowing with an ethereal light that signifies his invincibility in battle",
+      "weapons_carried": "The Bow of Bhishma, a majestic and powerful bow that can shatter even the sturdiest defenses, slung across his back, along with a quiver full of arrows and a sword at his right hip",
+      "jewellery": "A divine crown that signifies his status as a maharathi, along with earrings and a necklace that reflect his deep connection to the divine and the natural world",
+      "footwear": "Wears simple, yet elegant, golden sandals that seem almost divine in their craftsmanship",
+      "colour_palette": "Gold, silver, and bronze, with accents of deep blue and crimson, reflecting his noble lineage, martial prowess, and spiritual depth",
+      "fabric_textures": "The sheen of silk, the glow of hammered gold, and the softness of deerskin, all blending together to create a visual tapestry that is both regal and awe-inspiring",
+      "divine_elements": "An aura of divine light surrounds him, symbolizing his deep connection to the divine and his status as a demigod"
+    },
+    "voice_profile": {
+      "pitch": "A deep, resonant baritone, commanding attention and respect",
+      "pitch_hz": "Around 75Hz, with a rich, sonorous quality that can both soothe and inspire",
+      "tone_quality": "Warm, authoritative, and wise, with a hint of ancient knowledge and experience",
+      "volume_default": "Speaks in a measured, controlled tone, never raising his voice unless the situation demands it",
+      "speech_speed": "Around 110 words per minute, with a slow, deliberate pace that reflects his thoughtful and considered nature",
+      "accent_flavour": "A northern Vedic formality, with hints of ancient wisdom and a deep connection to the traditions of the past",
+      "breath_pattern": "Takes long, controlled breaths, reflecting his mastery over his emotions and his deep inner peace",
+      "emotional_range": "His voice remains steady and calm, even in the face of great turmoil, reflecting his unwavering commitment to his principles and his unshakeable resolve",
+      "signature_sounds": "A low, rumbling laugh that can be heard rarely, and the sound of his bowstring being drawn, which strikes fear into the hearts of his enemies",
+      "tts_voice_match": "The closest match would be a deep, resonant voice with a hint of authority and wisdom, such as the 'Narrator' voice on ElevenLabs"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly, with a deep understanding of the ancient scriptures and the nuances of language",
+      "sentence_structure": "Complex, with a fondness for metaphors and allegories that reflect his deep understanding of the human condition",
+      "signature_phrases": [
+        "I am Bhishma, the son of Ganga",
+        "I will not back down from my duty",
+        "The truth is not always easy to hear, but it must be spoken"
+      ],
+      "topics_they_initiate": "Discussions on duty, honor, and the importance of living a virtuous life",
+      "topics_they_avoid": "Personal gossip, frivolous chatter, or anything that might be considered beneath his dignity",
+      "how_they_address_others": "Addresses everyone with respect and dignity, using titles and honorifics to reflect their status and position",
+      "dialogue_style": "Philosophical, patient, and wise, with a deep understanding of the complexities of human nature and the workings of the universe"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering commitment to duty",
+      "virtues": [
+        "Courage",
+        "Honor",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Overly rigid adherence to tradition",
+        "Difficulty in showing emotions",
+        "Tendency to see the world in black and white terms"
+      ],
+      "motivation": "To fulfill his duty as a warrior and a guardian of the Kauravas, and to uphold the principles of righteousness and justice",
+      "fear": "The fear of failing in his duty, and the fear of being unable to protect those he cares about",
+      "internal_conflict": "The tension between his duty to the Kauravas and his affection for the Pandavas, whom he considers to be like his own grandchildren",
+      "relationship_with_dharma": "Sees himself as a guardian of dharma, and believes that it is his duty to uphold the principles of righteousness and justice, even if it means making difficult choices and sacrifices",
+      "in_battle": "Fights with a fierce determination and a deep sense of purpose, using his martial prowess to protect his allies and vanquish his enemies",
+      "in_peace": "Is a wise and compassionate leader, who uses his knowledge and experience to guide and counsel those around him"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Generate an image of Bhishma, the son of Ganga, standing tall with his bow and quiver, wearing his golden armor and carrying the weight of his years with dignity and authority. Style: hyper-realistic, with intricate details and textures. Lighting: soft, golden light that reflects his noble lineage and martial prowess. Camera angle: low angle, looking up, to convey a sense of respect and awe. --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Bhishma, the son of Ganga, wearing golden armor, carrying a bow and quiver, with a divine mark on his forehead, standing in a majestic pose, with a deep sense of authority and wisdom. Style: hyper-realistic, with intricate details and textures. Positive tags: noble, majestic, powerful, wise. Negative tags: none",
+      "negative_prompt": "Avoid any images that depict Bhishma as weak, timid, or unsure of himself. Avoid any images that show him without his armor, or without his bow and quiver. Avoid any images that depict him in a modern or contemporary setting",
+      "reference_style": "Baahubali film aesthetic, with a mix of traditional Indian and Greek influences",
+      "lighting_setup": "Soft, golden light that reflects his noble lineage and martial prowess, with deep shadows that add depth and dimension to the image",
+      "camera_angle": "Low angle, looking up, to convey a sense of respect and awe"
+    },
+    "animation_notes": {
+      "idle_animation": "Stands tall, with his weight evenly distributed on both feet, and his eyes scanning the horizon, as if watching for any sign of danger",
+      "walk_cycle": "Walks with a slow, deliberate pace, as if savoring every step, and considering every move",
+      "battle_stance": "Stands with his feet shoulder-width apart, with his bow at the ready, and his eyes fixed intently on his target",
+      "signature_gesture": "Draws his bowstring back to his ear, and releases the arrow with a swift, smooth motion, as if the bow is an extension of his own arm",
+      "entry_animation": "Enters the scene with a slow, dignified walk, as if announcing his presence to the world, and commanding respect and attention"
+    },
+    "differentiation_from_others": "Bhishma's unique combination of physical and spiritual strength, his unwavering commitment to duty, and his deep understanding of the complexities of human nature make him visually and aurally unmistakable. His golden armor, his divine mark, and his majestic pose all serve to distinguish him from other characters, and to convey his status as a maharathi and a guardian of dharma. His slow, deliberate speech, and his wise, compassionate tone, also set him apart from others, and make him a compelling and authoritative figure. Overall, Bhishma's presence is both commanding and awe-inspiring, and his character is deeply rooted in the traditions and values of ancient India."
+  },
+  {
+    "name": "Drona",
+    "sanskrit_name": "Drona (द्रोण) - The Bucket/Chariot of Wisdom",
+    "role": "Warrior, Sage, Guru",
+    "faction": "Kaurava",
+    "age_appearance": "Middle-aged, around 50 years, yet vigorous with an ageless aura, carrying himself with the confidence of a seasoned warrior and the wisdom of a sage",
+    "physical_appearance": {
+      "height": "Tall and stately, standing at around 5'10\" with a commanding presence",
+      "build": "Strong and athletic, with broad shoulders and a muscular yet lean physique, reflective of his rigorous warrior training and disciplined lifestyle",
+      "skin_tone": "Fair with a golden undertone, like burnished copper, a testament to his mixed lineage and years of sun-kissed battles",
+      "face_shape": "Oval, with high cheekbones, a strong, determined jawline, and a prominent, slightly aquiline nose",
+      "eyes": "Almond-shaped, piercing brown eyes that seem to see right through to the soul, filled with wisdom, experience, and a hint of sadness",
+      "hair": "Dark, graying at the temples, and worn in a long, braided queue down his back, adorned with a few, strategically placed peacock feathers",
+      "facial_hair": "A short, well-groomed beard that adds to his dignified and authoritative presence",
+      "distinctive_marks": "A small, almost imperceptible scar above his left eyebrow from a long-forgotten battle, and an intricate, hand-drawn tilak on his forehead, symbolizing his devotion to his craft and his faith",
+      "posture": "Erect and proud, with the quiet confidence of a master of his art, moving with the fluid grace of a seasoned warrior"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A simple, yet elegant dhoti in a deep, rich saffron colour, made from the finest Kanchipuram silk, draped with precision and worn with dignity",
+      "upper_body": "A golden, intricately designed armor that covers his torso, symbolizing his status as a revered guru and a formidable warrior",
+      "armour": "The armor is adorned with small, glinting gemstones and has a subtle, divine glow, hinting at its origin and the power it holds",
+      "weapons_carried": "A majestic bow, almost as tall as he is, slung over his shoulder, accompanied by a quiver full of arrows, fletched with the feathers of the swiftest birds",
+      "jewellery": "A simple, yet elegant golden necklace with a small, crystal pendant that seems to glow from within, and a pair of heavy, golden earrings that reflect his status and wisdom",
+      "footwear": "Worn, yet sturdy leather sandals that have seen countless battles and have been a faithful companion to his journeys",
+      "colour_palette": "Deep saffron, golden yellow, burnished copper, and the rich, dark brown of his leather armor and equipment",
+      "fabric_textures": "The soft sheen of silk, the rough, worn texture of well-used leather, and the cold, unyielding hardness of his armor",
+      "divine_elements": "A soft, ethereal glow emanates from his armor and the crystal pendant around his neck, symbolizing his divine connection and the power that he wields"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone, with a commanding presence that demands attention and respect",
+      "pitch_hz": "Around 80Hz, with a rich, sonorous quality that can fill a room or a battlefield",
+      "tone_quality": "Warm, authoritative, and wise, with a hint of melancholy and a deep sense of empathy",
+      "volume_default": "Moderate, yet firm, with a natural authority that can rise to a powerful, thunderous roar when the situation demands",
+      "speech_speed": "Deliberate and measured, around 100 words per minute, as if choosing each word with care and consideration",
+      "accent_flavour": "A slight, northern Vedic accent, with the subtle nuances of a well-traveled sage and warrior",
+      "breath_pattern": "Long, controlled breaths, as if savoring each moment, and each word, with a deep appreciation for the beauty of language and the weight of wisdom",
+      "emotional_range": "His voice can convey a wide range of emotions, from the deep sorrow of a lost loved one, to the fierce passion of a warrior in the heat of battle",
+      "signature_sounds": "A low, rumbling chuckle that can diffuse tension, and a sharp, decisive tone that can cut through chaos and confusion",
+      "tts_voice_match": "The closest match would be a deep, resonant voice with a warm, authoritative tone, reminiscent of a wise and experienced sage or a seasoned warrior"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly and elaborate, with a deep understanding of the ancient scriptures and the myths of his people",
+      "sentence_structure": "Complex and layered, with a natural flair for storytelling and a deep appreciation for the nuances of language",
+      "signature_phrases": [
+        "The wheel of time turns, and we are all but mere spokes",
+        "A true warrior must always be prepared to face his own shadow",
+        "The greatest battle is the one within"
+      ],
+      "topics_they_initiate": "The nature of duty, the importance of honor, and the fleeting nature of human life",
+      "topics_they_avoid": "Personal grievances, petty squabbles, and idle gossip",
+      "how_they_address_others": "With respect, empathy, and a deep understanding of their own limitations and biases",
+      "dialogue_style": "Philosophical, introspective, and wise, with a deep appreciation for the complexities of human nature"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering sense of duty",
+      "virtues": [
+        "Wisdom",
+        "Discipline",
+        "Loyalty"
+      ],
+      "flaws": [
+        "Overemphasis on duty",
+        "Tendency to suppress emotions",
+        "Difficulty in forming close relationships"
+      ],
+      "motivation": "To fulfill his duty as a warrior, a guru, and a guardian of tradition",
+      "fear": "Failure to uphold his duty, and the loss of those he loves and protects",
+      "internal_conflict": "The tension between his duty as a warrior and his role as a guru, and the moral ambiguities of war",
+      "relationship_with_dharma": "A deep reverence for the concept of dharma, and a commitment to upholding its principles in all aspects of his life",
+      "in_battle": "Calm, focused, and lethal, with a deep understanding of strategy and tactics",
+      "in_peace": "Contemplative, introspective, and wise, with a deep appreciation for the beauty of nature and the complexity of human relationships"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Generate a highly detailed, realistic avatar of Drona, standing tall with his majestic bow and quiver, set against a backdrop of a serene, sun-drenched landscape, with a warm, golden light casting a glow over the entire scene, --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Create a stunning, hyper-realistic image of Drona, with intricate details and textures, showcasing his armor, his bow, and his quiver, with a deep sense of history and tradition, and a warm, inviting color palette",
+      "negative_prompt": "Avoid any images that depict Drona as weak, timid, or uncertain, and focus on conveying his strength, wisdom, and authority",
+      "reference_style": "Inspired by the intricate, detailed illustrations of the Amar Chitra Katha series, with a deep appreciation for the cultural and historical context of the Mahabharata",
+      "lighting_setup": "Warm, golden lighting, with a soft, diffused glow, and deep shadows that add depth and dimension to the image",
+      "camera_angle": "A low angle, looking up, to convey a sense of power, authority, and reverence"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing tall, with a quiet confidence, and a sense of stillness, as if poised on the brink of action",
+      "walk_cycle": "A slow, deliberate stride, with a sense of purpose and direction, as if walking towards a destination with a clear sense of duty",
+      "battle_stance": "A wide, strong stance, with his bow at the ready, and a fierce, determined glint in his eye",
+      "signature_gesture": "A slow, sweeping motion of his arm, as if drawing his bow, and releasing an arrow, with a sense of precision and control",
+      "entry_animation": "Emerging from the shadows, with a sense of mystery and anticipation, as if stepping into the light, with a deep sense of purpose and duty"
+    },
+    "differentiation_from_others": "Drona's unique blend of wisdom, authority, and warrior spirit sets him apart from other characters, with his commanding presence, his deep sense of duty, and his intricate, detailed armor and equipment, making him instantly recognizable, and unforgettable. His calm, introspective demeanor, and his slow, deliberate movements, convey a sense of depth, and a rich inner life, that invites the viewer to look deeper, and to explore the complexities of his character. The subtle, divine glow that surrounds him, and the intricate, hand-drawn tilak on his forehead, add a sense of mystique, and a deep connection to the divine, that sets him apart from other warriors, and establishes him as a true master of his craft."
+  },
+  {
+    "name": "Vidura",
+    "sanskrit_name": "Vidura - The Wise One, derived from 'vid' meaning knowledge",
+    "role": "Advisor, Minister, Sage",
+    "faction": "Neutral",
+    "age_appearance": "Elderly, with an ageless wisdom in his eyes, appearing to be in his early sixties but with a vigor that belies his years",
+    "physical_appearance": {
+      "height": "Tall and stately, standing at about 5'10\" with a dignified posture",
+      "build": "Lean and wiry, with a subtle strength that speaks of a life of simplicity and discipline",
+      "skin_tone": "A warm, golden brown, like the sun-kissed earth of the Indian plains",
+      "face_shape": "Oval, with high cheekbones and a straight nose, giving him a wise and compassionate appearance",
+      "eyes": "Large and expressive, with a deep, soulful brown that seems to see right through to the heart of the matter",
+      "hair": "Thin and grey, often worn in a simple knot at the back of his head, adorned with a few strands of sacred tulsi",
+      "facial_hair": "A short, well-groomed beard that adds to his air of wisdom and authority",
+      "distinctive_marks": "A small, intricate tilak on his forehead, symbolizing his devotion to dharma",
+      "posture": "Upright and confident, with a subtle relaxation that speaks of a deep inner peace"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A simple, yet elegant dhoti in a muted shade of beige, made from the finest dhakai silk",
+      "upper_body": "A plain, cream-colored uttariya draped over his left shoulder, leaving his right shoulder bare",
+      "armour": "None, as he is a man of peace and wisdom, relying on his wit and intelligence for protection",
+      "weapons_carried": "A simple, wooden danda, symbolizing his role as a guardian and advisor",
+      "jewellery": "A simple, gold-plated necklace with a small, crystal pendant, representing his connection to the divine",
+      "footwear": "Simple, brown leather sandals, worn and comfortable from years of walking the earth",
+      "colour_palette": "Earth tones, with shades of brown, beige, and grey dominating his attire",
+      "fabric_textures": "The soft sheen of silk, the rough texture of cotton, and the suppleness of leather",
+      "divine_elements": "A subtle, golden aura that surrounds him, symbolizing his deep connection to the divine"
+    },
+    "voice_profile": {
+      "pitch": "Deep and resonant, with a warm, soothing quality that puts those around him at ease",
+      "pitch_hz": "90Hz, a frequency that commands attention without being overpowering",
+      "tone_quality": "Smooth and velvety, with a subtle vibration that speaks of his deep wisdom and compassion",
+      "volume_default": "Modulated, with a natural volume that is neither too loud nor too soft",
+      "speech_speed": "Measured and deliberate, with a slow and steady pace that allows his words to sink in",
+      "accent_flavour": "A subtle, Vedic accent, with a hint of the ancient wisdom that he embodies",
+      "breath_pattern": "Deep and relaxed, with a subtle pause between sentences that adds to his air of authority",
+      "emotional_range": "Subtle and restrained, with a deep well of emotions that he draws upon to guide and counsel those around him",
+      "signature_sounds": "A soft, rumbling laugh that is both comforting and intimidating",
+      "tts_voice_match": "Kokoro TTS - 'Vishnu' voice profile, with a subtle adjustment to the pitch and tone to match Vidura's unique voice"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Scholarly, with a deep understanding of the ancient scriptures and a mastery of the Sanskrit language",
+      "sentence_structure": "Complex and nuanced, with a subtle use of metaphor and allegory to convey his message",
+      "signature_phrases": [
+        "Dharma is the highest duty",
+        "Wisdom is the greatest wealth",
+        "Compassion is the greatest virtue"
+      ],
+      "topics_they_initiate": "The importance of dharma, the nature of reality, and the path to spiritual enlightenment",
+      "topics_they_avoid": "Gossip, idle chatter, and frivolous discussions that serve no purpose",
+      "how_they_address_others": "With respect and dignity, using honorific titles and phrases to acknowledge the worth of those around him",
+      "dialogue_style": "Philosophical and introspective, with a subtle use of humor and irony to make his point"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Wisdom and compassion",
+      "virtues": [
+        "Integrity",
+        "Empathy",
+        "Self-discipline"
+      ],
+      "flaws": [
+        "Over-cautiousness",
+        "Emotional detachment",
+        "Tendency to see both sides of an argument"
+      ],
+      "motivation": "A desire to serve and guide others, and to uphold the principles of dharma",
+      "fear": "The fear of failing in his duty, and of not being able to protect those he cares about",
+      "internal_conflict": "The tension between his desire for peace and his duty to counsel and guide others, even in times of conflict",
+      "relationship_with_dharma": "A deep and abiding commitment to the principles of righteousness and duty",
+      "in_battle": "A strategic and calculating approach, with a focus on minimizing harm and finding a peaceful resolution",
+      "in_peace": "A calm and contemplative nature, with a focus on personal growth and self-reflection"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Generate a realistic portrait of Vidura, with a warm and compassionate expression, dressed in a simple dhoti and uttariya, with a subtle golden aura surrounding him --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Vidura, the wise and compassionate advisor, with a deep understanding of dharma and a mastery of the Sanskrit language, dressed in simple, earth-toned attire, with a subtle golden aura and a warm, gentle smile",
+      "negative_prompt": "Avoid any depiction of Vidura as a warrior or a king, and focus on his role as a wise and compassionate advisor",
+      "reference_style": "Amar Chitra Katha illustrations, with a focus on realistic and detailed depictions of the characters and their surroundings",
+      "lighting_setup": "Soft, natural lighting, with a warm and comforting glow that reflects Vidura's compassionate nature",
+      "camera_angle": "A slight low-angle shot, looking up at Vidura, to convey his wisdom and authority"
+    },
+    "animation_notes": {
+      "idle_animation": "A subtle, gentle movement, with a slight swaying of the body and a gentle nodding of the head",
+      "walk_cycle": "A slow and deliberate walk, with a focus on elegance and dignity",
+      "battle_stance": "A calm and collected stance, with a focus on strategy and calculation",
+      "signature_gesture": "A subtle, sweeping motion of the hand, as if embracing the universe and all its complexities",
+      "entry_animation": "A slow and dignified entrance, with a focus on establishing Vidura's presence and authority"
+    },
+    "differentiation_from_others": "Vidura's unique blend of wisdom, compassion, and authority sets him apart from other characters, as does his distinctive appearance and mannerisms. His subtle golden aura and gentle smile are unmistakable, and his deep understanding of dharma and the Sanskrit language makes him a compelling and complex character. His role as a wise and compassionate advisor, rather than a warrior or king, also distinguishes him from others, and his commitment to upholding the principles of righteousness and duty is unwavering. Overall, Vidura's visual and aural presence is unmistakable, and he is a character who commands attention and respect without ever seeking to draw attention to himself."
+  },
+  {
+    "name": "Dhritarashtra",
+    "sanskrit_name": "Dhritarashtra (धृतराष्ट्र) - The one who holds the kingdom",
+    "role": "King of Hastinapura",
+    "faction": "Kaurava",
+    "age_appearance": "Late 60s, with an aged and wise appearance, despite being blind",
+    "physical_appearance": {
+      "height": "Tall and imposing at around 5'10\" with a regal bearing",
+      "build": "Slightly stout, with a well-fed and comfortable physique, indicative of his royal status",
+      "skin_tone": "Pale, almost ivory, with a subtle golden undertone, reflecting his aristocratic lineage",
+      "face_shape": "Oval, with high cheekbones and a prominent nose, giving him a distinctive and authoritative look",
+      "eyes": "Although blind, his eyes are sunken and his eyelids are often closed, as if in constant contemplation or listening",
+      "hair": "Thin, silver hair, often neatly combed and tied back, revealing his aged yet dignified face",
+      "facial_hair": "A well-trimmed, short white beard that frames his chin and adds to his wise, aged appearance",
+      "distinctive_marks": "None visible, but his blindness is a defining characteristic",
+      "posture": "Erect and proud, even in his old age, commanding respect and attention"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A luxurious, cream-colored dhoti, draped elegantly around his waist, signifying his royal status",
+      "upper_body": "A finely embroidered, long-sleeved angarkha, in shades of golden yellow and cream, adorned with precious gems",
+      "armour": "None, as he is a king and not a warrior, but he wears a golden, gem-encrusted belt around his waist",
+      "weapons_carried": "None, as he is blind and not expected to engage in combat",
+      "jewellery": "A golden, bejeweled crown on his head, symbolizing his kingship, and a pair of elegant, gemstone-studded earrings",
+      "footwear": "Ornate, gem-encrusted sandals, fitting for a king",
+      "colour_palette": "Golden yellow, cream, ivory, and rich jewel tones, reflecting his wealth and status",
+      "fabric_textures": "Luxurious silks, fine cotton, and intricately embroidered fabrics, typical of royal attire",
+      "divine_elements": "None, but his royal presence and authority command respect and awe"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone, commanding attention and respect",
+      "pitch_hz": "80Hz",
+      "tone_quality": "Warm, rich, and authoritative, with a hint of wisdom and Experience",
+      "volume_default": "Measured and controlled, never raised in anger or excitement",
+      "speech_speed": "Deliberate and slow, around 100wpm, as if choosing each word carefully",
+      "accent_flavour": "Formal, aristocratic, with a hint of ancient wisdom and tradition",
+      "breath_pattern": "Long, controlled breaths, as if savoring each word and thought",
+      "emotional_range": "Limited, as he is often calm and collected, but his voice can rise in urgency or concern",
+      "signature_sounds": "A low, rumbling cough, or a gentle, benevolent chuckle",
+      "tts_voice_match": "ElevenLabs: 'Deep Voice' or Kokoro TTS: 'Commanding Baritone'"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, scholarly, and wise, drawing from ancient knowledge and experience",
+      "sentence_structure": "Complex, with a tendency to use metaphors and allegories to convey deep meaning",
+      "signature_phrases": [
+        "As I have heard from the wise...",
+        "In the ancient days...",
+        "The duty of a king is..."
+      ],
+      "topics_they_initiate": "State affairs, duty, morality, and the well-being of his kingdom and family",
+      "topics_they_avoid": "His own blindness, personal weaknesses, or failures",
+      "how_they_address_others": "With respect and dignity, using titles and honorifics, as befits a king",
+      "dialogue_style": "Measured, wise, and authoritative, with a deep understanding of human nature and the world"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Authoritative and wise leader",
+      "virtues": [
+        "Wisdom",
+        "Compassion",
+        "Justice"
+      ],
+      "flaws": [
+        "Overprotectiveness",
+        "Indecisiveness",
+        "Blindness to reality"
+      ],
+      "motivation": "To maintain peace and prosperity in his kingdom, and to ensure the well-being of his family",
+      "fear": "Losing control, or his kingdom falling into chaos and destruction",
+      "internal_conflict": "The struggle to balance his desire for peace with the need to take firm action against threats",
+      "relationship_with_dharma": "He sees himself as a guardian of dharma, and strives to uphold justice and morality",
+      "in_battle": "Not applicable, as he is not a warrior, but he would likely remain calm and strategic",
+      "in_peace": "He is a just and fair ruler, loved by his people, and respected by his peers"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --q 2 --ar 2:3 A majestic, aged king with a regal bearing, dressed in golden and cream-colored robes, with a golden crown on his head, and a long, white beard, sitting on a throne, with a wise and authoritative expression",
+      "stable_diffusion_prompt": "A wise, aged king, with a long white beard, and a golden crown, sitting on a throne, with a regal and authoritative presence, in a luxurious, ornate setting, with intricate carvings and gemstones",
+      "negative_prompt": "Do not include any modern or anachronistic elements, and avoid depicting the king as weak or feeble",
+      "reference_style": "Inspired by ancient Indian art and architecture, with intricate carvings, and ornate details",
+      "lighting_setup": "Warm, golden lighting, with a soft, gentle glow, to convey a sense of wisdom and authority",
+      "camera_angle": "A low angle, looking up at the king, to emphasize his power and majesty"
+    },
+    "animation_notes": {
+      "idle_animation": "The king sits upright, with his hands resting on the arms of his throne, and his eyes closed, as if in contemplation",
+      "walk_cycle": "He walks slowly, with a deliberate, measured gait, as if savoring each step",
+      "battle_stance": "Not applicable, as he is not a warrior",
+      "signature_gesture": "He often strokes his long, white beard, as if in thought or contemplation",
+      "entry_animation": "The king enters the scene, sitting on his throne, which is carried by his attendants, with a regal and authoritative presence"
+    },
+    "differentiation_from_others": "Dhritarashtra is unmistakable due to his blind, yet authoritative presence, his regal and wise demeanor, and his distinctive, long white beard. His golden crown, and ornate robes, also set him apart as a king, and his slow, deliberate speech, and measured movements, convey a sense of wisdom and gravitas. His character is a unique blend of strength, and vulnerability, as he navigates the challenges of ruling his kingdom, despite his physical limitation."
+  },
+  {
+    "name": "Abhimanyu",
+    "sanskrit_name": "अभिमन्यु (Abhimanyu) - 'Subduer of Enemies'",
+    "role": "Warrior",
+    "faction": "Pandava",
+    "age_appearance": "Apparent age range: 16-18, athletic and youthful appearance with an unwavering determination in his eyes at the time of the war",
+    "physical_appearance": {
+      "height": "Tall and lean at around 5'10\" with a lithe, athletic build",
+      "build": "V-tapered physique honed from extensive martial training and combat",
+      "skin_tone": "Deep, golden brown complexion like polished copper",
+      "face_shape": "Oval face with high cheekbones and a strong, determined jawline",
+      "eyes": "Almond-shaped, dark brown eyes that seem to gleam with an inner fire of curiosity and courage",
+      "hair": "Dark, chestnut brown hair that falls to his shoulders, often tied back in a neat, warrior's knot",
+      "facial_hair": "Clean-shaven, accentuating his youthful appearance",
+      "distinctive_marks": "A small, intricate mark on his left palm said to signify his destiny and connection to his father, Arjuna",
+      "posture": "Upright, exuding confidence and readiness, as if always prepared for battle"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A golden, saffron-hued dhoti made of the finest silk, wrapped elegantly around his waist",
+      "upper_body": "Wears a sleeveless, leather armor vest adorned with small, protective plates, offering flexibility and protection",
+      "armour": "Carries a Kavacha (divine armor) gifted by his father, though it is not always visible, it provides him with unmatched protection in battle",
+      "weapons_carried": "Carries his bow, the 'Vijaya', and two quivers full of arrows on his back, with a sword at his left hip for close combat",
+      "jewellery": "Wears a golden, gemstone-encrusted necklace, symbolizing his lineage and connection to the Pandavas, along with earrings that reflect his status as a warrior",
+      "footwear": "Wears leather sandals that are both durable and flexible, suitable for both battle and travel",
+      "colour_palette": "Dominant colours include golden yellow, deep saffron, and the dark brown of his leather armor",
+      "fabric_textures": "Visible textures include the smooth silk of his dhoti, the rough, hammered leather of his armor, and the intricate patterns on his necklace",
+      "divine_elements": "The glow of his divine armor when activated, and the mystical aura that surrounds him due to his lineage and training"
+    },
+    "voice_profile": {
+      "pitch": "Mid-range tenor, youthful and energetic, capable of commanding attention without being overly loud",
+      "pitch_hz": "120Hz, reflective of his age and agility",
+      "tone_quality": "Clear and resonant, with a hint of warmth that inspires confidence and trust",
+      "volume_default": "Speaks at a moderate volume, loud enough to be heard clearly in a small group but not so loud as to be considered boisterous",
+      "speech_speed": "Average to slightly above average, around 120 words per minute, reflecting his eagerness and intelligence",
+      "accent_flavour": "Has a northern, Vedic accent, influenced by his upbringing among the Pandavas and their allies",
+      "breath_pattern": "Takes deep, measured breaths, especially when preparing for or reflecting on battle, demonstrating his control and focus",
+      "emotional_range": "His voice can rise sharply in excitement or indignation, but generally remains steady, a testament to his training and character",
+      "signature_sounds": "Often pauses briefly before speaking, as if collecting his thoughts, and has a distinctive, sharp laugh when amused",
+      "tts_voice_match": "Closest match would be a youthful, energetic voice profile with a mid-range tenor pitch, possibly the 'Young Warrior' voice"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a good understanding of Sanskrit and the scriptures, though he often speaks plainly and directly",
+      "sentence_structure": "Constructs sentences that are clear and concise, reflecting his straightforward and determined nature",
+      "signature_phrases": [
+        "By my oath, I will not back down",
+        "For my family, for dharma",
+        "I will not fail"
+      ],
+      "topics_they_initiate": "Often discusses strategy, honor, and the pursuit of justice, reflecting his role as a warrior and his values",
+      "topics_they_avoid": "Rarely speaks of his personal feelings or vulnerabilities, maintaining a stoic exterior",
+      "how_they_address_others": "Addresses his elders and those he respects with titles and honorifics, while treating his peers with equality and camaraderie",
+      "dialogue_style": "Direct and to the point, though not unkind or abrupt, showing respect for his listeners and the gravity of his words"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Fearless in the face of duty",
+      "virtues": [
+        "Courage",
+        "Loyalty",
+        "Determination"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Inexperience",
+        "Overconfidence"
+      ],
+      "motivation": "Driven by the desire to protect his family and fulfill his duty as a Pandava, and to prove himself as a worthy warrior",
+      "fear": "Fears failure and not living up to his father's legacy",
+      "internal_conflict": "Struggles with balancing his desire for independence and recognition with the need to follow the advice and strategies of his elders",
+      "relationship_with_dharma": "Sees himself as a defender of dharma, and believes in upholding righteousness and justice above all else",
+      "in_battle": "Fights with a ferocity and skill that belies his age, using his knowledge of the Chakravyuha formation to outmaneuver his foes",
+      "in_peace": "Is respectful, courteous, and genuinely interested in the well-being of those around him, though his serious demeanor can sometimes make him seem aloof"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 750 a youthful Abhimanyu in golden armor with his bow and quiver, standing heroically against a backdrop of a setting sun over the battlefield of Kurukshetra, style reminiscent of epic, mythological illustrations",
+      "stable_diffusion_prompt": "Abhimanyu, son of Arjuna, wearing golden armor, holding his bow and quiver, standing in a heroic pose, bright, vibrant colors, highly detailed, mythological style, epic lighting",
+      "negative_prompt": "Avoid any depiction that makes him look significantly older than 18, or removes his iconic golden armor and weapons",
+      "reference_style": "Inspired by the illustrations of the Mahabharata in a mix of traditional and digital media, with an emphasis on dramatic lighting and powerful poses",
+      "lighting_setup": "Dramatic, with the main light source coming from the side, casting a heroic glow on Abhimanyu while the background is slightly darker, emphasizing his presence",
+      "camera_angle": "Low angle, looking up at Abhimanyu, to convey a sense of power, courage, and heroism"
+    },
+    "animation_notes": {
+      "idle_animation": "Stands with his weight slightly forward, as if ready to move into action at any moment, with his hand resting on the hilt of his sword",
+      "walk_cycle": "Walks with a purposeful stride, his long legs eating up the distance, his armor and weapons moving naturally with him",
+      "battle_stance": "Assumes a wide, balanced stance with his bow at the ready, eyes scanning the horizon for targets, his body tense and alert",
+      "signature_gesture": "Often gestures with his right hand, palm facing outward, as if explaining or emphasizing a point, even in the heat of battle",
+      "entry_animation": "Enters a scene with a flourish, his armor gleaming, his weapons at the ready, drawing the eye and commanding attention"
+    },
+    "differentiation_from_others": "Abhimanyu is unmistakable due to his youthful yet commanding presence, his golden armor, and the determined look in his dark brown eyes. His heroic posture, the way he carries his bow and quiver, and his readiness for battle at all times set him apart. His voice, with its mid-range tenor and clear, resonant quality, is also distinctive, reflecting his age, courage, and conviction. Overall, Abhimanyu's unique blend of youth, bravery, and unwavering dedication to his duty makes him visually and aurally unmistakable among other characters."
+  },
+  {
+    "name": "Ghatotkacha",
+    "sanskrit_name": "Ghatotkacha, meaning 'Pot-headed' in Sanskrit, referring to his unique birth and appearance",
+    "role": "Warrior and the son of Bhima, playing a crucial role in the Mahabharata war",
+    "faction": "Pandava",
+    "age_appearance": "Appears to be in his mid-30s, with a rugged, battle-hardened look, despite being a Rakshasa",
+    "physical_appearance": {
+      "height": "Towering at 6'8\" with a muscular, athletic build, showcasing his demonic heritage",
+      "build": "Broad-shouldered and powerful, with well-defined muscles, reflecting his exceptional strength",
+      "skin_tone": "Deep, dark blue-black, similar to a monsoon sky, with a slightly reddish undertone, hinting at his Rakshasa lineage",
+      "face_shape": "Strong, angular features with high cheekbones, a prominent brow ridge, and a square jawline",
+      "eyes": "Piercing, amber-gold eyes that seem to gleam in the dark, with a sharp, intelligent glint",
+      "hair": "Wild, dark black hair that falls to his shoulders, often worn loose and untamed",
+      "facial_hair": "A short, dark beard that accentuates his strong jawline and adds to his fierce appearance",
+      "distinctive_marks": "A series of intricate, glowing tattoos on his arms and torso, symbolizing his Rakshasa heritage and magical abilities",
+      "posture": "Confident and imposing, with a relaxed, athletic stance that belies his incredible strength and agility"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A dark, indigo-blue dhoti made of a rich, velvety fabric, cinched at the waist with a wide, golden belt",
+      "upper_body": "A sleeveless, leather-like armor vest that covers his torso, adorned with small, glowing gemstones",
+      "armour": "A suit of dark, enchanted armor that seems to shift and flow like liquid, providing him with enhanced strength and agility",
+      "weapons_carried": "A massive, curved sword at his hip, a short, hooked dagger at his belt, and a quiver full of arrows on his back",
+      "jewellery": "A golden, gemstone-encrusted necklace that holds a small, glowing crystal, and a pair of heavy, ornate earrings that resemble tiny, demonic masks",
+      "footwear": "A pair of knee-high, leather boots with a low heel and a silver buckle, adorned with small, intricate buckles and straps",
+      "colour_palette": "Dark blues and blacks, with accents of gold, crimson, and emerald green, reflecting his Rakshasa heritage and magical abilities",
+      "fabric_textures": "Rich, velvety fabrics, supple leathers, and intricate, glowing tattoos that seem to shift and shimmer in the light",
+      "divine_elements": "A soft, ethereal glow that surrounds his body, hinting at his connection to the divine and his magical abilities"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone, with a hint of a growl, reflecting his Rakshasa heritage and powerful physique",
+      "pitch_hz": "75Hz, with a rich, full-bodied tone that commands attention",
+      "tone_quality": "Warm, rich, and slightly gravelly, with a hint of a snarl, reflecting his fierce and powerful personality",
+      "volume_default": "Loud and confident, with a natural authority that demands respect",
+      "speech_speed": "Moderate, with a measured, deliberate pace that reflects his thoughtful and strategic nature",
+      "accent_flavour": "A hint of a rustic, rural accent, with a slightly rough, untamed edge, reflecting his Rakshasa upbringing and connection to the natural world",
+      "breath_pattern": "Deep, controlled breaths, with a slight hiss of air between words, reflecting his intense focus and concentration",
+      "emotional_range": "Wide and expressive, with a tendency to rise sharply in battle fury or when defending his loved ones",
+      "signature_sounds": "A low, rumbling laugh, a sharp, decisive snarl, and a tendency to click his tongue in amusement or irritation",
+      "tts_voice_match": "Kokoro TTS voice profile: 'Deep, resonant baritone with a hint of a growl'"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a tendency to use complex, poetic language and metaphor, reflecting his intelligent and strategic nature",
+      "sentence_structure": "Long, flowing sentences with a musical quality, reflecting his love of storytelling and his connection to the natural world",
+      "signature_phrases": [
+        "By the power of the Rakshasas!",
+        "I will not be defeated!",
+        "The battle is far from over!"
+      ],
+      "topics_they_initiate": "War strategy, magic, and the natural world, reflecting his interests and areas of expertise",
+      "topics_they_avoid": "Personal relationships, emotional vulnerability, and weakness, reflecting his tendency to keep his emotions and personal life private",
+      "how_they_address_others": "With respect and deference, using titles and honorifics, reflecting his sense of duty and loyalty to those he cares about",
+      "dialogue_style": "Philosophical and poetic, with a tendency to use metaphor and allegory to make his point, reflecting his intelligent and strategic nature"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Fiercely loyal and protective",
+      "virtues": [
+        "Courage",
+        "Loyalty",
+        "Intelligence"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Hot-headedness",
+        "Overprotectiveness"
+      ],
+      "motivation": "To defend his loved ones and prove himself as a worthy warrior",
+      "fear": "Failure and weakness, reflecting his deep-seated need to prove himself and live up to his father's expectations",
+      "internal_conflict": "The struggle between his loyalty to his family and his desire for independence and self-discovery",
+      "relationship_with_dharma": "A deep respect for duty and righteousness, reflecting his sense of honor and loyalty",
+      "in_battle": "Fierce and unstoppable, with a tendency to enter a state of fury and lose himself in the heat of combat",
+      "in_peace": "Thoughtful and introspective, with a tendency to reflect on his actions and consider his place in the world"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "Ghatotkacha, the Rakshasa warrior, standing tall with his sword and quiver, set against a dark, misty forest backdrop, with a full moon rising in the sky, --ar 2:3 --v 6",
+      "stable_diffusion_prompt": "Ghatotkacha, a powerful Rakshasa warrior, with dark, blue-black skin and glowing, amber-gold eyes, wearing a suit of dark, enchanted armor and carrying a massive, curved sword, in a dark, misty forest, with a hint of magic and mystery in the air",
+      "negative_prompt": "Avoid any depiction of Ghatotkacha as weak, timid, or submissive, and do not show him in a bright, sunny environment",
+      "reference_style": "A mix of dark, gothic fantasy and Indian mythology, with intricate, glowing tattoos and magical, ethereal effects",
+      "lighting_setup": "A dark, moody lighting setup, with deep shadows and subtle, glowing accents, reflecting the mysterious and magical nature of the Rakshasa",
+      "camera_angle": "A low, heroic angle, looking up at Ghatotkacha as he stands tall, with his sword and quiver at the ready"
+    },
+    "animation_notes": {
+      "idle_animation": "A slow, relaxed movement, with a tendency to shift his weight and adjust his sword and quiver, reflecting his constant readiness for battle",
+      "walk_cycle": "A powerful, athletic stride, with a tendency to move quickly and decisively, reflecting his speed and agility",
+      "battle_stance": "A fierce, aggressive stance, with his sword at the ready and his eyes blazing with fury, reflecting his intense focus and determination",
+      "signature_gesture": "A sharp, decisive nod, or a swift, powerful strike with his sword, reflecting his confidence and authority",
+      "entry_animation": "A dramatic, sweeping entrance, with a burst of magical energy and a flash of light, reflecting his powerful and mysterious nature"
+    },
+    "differentiation_from_others": "Ghatotkacha's unique combination of Rakshasa heritage, magical abilities, and fierce warrior spirit make him unmistakable, with his dark, blue-black skin, glowing, amber-gold eyes, and powerful, athletic build setting him apart from other characters. His intricate, glowing tattoos and dark, enchanted armor also reflect his connection to the magical and mysterious world of the Rakshasa. Overall, Ghatotkacha is a complex, multifaceted character with a rich and nuanced personality, and his visual and aural representation should reflect this depth and complexity."
+  },
+  {
+    "name": "Ashwatthama",
+    "sanskrit_name": "अश्वत्थामा (Ashvatthāmā), meaning 'the horse-voiced'",
+    "role": "Warrior, Brahmin, and son of Dronacharya",
+    "faction": "Kaurava",
+    "age_appearance": "Appears to be in mid-30s, with an ageless, unyielding aura about him",
+    "physical_appearance": {
+      "height": "Towering at 6'2\" with an imposing, muscular frame",
+      "build": "Broad-shouldered, powerful V-taper, honed from years of intense martial training",
+      "skin_tone": "Deep, burnished copper with golden undertones, like polished leather",
+      "face_shape": "Strong, angular features with high cheekbones and a prominent, sharp jawline",
+      "eyes": "Intense, piercing brown eyes that seem to bore into those he looks at, fringed with thick lashes",
+      "hair": "Dark, shoulder-length hair, often tied back in a simple, practical knot",
+      "facial_hair": "Trimmed, well-groomed beard that accentuates his strong facial structure",
+      "distinctive_marks": "A series of intricate, ritualistic scars on his cheeks and forehead, symbols of his unwavering dedication to his craft",
+      "posture": "Perfectly upright, exuding confidence, authority, and an unshakeable sense of self-assurance"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A flowing, saffron-dyed dhoti, cinched at the waist with a wide, golden belt",
+      "upper_body": "A sleeveless, leather armor vest, adorned with small, shimmering silver rivets",
+      "armour": "Kavacha Kundala — a golden, divine armor fused to his skin, glowing with an ethereal, otherworldly light",
+      "weapons_carried": "A massive, two-handed sword slung over his back, alongside a quiver full of arrows and a short, cruel-looking dagger at his hip",
+      "jewellery": "A simple, golden armlet on his right bicep, bearing the emblem of his family, and a pair of heavy, silver earrings that glint in the light",
+      "footwear": "Knee-high, supple leather boots, designed for both mobility and protection",
+      "colour_palette": "Deep saffron, burnished gold, dark copper, and rich, chocolate brown",
+      "fabric_textures": "The rough, organic texture of leather, the smooth, luxurious feel of silk, and the cold, unforgiving glint of metal",
+      "divine_elements": "The soft, pulsing glow of his Kavacha Kundala armor, and the shimmering, silver rivets on his leather vest"
+    },
+    "voice_profile": {
+      "pitch": "Low, resonant baritone, with a hint of warmth and authority",
+      "pitch_hz": "80Hz",
+      "tone_quality": "Deep, rich, and commanding, with a subtle, underlying roughness",
+      "volume_default": "Confident, measured, and clear, without being overly loud or boisterous",
+      "speech_speed": "Moderate, around 120 words per minute, with a deliberate, considered pace",
+      "accent_flavour": "Northern Vedic formality, with a hint of rustic, earthy undertones",
+      "breath_pattern": "Long, controlled breaths, with a slight pause before speaking, as if collecting his thoughts",
+      "emotional_range": "His voice remains steady and calm, even in the face of intense emotion, with only the slightest hint of passion or excitement",
+      "signature_sounds": "A low, rumbling chuckle, and a sharp, decisive click of his tongue when emphasizing a point",
+      "tts_voice_match": "ElevenLabs' 'Baritone' voice profile, with adjustments for a deeper, more resonant tone"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a strong foundation in Sanskrit and Vedic scriptures",
+      "sentence_structure": "Complex, with a tendency to use layered, philosophical concepts and metaphors",
+      "signature_phrases": [
+        "I will not be swayed",
+        "My duty is clear",
+        "The time for words is over"
+      ],
+      "topics_they_initiate": "War strategy, philosophical debates, and discussions of duty and honor",
+      "topics_they_avoid": "Personal feelings, emotional vulnerabilities, and frivolous gossip",
+      "how_they_address_others": "With respect and formality, using titles and honorifics when speaking to those he considers worthy",
+      "dialogue_style": "Direct, forceful, and uncompromising, with a tendency to cut through unnecessary words and get to the heart of the matter"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering dedication to duty",
+      "virtues": [
+        "Loyalty",
+        "Discipline",
+        "Self-control"
+      ],
+      "flaws": [
+        "Rigidity",
+        "Lack of empathy",
+        "Unyielding pride"
+      ],
+      "motivation": "To fulfill his duty as a warrior and a son, no matter the cost",
+      "fear": "Failure, and the loss of his honor and reputation",
+      "internal_conflict": "The struggle to balance his duty with his own sense of morality and compassion",
+      "relationship_with_dharma": "He sees himself as a defender of dharma, and believes that his actions are justified in the pursuit of righteousness",
+      "in_battle": "Cold, calculating, and ruthless, with a focus on strategy and efficiency",
+      "in_peace": "Reserved, introspective, and formal, with a tendency to keep people at arm's length"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --q 2 --ar 2:3 A tall, imposing figure with a strong, angular face and piercing brown eyes, wearing a saffron dhoti and leather armor, with a massive sword slung over his back",
+      "stable_diffusion_prompt": "Ashwatthama, son of Dronacharya, in a formal, heroic pose, with a golden armor and a sword, on a dark, muted background, with a sense of depth and dimensionality",
+      "negative_prompt": "No smiles, no casual clothes, no bright colors, no modern elements",
+      "reference_style": "Baahubali film aesthetic, with a mix of realistic and stylized elements",
+      "lighting_setup": "Dramatic, high-contrast lighting, with deep shadows and highlights",
+      "camera_angle": "Low angle, looking up, to emphasize his height and authority"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing perfectly still, with his weight evenly distributed on both feet, and his eyes scanning the surroundings",
+      "walk_cycle": "A slow, deliberate, and powerful stride, with a sense of weight and momentum",
+      "battle_stance": "A wide, balanced stance, with his sword at the ready, and his eyes fixed intently on his opponent",
+      "signature_gesture": "A sharp, decisive nod, as if acknowledging a point or accepting a challenge",
+      "entry_animation": "A dramatic, slow-motion entrance, with his sword at the ready, and his eyes scanning the surroundings"
+    },
+    "differentiation_from_others": "Ashwatthama's imposing physique, combined with his golden armor and massive sword, make him visually unmistakable. His deep, resonant voice, and formal, commanding demeanor, set him apart from other characters. The intricate scars on his face, and the shimmering silver rivets on his armor, add a unique touch to his appearance. Overall, Ashwatthama exudes an aura of authority, discipline, and unwavering dedication to his duty, making him a compelling and unforgettable character."
+  },
+  {
+    "name": "Kripacharya",
+    "sanskrit_name": "Kripacharya - The Teacher Who Takes Pity",
+    "role": "Guru, warrior, and advisor",
+    "faction": "Kaurava",
+    "age_appearance": "Appears to be in his late 60s with a strong and youthful vigor due to his ascetic practices and divine blessings",
+    "physical_appearance": {
+      "height": "Tall and slender at about 5'10\" with a wiry, athletic build",
+      "build": "Lean, muscular frame suggesting a life of discipline and self-control",
+      "skin_tone": "Light wheatish complexion with a warm, golden undertone",
+      "face_shape": "Oval face with high cheekbones and a straight nose",
+      "eyes": "Piercing brown eyes with a sharp, intelligent glint, fringed with thick eyelashes",
+      "hair": "Short, dark grey hair often tied back in a simple knot, with a few loose strands framing his face",
+      "facial_hair": "A short, well-groomed beard and mustache, flecked with grey",
+      "distinctive_marks": "A small, shining gemstone on his forehead, symbolizing his spiritual attainments",
+      "posture": "Upright and commanding, with a quiet confidence that inspires respect"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A simple, cream-colored dhoti made of the finest silk, draped elegantly around his waist",
+      "upper_body": "A golden, embroidered vest covering his chest, adorned with intricate patterns and symbols of his lineage",
+      "armour": "No visible armor, but an aura of protection surrounds him, as if his very presence is a shield",
+      "weapons_carried": "A long, slender sword at his side, with an ornate hilt that shines like polished gold",
+      "jewellery": "A delicate, gemstone-encrusted necklace around his neck, and a simple, golden armlet on his right bicep",
+      "footwear": "Wears simple, supple leather sandals that make barely a sound as he moves",
+      "colour_palette": "Cream, gold, dark grey, and deep brown",
+      "fabric_textures": "Silk, leather, and the soft sheen of polished gold",
+      "divine_elements": "A soft, ethereal glow emanates from the gemstone on his forehead, symbolizing his connection to the divine"
+    },
+    "voice_profile": {
+      "pitch": "Low, resonant baritone with a soothing quality",
+      "pitch_hz": "80Hz",
+      "tone_quality": "Rich, warm, and authoritative, with a hint of kindness",
+      "volume_default": "Speaks in a calm, measured tone, rarely raising his voice",
+      "speech_speed": "Around 100 words per minute, with a deliberate, thoughtful pace",
+      "accent_flavour": "A subtle, Vedic influence in his pronunciation, reflecting his ancient lineage",
+      "breath_pattern": "Takes long, slow breaths, as if savoring the moment and the words he speaks",
+      "emotional_range": "His voice remains calm and composed, even in the face of turmoil, though his eyes may betray his emotions",
+      "signature_sounds": "A low, rumbling chuckle, and a tendency to pause before speaking, as if collecting his thoughts",
+      "tts_voice_match": "ElevenLabs - 'Resonant Mentor' voice profile"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a touch of antiquity, reflecting his deep understanding of the Vedas and ancient lore",
+      "sentence_structure": "Long, winding sentences that weave together complex ideas and philosophies",
+      "signature_phrases": [
+        "As the scriptures say...",
+        "In the pursuit of wisdom...",
+        "The ways of the ancients are not to be forgotten..."
+      ],
+      "topics_they_initiate": "Discussions on philosophy, spirituality, and the responsibilities of leadership",
+      "topics_they_avoid": "Gossip, frivolous chatter, or talk of petty squabbles",
+      "how_they_address_others": "Addresses everyone with respect, using titles and honorifics where due",
+      "dialogue_style": "Meandering, philosophical, and patient, often using allegories and metaphors to convey deeper truths"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Wisdom through self-discipline",
+      "virtues": [
+        "Compassion",
+        "Integrity",
+        "Selflessness"
+      ],
+      "flaws": [
+        "Over-cautiousness",
+        "Tendency to prioritize duty over personal relationships",
+        "Internal conflict between his loyalty to the Kauravas and his duty to uphold dharma"
+      ],
+      "motivation": "To fulfill his duty as a teacher, advisor, and warrior, while upholding the principles of dharma",
+      "fear": "Failure to protect those under his care, and the possibility of straying from the path of righteousness",
+      "internal_conflict": "The struggle to balance his loyalty to the Kauravas with his commitment to upholding justice and morality",
+      "relationship_with_dharma": "Sees dharma as the guiding principle of his life, and strives to embody its teachings in all his actions",
+      "in_battle": "Fights with a calm, calculated precision, using his experience and wisdom to outmaneuver his opponents",
+      "in_peace": "Moves with a quiet, unassuming confidence, always ready to offer guidance and counsel to those who seek it"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 750 'Kripacharya, the wise and venerable guru, stands tall with an aura of quiet confidence, his eyes shining with a deep wisdom. He wears a simple, cream-colored dhoti and a golden, embroidered vest, with a long, slender sword at his side. The background is a warm, golden light, symbolizing his connection to the divine.'",
+      "stable_diffusion_prompt": "Kripacharya, wise guru, standing with confidence, cream-colored dhoti, golden vest, long sword, warm golden light, divine aura, --v 5 --q 2",
+      "negative_prompt": "Kripacharya, old, frail, weak, timid, dark background, --v 5 --q 2",
+      "reference_style": "Amar Chitra Katha illustrations, with a touch of realism and depth",
+      "lighting_setup": "Warm, golden light, with a soft, ethereal glow emanating from the gemstone on his forehead",
+      "camera_angle": "Slightly low angle, looking up at Kripacharya, to convey a sense of respect and admiration"
+    },
+    "animation_notes": {
+      "idle_animation": "Stands perfectly still, with a quiet confidence, his eyes scanning the surroundings with a mixture of wisdom and caution",
+      "walk_cycle": "Moves with a slow, deliberate pace, as if savoring each step and the moment",
+      "battle_stance": "Assumes a calm, calculated stance, with his sword at the ready, his eyes fixed intently on his opponent",
+      "signature_gesture": "A slow, sweeping motion of his arm, as if encompassing the entirety of his wisdom and experience",
+      "entry_animation": "Enters a scene with a quiet, unassuming confidence, his presence commanding attention without demanding it"
+    },
+    "differentiation_from_others": "Kripacharya's distinctive combination of wisdom, compassion, and self-discipline sets him apart from other characters. His calm, authoritative demeanor, and his unwavering commitment to upholding dharma, make him a unique and compelling figure. His simple, yet elegant attire, and the soft, ethereal glow emanating from the gemstone on his forehead, add to his enigmatic presence. His low, resonant voice, and his tendency to speak in measured, philosophical tones, further distinguish him from others."
+  },
+  {
+    "name": "Balarama",
+    "sanskrit_name": "बलराम, meaning 'Strong Rama' or 'Strength of Rama'",
+    "role": "Warrior, elder brother of Krishna, and significant figure in the Mahabharata",
+    "faction": "Neutral / Divine",
+    "age_appearance": "Appears as a strong and youthful adult, despite being older than Krishna, with an ageless, divine aura",
+    "physical_appearance": {
+      "height": "Towering at around 6'6\" with a muscular yet lean frame, exuding immense physical power",
+      "build": "Broad-shouldered, with a V-taper physique accentuating his warrior's strength and agility",
+      "skin_tone": "Deep, golden wheatish complexion, like polished bronze, reflecting his divine and rugged outdoor lifestyle",
+      "face_shape": "Square jaw, prominent cheekbones, and a strong brow ridge, giving an impression of solidity and unyielding determination",
+      "eyes": "Lotus-shaped, with an intense, piercing gaze, and eyes that seem to see right through; his eyes are a deep, burning blue, like the hottest part of a flame",
+      "hair": "Dark, waist-length hair, often tied in a simple yet elegant knot, adorned with a peacock feather, signifying his connection to Krishna and his divine lineage",
+      "facial_hair": "A short, well-groomed beard that frames his face, giving him a distinguished, wise, and battle-hardened appearance",
+      "distinctive_marks": "A plough-shaped mark on his right palm, symbolizing his role as a farmer and a protector of the land, and his feet have a subtle, divine glow",
+      "posture": "Carries himself with perfect, relaxed confidence, as if always ready to spring into action, yet exudes a sense of calm authority and wisdom"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "Wears a simple, yet elegant, golden dhoti made of fine silk, draped in the traditional Vedic style, often with a deep saffron or blue upper garment",
+      "upper_body": "His chest is covered by a leather or golden armor, adorned with small, divine bells that softly chime as he moves",
+      "armour": "His Kavacha (armour) is divine, made from a golden alloy that seems almost liquid in the light, and is said to be impenetrable to any mortal weapon",
+      "weapons_carried": "Carries a majestic plough, which serves as both a symbol of his role as a farmer and a powerful weapon in battle, slung over his shoulder",
+      "jewellery": "Adorned with a golden, gemstone-encrusted crown on his forehead, earrings that resemble small, shimmering suns, and a necklace made of large, polished rudraksha beads",
+      "footwear": "Wears simple, sturdy sandals, suitable for both walking and combat, with soles that seem to barely touch the ground",
+      "colour_palette": "Dominant colours include golden yellow, deep saffron, sky blue, and the earthy tones of his armour and garments, reflecting his connection to the sun, sky, and land",
+      "fabric_textures": "Visible textures include the fine sheen of his silk garments, the hammered gold of his armour, and the earthy roughness of his wooden plough",
+      "divine_elements": "A soft, divine aura surrounds him, and his presence seems to evoke the calm, peaceful feeling of a clear sky or a lush, green landscape"
+    },
+    "voice_profile": {
+      "pitch": "Deep, resonant baritone voice, capable of commanding attention and inspiring awe",
+      "pitch_hz": "Around 80-90 Hz, giving his voice a sense of depth and gravity",
+      "tone_quality": "Warm, rich, and full-bodied, with a hint of a rustic, earthy undertone, reflecting his connection to the land and his role as a protector",
+      "volume_default": "Speaks in a controlled, measured tone, never too loud or too soft, always appropriate for the situation",
+      "speech_speed": "Deliberate and slow, choosing his words carefully, around 100-120 words per minute, allowing his listeners to absorb his wisdom",
+      "accent_flavour": "Has a distinct, rustic Yadava accent, with a hint of Vedic formality, reflecting his divine lineage and his role as a leader",
+      "breath_pattern": "Takes long, controlled breaths, as if savoring the air, and exhales slowly, releasing his words into the world with careful consideration",
+      "emotional_range": "His voice remains calm and steady, even in the face of great turmoil, yet his eyes betray his deepest emotions, and his voice can rise in passion when discussing justice or righteousness",
+      "signature_sounds": "Often pauses before speaking, as if collecting his thoughts, and has a deep, rumbling laugh that can be both reassuring and intimidating",
+      "tts_voice_match": "Closest match would be a deep, resonant voice with a slight rustic or earthy undertone, such as the 'Baritone' voice on ElevenLabs"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, yet straightforward and rustic, reflecting his connection to the land and his people",
+      "sentence_structure": "Constructs sentences that are simple, direct, and to the point, yet can be poetic and evocative when speaking of the divine or the natural world",
+      "signature_phrases": [
+        "By the honour of the Yadavas",
+        "As the earth bears witness",
+        "May the truth be revealed"
+      ],
+      "topics_they_initiate": "Often speaks about the importance of duty, the balance of nature, and the need for justice and righteousness in the world",
+      "topics_they_avoid": "Avoids discussing unnecessary conflict, petty squabbles, or gossip, and deflects conversations that might lead to strife or division",
+      "how_they_address_others": "Addresses everyone with respect, using titles and honorifics when appropriate, and speaks to each person according to their station and character",
+      "dialogue_style": "Direct, honest, and uncompromising, yet compassionate and understanding, with a deep empathy for those who suffer or are oppressed"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Unwavering Commitment to Justice",
+      "virtues": [
+        "Loyalty",
+        "Compassion",
+        "Wisdom"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Overprotectiveness",
+        "Rigidity"
+      ],
+      "motivation": "Driven by a deep sense of duty and responsibility to protect the innocent and defend the righteous",
+      "fear": "Fear of failing to uphold justice, or of being unable to protect those he cares about",
+      "internal_conflict": "Struggles with the balance between his duty as a warrior and his role as a protector of the innocent, and the moral implications of his actions",
+      "relationship_with_dharma": "Believes deeply in the importance of dharma, and strives to uphold the natural order and balance of the world",
+      "in_battle": "Fights with a fierce determination and unyielding resolve, using his strength and cunning to outmaneuver his foes",
+      "in_peace": "Is a calm and gentle soul, with a deep love for the natural world and a strong sense of compassion for all living beings"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --ar 2:3 --q 2 --stylize 750 a majestic, powerful figure with a strong, rugged face, wearing golden armour and carrying a plough, set against a backdrop of a lush, green landscape with a clear blue sky",
+      "stable_diffusion_prompt": "Balarama, strong and powerful, golden armour, plough, rustic, divine, peaceful landscape, warm lighting, highly detailed, realistic",
+      "negative_prompt": "avoid dark, ominous, or overly dramatic scenes, and do not depict Balarama with excessive ornamentation or unnecessary accessories",
+      "reference_style": "Baahubali film aesthetic, with a mix of realistic and stylized elements, and a strong emphasis on showcasing the character's personality and presence",
+      "lighting_setup": "Warm, golden light, with a soft, natural glow, and deep shadows to accentuate the character's features and the texture of his armour and surroundings",
+      "camera_angle": "Low angle, looking up, to emphasize the character's strength and presence, and to create a sense of awe and reverence"
+    },
+    "animation_notes": {
+      "idle_animation": "Stands tall and still, with a sense of quiet confidence and authority, and a subtle, almost imperceptible movement of his eyes, as if watching the surroundings",
+      "walk_cycle": "Walks with a slow, powerful stride, as if gliding across the ground, with a sense of purpose and direction",
+      "battle_stance": "Assumes a wide, powerful stance, with his plough at the ready, and a fierce, determined look in his eyes",
+      "signature_gesture": "Often places his hand on the shaft of his plough, as if ready to spring into action, or gestures with a slow, sweeping motion of his arm",
+      "entry_animation": "Enters the scene with a sense of calm, authoritative presence, as if emerging from the landscape itself, with a subtle, golden glow surrounding him"
+    },
+    "differentiation_from_others": "Balarama is unmistakable due to his towering height, his golden armour, and the plough he carries, which serves as both a symbol of his role and a powerful weapon. His deep, resonant voice, and his calm, authoritative presence, set him apart from other characters. His rugged, weathered face, and his piercing, lotus-shaped eyes, seem to bore into those he meets, as if seeing right through to their soul. Overall, Balarama exudes a sense of powerful, unyielding strength, combined with a deep sense of compassion and wisdom, making him a truly unique and compelling character."
+  },
+  {
+    "name": "Subhadra",
+    "sanskrit_name": "सुभद्रा - Su-bhadra, meaning 'auspicious' or 'one with great virtues'",
+    "role": "Princess of Dwarka, sister of Krishna, and wife of Arjuna",
+    "faction": "Pandava",
+    "age_appearance": "Late teens to early twenties, resembling a youthful and radiant goddess",
+    "physical_appearance": {
+      "height": "Petite and slender, around 5'2\" with a delicate yet athletic build",
+      "build": "Lean and agile, with a dancer's physique and subtle muscular tone",
+      "skin_tone": "Golden wheatish complexion with a warm, sun-kissed glow",
+      "face_shape": "Heart-shaped face with high cheekbones, a slender nose, and full lips",
+      "eyes": "Large, expressive eyes shaped like lotus petals, with a deep, rich brown color and a soft, gentle sparkle",
+      "hair": "Long, dark hair that falls in loose waves down her back, often adorned with a delicate golden hairpiece",
+      "facial_hair": "No facial hair, with a smooth and flawless complexion",
+      "distinctive_marks": "A small, delicate tilak on her forehead and a subtle, shimmering glow around her person, hinting at her divine heritage",
+      "posture": "Elegant and poised, with a quiet confidence and an unhurried, gentle demeanor"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A flowing, golden-hued sari with intricate, gemstone-encrusted embroidery and a delicate, beaded border",
+      "upper_body": "A delicate, gemstone-encrusted blouse that complements her golden sari, with a subtle, shimmering effect that hints at her divine bloodline",
+      "armour": "No visible armor, but an aura of protection and blessings from her brother Krishna and her husband Arjuna",
+      "weapons_carried": "None visible, but a subtle, hidden dagger or a small, delicate bow and quiver, symbolizing her connection to her warrior-husband and brother",
+      "jewellery": "Intricate, gemstone-encrusted earrings, a delicate, golden necklace with a small, shining pendant, and a few, subtle, gemstone-encrusted bangles on her wrists",
+      "footwear": "Delicate, golden sandals with a subtle, gemstone-encrusted design, hinting at her royal and divine heritage",
+      "colour_palette": "Golden, creamy whites, deep browns, and rich, jewel-toned colors, reflecting her connection to the sun, her divine heritage, and her role as a princess and a warrior's wife",
+      "fabric_textures": "Silks, fine cottons, and delicate, gemstone-encrusted embroidery, reflecting her royal and divine status",
+      "divine_elements": "A subtle, shimmering aura that hints at her divine heritage, a delicate, golden glow that surrounds her person, and a few, subtle, gemstone-encrusted symbols that reflect her connection to her brother Krishna and her husband Arjuna"
+    },
+    "voice_profile": {
+      "pitch": "A clear, melodious, and gentle voice, with a subtle, soothing quality that reflects her compassionate and nurturing nature",
+      "pitch_hz": "Around 220-240 Hz, with a subtle, musical quality that hints at her connection to music, dance, and the arts",
+      "tone_quality": "Warm, smooth, and resonant, with a subtle, gentle vibrato that reflects her emotional depth and her connection to her heart",
+      "volume_default": "Soft and gentle, with a subtle, musical quality that hints at her artistic and creative nature",
+      "speech_speed": "Moderate and measured, with a subtle, soothing pace that reflects her calm and peaceful demeanor",
+      "accent_flavour": "A subtle, Vedic flavor, with a gentle, lilting quality that hints at her divine heritage and her connection to the ancient traditions of India",
+      "breath_pattern": "Deep and measured, with a subtle, soothing quality that reflects her calm and peaceful nature",
+      "emotional_range": "Subtle and nuanced, with a deep emotional depth and a rich, inner life that reflects her connection to her heart and her intuition",
+      "signature_sounds": "A gentle, musical laugh, a soft and soothing sigh, and a subtle, melodious humming or singing, reflecting her connection to music and the arts",
+      "tts_voice_match": "A gentle, melodious voice with a subtle, soothing quality, similar to the ElevenLabs voice profile 'Luna' or the Kokoro TTS voice profile 'Sakura'"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal and polished, with a subtle, poetic quality that reflects her connection to the arts and her divine heritage",
+      "sentence_structure": "Complex and nuanced, with a subtle, musical quality that hints at her connection to music and the rhythms of the universe",
+      "signature_phrases": [
+        "'May the blessings of the divine be upon you'",
+        "'May your heart be filled with peace and your spirit be lifted by joy'",
+        "'May our conversation be guided by wisdom and compassion'"
+      ],
+      "topics_they_initiate": "Spiritual growth, personal development, and the arts, with a subtle, gentle emphasis on the importance of compassion, empathy, and self-awareness",
+      "topics_they_avoid": "Conflict, aggression, and negative or hurtful topics, with a subtle, gentle tendency to deflect or redirect the conversation towards more positive and uplifting themes",
+      "how_they_address_others": "With respect, kindness, and compassion, using formal titles and honorifics when addressing elders or those in positions of authority",
+      "dialogue_style": "Gentle, soothing, and melodious, with a subtle, poetic quality that reflects her connection to the arts and her divine heritage"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Compassionate and nurturing",
+      "virtues": [
+        "Empathy",
+        "Compassion",
+        "Self-awareness"
+      ],
+      "flaws": [
+        "Overly selfless",
+        "Too forgiving",
+        "Tendency to prioritize others' needs over her own"
+      ],
+      "motivation": "To bring peace, harmony, and happiness to those around her, and to support her loved ones in their spiritual growth and personal development",
+      "fear": "Losing those she loves, or failing to fulfill her duties as a princess, a wife, and a member of her community",
+      "internal_conflict": "Balancing her own needs and desires with the expectations and demands of those around her, and navigating the complexities of her own heart and intuition",
+      "relationship_with_dharma": "Deeply respectful and committed, with a subtle, gentle emphasis on the importance of compassion, empathy, and self-awareness in fulfilling one's duties and responsibilities",
+      "in_battle": "Calm and peaceful, with a subtle, gentle quality that reflects her connection to her heart and her intuition, and a deep, inner strength that guides her actions and decisions",
+      "in_peace": "Gentle and nurturing, with a subtle, soothing quality that reflects her compassionate and empathetic nature, and a deep, inner peace that guides her actions and decisions"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --q 2 --ar 2:3 a serene and peaceful Subhadra, dressed in a golden sari with intricate, gemstone-encrusted embroidery, standing in a lush, green forest with a subtle, shimmering glow surrounding her person, --style Baahubali film aesthetic, --lighting soft and warm, with a subtle, golden glow",
+      "stable_diffusion_prompt": "Subhadra, princess of Dwarka, dressed in a golden sari with intricate, gemstone-encrusted embroidery, standing in a lush, green forest with a subtle, shimmering glow surrounding her person, warm, golden lighting, serene and peaceful atmosphere, --v 6, --q 2, --ar 2:3",
+      "negative_prompt": "No dark or ominous tones, no conflict or aggression, no negative or hurtful themes",
+      "reference_style": "Baahubali film aesthetic, with a subtle, gentle emphasis on the importance of compassion, empathy, and self-awareness",
+      "lighting_setup": "Soft and warm, with a subtle, golden glow that reflects her connection to the sun and her divine heritage",
+      "camera_angle": "Eye-level, with a subtle, gentle emphasis on her compassionate and nurturing nature, and a deep, inner peace that guides her actions and decisions"
+    },
+    "animation_notes": {
+      "idle_animation": "Standing serenely, with a subtle, gentle sway to her movements, as if she is being guided by an unseen force or inspired by a deep, inner wisdom",
+      "walk_cycle": "Gliding effortlessly, with a subtle, musical quality to her footsteps, as if she is dancing across the ground with a deep, inner joy and a sense of freedom",
+      "battle_stance": "Calm and peaceful, with a subtle, gentle quality that reflects her connection to her heart and her intuition, and a deep, inner strength that guides her actions and decisions",
+      "signature_gesture": "A gentle, soothing smile, or a subtle, melodious laugh, that reflects her compassionate and nurturing nature, and a deep, inner peace that guides her actions and decisions",
+      "entry_animation": "Emerging from a subtle, shimmering glow, with a gentle, musical quality to her movements, as if she is being guided by an unseen force or inspired by a deep, inner wisdom"
+    },
+    "differentiation_from_others": "Subhadra's unique blend of compassion, empathy, and self-awareness, combined with her connection to her divine heritage and her role as a princess and a warrior's wife, make her a distinctive and unforgettable character, with a subtle, gentle quality that reflects her peaceful and nurturing nature, and a deep, inner strength that guides her actions and decisions. Her golden sari, intricate, gemstone-encrusted embroidery, and subtle, shimmering glow surrounding her person, also serve to distinguish her from other characters, and reflect her connection to the sun, her divine heritage, and her role as a symbol of hope and inspiration. Additionally, her gentle, melodious voice, and subtle, poetic quality to her speech, further differentiate her from other characters, and reflect her connection to the arts and her divine heritage."
+  },
+  {
+    "name": "Hidimba",
+    "sanskrit_name": "हिडिम्बा (Hidimbā) - the rakshasi sister of Hidimba",
+    "role": "Rakshasi, warrior, and wife of Bhima",
+    "faction": "Pandava",
+    "age_appearance": "Apparent age range: mid-20s to early 30s, with a strong and athletic yet feminine build, reflecting her mixed human and rakshasa heritage",
+    "physical_appearance": {
+      "height": "Tall at around 5'8\" with a lithe yet powerful physique",
+      "build": "Athletic and toned, reflecting her warrior training and rakshasa strength",
+      "skin_tone": "Golden brown with a warm, sun-kissed glow, like polished copper",
+      "face_shape": "Heart-shaped with high cheekbones and a pointed chin",
+      "eyes": "Almond-shaped, dark brown eyes with golden flecks, expressive and fierce",
+      "hair": "Long, dark black hair that falls in loose waves down her back, often tied with a leather thong",
+      "facial_hair": "No facial hair, with a smooth, unblemished complexion",
+      "distinctive_marks": "A small, intricate tattoo of a snake coiled around her right wrist, symbolizing her rakshasa heritage",
+      "posture": "Confident and upright, with a subtle, fluid grace that belies her formidable strength"
+    },
+    "clothing_and_armour": {
+      "primary_garment": "A flowing, emerald green saree made of lightweight silk, draped elegantly around her body",
+      "upper_body": "A fitted, golden blouse that showcases her toned arms and shoulders",
+      "armour": "A pair of supple, leather arm guards, adorned with small, shimmering silver accents",
+      "weapons_carried": "A short sword at her hip, and a small, ornate dagger tucked into her belt",
+      "jewellery": "A delicate, golden necklace with a tiny, polished ruby pendant, and a pair of dangling, silver earrings shaped like tiny bells",
+      "footwear": "Simple, supple leather sandals that allow her to move quietly and freely",
+      "colour_palette": "Emerald green, golden yellow, dark brown, and rich red",
+      "fabric_textures": "Silk, leather, and softly woven cotton",
+      "divine_elements": "A subtle, pulsing aura that surrounds her, reflecting her connection to the natural world and her rakshasa heritage"
+    },
+    "voice_profile": {
+      "pitch": "Mid-range, with a warm, husky quality that is both soothing and commanding",
+      "pitch_hz": "140Hz",
+      "tone_quality": "Smooth, rich, and slightly resonant, with a hint of a growl when she is angry or passionate",
+      "volume_default": "Moderate, with a tendency to drop to a whisper when she is being intimate or conspiratorial",
+      "speech_speed": "Moderate, around 120wpm, with a tendency to slow down when she is explaining complex ideas or telling stories",
+      "accent_flavour": "A subtle, rustic flavour, reflecting her upbringing in the wilderness and her mixed human and rakshasa heritage",
+      "breath_pattern": "Deep, controlled breaths, with a tendency to hold her breath when she is listening intently or focusing on a task",
+      "emotional_range": "Expressive, with a wide range of emotional nuance, from soft and gentle to fierce and commanding",
+      "signature_sounds": "A low, throaty laugh, and a tendency to click her tongue when she is amused or intrigued",
+      "tts_voice_match": "Kokoro TTS voice profile: 'Warm, husky female'"
+    },
+    "speech_and_language": {
+      "vocabulary_level": "Formal, with a strong command of Sanskrit and a tendency to use poetic, descriptive language",
+      "sentence_structure": "Complex, with a tendency to use nested clauses and poetic metaphors",
+      "signature_phrases": [
+        "By the light of the full moon",
+        "As the forest whispers its secrets",
+        "With the strength of a hundred warriors"
+      ],
+      "topics_they_initiate": "The natural world, the balance of nature, and the importance of living in harmony with the environment",
+      "topics_they_avoid": "The intricacies of human politics, and the petty squabbles of the royal court",
+      "how_they_address_others": "With respect and courtesy, using formal titles and honorifics when addressing elders or those in positions of authority",
+      "dialogue_style": "Poetic, descriptive, and engaging, with a tendency to use storytelling and metaphor to convey complex ideas"
+    },
+    "personality_and_psychology": {
+      "core_trait": "Fiercely independent and strong-willed",
+      "virtues": [
+        "Loyalty",
+        "Courage",
+        "Empathy"
+      ],
+      "flaws": [
+        "Impulsiveness",
+        "Stubbornness",
+        "Tendency to isolate herself"
+      ],
+      "motivation": "A desire to protect and defend those she cares about, and to live in harmony with the natural world",
+      "fear": "The loss of her loved ones, and the destruction of the natural world",
+      "internal_conflict": "A struggle to balance her loyalty to her family and friends with her desire for independence and self-reliance",
+      "relationship_with_dharma": "A deep respect for the natural order of the universe, and a commitment to living in harmony with the environment",
+      "in_battle": "Fierce, fearless, and formidable, with a tendency to use her surroundings to her advantage",
+      "in_peace": "Warm, gentle, and nurturing, with a deep love for the natural world and all living creatures"
+    },
+    "avatar_generation_prompt": {
+      "midjourney_prompt": "--v 6 --q 2 --ar 2:3 'Hidimba, the rakshasi warrior, standing in a sun-dappled forest glade, with a short sword at her hip and a look of fierce determination on her face'",
+      "stable_diffusion_prompt": "Generate an image of Hidimba, the rakshasi warrior, with a warm, golden light and a sense of dynamic movement",
+      "negative_prompt": "Avoid images with excessive violence, gore, or dark fantasy elements",
+      "reference_style": "Baahubali film aesthetic, with a focus on naturalistic lighting and textures",
+      "lighting_setup": "Warm, golden light with deep shadows, to emphasize Hidimba's fierce and determined personality",
+      "camera_angle": "Low angle, looking up at Hidimba, to convey a sense of power and strength"
+    },
+    "animation_notes": {
+      "idle_animation": "A subtle, fluid motion, as if she is always ready to move or react",
+      "walk_cycle": "A smooth, gliding motion, with a tendency to move quietly and unobtrusively",
+      "battle_stance": "A fierce, aggressive stance, with her sword at the ready and her eyes blazing with determination",
+      "signature_gesture": "A swift, flowing motion of her arm, as if she is summoning the power of the natural world",
+      "entry_animation": "A dramatic, sweeping entrance, with a flash of light and a sense of dynamic movement"
+    },
+    "differentiation_from_others": "Hidimba's unique blend of human and rakshasa heritage, combined with her fierce independence and strong will, make her a compelling and unforgettable character. Her warm, husky voice and poetic language add to her distinctive personality, while her athleticism and warrior training make her a formidable opponent in battle. Her deep connection to the natural world and her commitment to living in harmony with the environment set her apart from other characters, and her subtle, pulsing aura reflects her connection to the divine."
+  }
+]

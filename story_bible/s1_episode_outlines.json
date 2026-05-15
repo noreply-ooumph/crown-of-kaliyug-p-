@@ -1,0 +1,42 @@
+{
+  "episodes": [
+    {
+      "id": "S1E01",
+      "title": "The Weight of Crowns",
+      "acts": [
+        {
+          "act_number": 1,
+          "description": "The Tournament Arena of Hastinapur. Arjuna displays peerless skill. The court is in awe.",
+          "characters": ["arjuna", "yudhishthira", "duryodhana", "bhishma", "drona", "kunti"]
+        },
+        {
+          "act_number": 2,
+          "description": "Karna enters like a thunderclap. He challenges Arjuna. The crowd falls silent. Kunti recognises him.",
+          "characters": ["karna", "arjuna", "kunti", "bhishma", "drona"]
+        },
+        {
+          "act_number": 3,
+          "description": "Kripacharya challenges Karna's lineage. Duryodhana crowns Karna King of Anga.",
+          "characters": ["karna", "duryodhana", "kripacharya", "bhishma"]
+        },
+        {
+          "act_number": 4,
+          "description": "The Sunset Duel. A hint of Karna's divinity.",
+          "is_tag_sequence": true,
+          "characters": ["karna", "arjuna"]
+        }
+      ]
+    },
+    {
+      "id": "S1E02",
+      "title": "The House of Lac",
+      "acts": [
+        {
+          "act_number": 1,
+          "description": "The escape from the burning house.",
+          "characters": ["yudhishthira", "bhima", "arjuna", "kunti"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+characters:
+  yudhishthira:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: 0Hz
+    rate: -15%
+    tone: deliberate, never raises voice
+    _metadata:
+      pitch_hz: around 90Hz
+      wpm: Deliberate and measured, with a slow, steady pace that reflects his thoughtful
+        and contemplative nature
+      tone_quality: Warm, rich, and resonant, with a subtle, velvety smoothness that
+        is both soothing and commanding
+      edge_rate: -15%
+      edge_pitch: 0Hz
+  draupadi:
+    edge_voice: hi-IN-SwaraNeural
+    pitch: +15Hz
+    rate: 0%
+    tone: precise, devastating, never repeats
+    _metadata:
+      pitch_hz: 230Hz
+      wpm: Moderate, around 120wpm, with a natural, effortless flow
+      tone_quality: Smooth, velvety, and soothing, with a subtle, underlying strength
+      edge_rate: 0%
+      edge_pitch: +15Hz
+  karna:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: -5Hz
+    rate: -15%
+    tone: warm, formal challenge, precise
+    _metadata:
+      pitch_hz: 85Hz
+      wpm: Slow and measured, around 90wpm, with a tendency to pause for emphasis
+        or effect
+      tone_quality: Warm, rich, and authoritative, with a hint of sadness and depth
+      edge_rate: -15%
+      edge_pitch: -5Hz
+  krishna:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: -5Hz
+    rate: -15%
+    tone: playful, warm, oblique
+    _metadata:
+      pitch_hz: 85Hz, with a rich, harmonically complex timbre
+      wpm: Slow and deliberate, with a pace that is both calming and authoritative
+      tone_quality: Warm, velvety smooth, with a hint of divine, otherworldly authority
+      edge_rate: -15%
+      edge_pitch: -5Hz
+  duryodhana:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: -5Hz
+    rate: +0%
+    tone: loud, magnetic, generous with allies
+  bhishma:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: -5Hz
+    rate: -15%
+    tone: formal, archaic, geological patience
+    _metadata:
+      pitch_hz: Around 75Hz, with a rich, sonorous quality that can both soothe and
+        inspire
+      wpm: Around 110 words per minute, with a slow, deliberate pace that reflects
+        his thoughtful and considered nature
+      tone_quality: Warm, authoritative, and wise, with a hint of ancient knowledge
+        and experience
+      edge_rate: -15%
+      edge_pitch: -5Hz
+  shakuni:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: +3Hz
+    rate: +15%
+    tone: avuncular, warm surface, dangerous underneath
+    _metadata:
+      pitch_hz: 120Hz, giving him a voice that is both clear and commanding
+      wpm: Rapid and engaging, with a tendency to slow down for emphasis or effect,
+        reflecting his strategic thinking
+      tone_quality: Smooth, with a hint of sharpness when he is being cunning or ironic,
+        making his voice unforgettable
+      edge_rate: +15%
+      edge_pitch: +3Hz
+  kunti:
+    edge_voice: hi-IN-SwaraNeural
+    pitch: +8Hz
+    rate: -15%
+    tone: composed, regal, devastating when honest
+    _metadata:
+      pitch_hz: 180Hz
+      wpm: Deliberate, and measured, with a focus on conveying complex ideas
+      tone_quality: Smooth, and refined, with a subtle, musical cadence
+      edge_rate: -15%
+      edge_pitch: +8Hz
+  arjuna:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: -5Hz
+    rate: -15%
+    tone: charming, confident, a little vain
+    _metadata:
+      pitch_hz: 85Hz
+      wpm: Slow and deliberate, around 90 words per minute
+      tone_quality: Warm, rich, and commanding, with a hint of a growl when he's angry
+        or determined
+      edge_rate: -15%
+      edge_pitch: -5Hz
+  vyasa:
+    edge_voice: hi-IN-MadhurNeural
+    pitch: -15Hz
+    rate: -15%
+    tone: narrator - deep, unhurried, weight of civilisations
+emotion_overrides:
+  whisper:
+    rate: -20%
+    volume: -10dB
+  rage:
+    rate: +20%
+    volume: +10dB
+  formal:
+    rate: +0%
+    volume: +0dB
+  verse_mode:
+    rate: -10%
+    pitch: +2Hz

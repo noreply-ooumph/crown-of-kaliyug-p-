@@ -1,0 +1,37 @@
+# Crown of Kaliyug — Protected Canon Facts
+# Phase 0: Foundation
+# This file is used by the Canon Guardian agent to verify script integrity.
+
+critical_gates:
+  karna_identity: "S3 river scene reveal"
+  krishna_divinity: "S5 Vishwaroop"
+  krishna_never_lies: "Absolute character rule"
+  bhishma_death: "S4 Day 10"
+
+global_rules:
+  - "Krishna never lies directly."
+  - "Karna's true parentage is not revealed before Season 3."
+  - "Krishna's divine form is not shown before Season 5."
+  - "The Kurukshetra theme melody is only used fully in Season 4+."
+
+character_constraints:
+  karna:
+    - "Must have glowing golden armor until S3 river scene."
+    - "Identity as Kunti's son is hidden until S3."
+    - "Charioteer background is public from S1E01."
+  
+  krishna:
+    - "Never use CGI for divine effects before S5."
+    - "Dialogue must be oblique, never direct lies."
+  
+  bhishma:
+    - "Dies on Day 10 of war (S4)."
+    - "Always uses formal/archaic speech [verse_mode]."
+
+episode_hard_gates:
+  S1E01:
+    - "Karna must be crowned King of Anga."
+    - "Kunti must recognize Karna visually."
+  S1E07:
+    - "Draupadi's vow must be established."
+    - "Krishna's divine intervention with the cloth."

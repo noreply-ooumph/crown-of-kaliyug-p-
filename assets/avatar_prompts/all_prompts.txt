@@ -1,0 +1,510 @@
+MAHABHARATA AVATAR PROMPTS
+============================================================
+Paste each prompt into: Midjourney / Stable Diffusion / DALL-E / Ideogram
+============================================================
+
+CHARACTER 01: YUDHISHTHIRA
+Role: Warrior, king, and leader of the Pandavas | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 1000 a majestic, regal figure with a strong, yet lean build, dressed in a simple, yet elegant dhoti, with a golden, armored chest plate, and a mighty bow slung over his shoulder, set against a backdrop of a serene, natural landscape, with a subtle, shimmering aura that surrounds him, reflecting his divine ancestry and connection to the gods
+
+── STABLE DIFFUSION PROMPT ──
+regal, majestic, strong, lean, dhoti, golden armor, bow, serene landscape, subtle aura, divine ancestry, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Yudhishthira from the ancient Indian epic Mahabharata. Role: Warrior, king, and leader of the Pandavas. Faction: Pandava. Height and build: Broad-shouldered, with a muscular yet lithe physique, reflecting his warrior training and discipline. Skin tone: A deep, rich brown, reminiscent of polished teakwood. Eyes: Large, calm, and piercing brown eyes that seem to see right through you, with a deep wisdom and compassion. Hair: Dark, shoulder-length hair, often tied back in a simple yet elegant knot, adorned with a few strands of sacred tulsi. Distinctive marks: A small, intricate mark on his forehead, symbolizing his divine ancestry and connection to the gods. Battle posture: Perfectly upright, with a quiet confidence and authority that commands respect without demanding it. Wearing: A simple, yet elegant dhoti in a deep, rich blue, symbolizing his connection to the infinite and the divine. Armour: Light, yet strong armor that covers his arms and shoulders, with a subtle, shimmering quality that hints at its divine origins. Weapons: A mighty bow, the Ajagava, slung over his shoulder, with a quiver full of arrows at his side. Jewellery: A simple, golden crown on his head, with a few, choice gems that reflect his status as a king and a warrior. Divine elements: A subtle, shimmering aura that surrounds him, reflecting his divine ancestry and connection to the gods. Colour palette: Deep blues and golds, with accents of rich brown and creamy white. Pose: Strong, focused, and strategic, with a deep sense of inner peace and clarity, as if channeling the power of the gods. Lighting: Soft, natural light, with a subtle, warm glow that reflects the serenity and peace of the natural landscape. Camera angle: Eye-level, with a subtle, slight tilt upwards to reflect the majesty and authority of the character. Visual style: Baahubali film aesthetic, with a subtle, nuanced blend of traditional Indian and contemporary styles. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+ugly, weak, timid, poor, dirty, messy, chaotic
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone, with a warm, rich quality that commands attention | Hz: around 90Hz
+  Tone:  Warm, rich, and resonant, with a subtle, velvety smoothness that is both soothing and commanding
+  TTS:   ElevenLabs' DeepVoice, with a subtle, customized tweak to reflect his unique, Vedic flavor
+
+============================================================
+
+CHARACTER 02: BHIMA
+Role: Warrior | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --chaos 20 --midjourney-beta --stylize 1000 'Bhima, the Pandava warrior, standing victorious on a battlefield, with a massive club in hand, and a fierce expression on his face. Golden armour, with a subtle glow, and a deep, burnished copper skin tone. Background: a dark, stormy sky, with flashes of lightning. Style: hyper-realistic, with a focus on texture, and lighting.'
+
+── STABLE DIFFUSION PROMPT ──
+Bhima, the Pandava warrior, with golden armour, and a massive club, standing on a battlefield, with a fierce expression, and a subtle, golden aura. Style: hyper-realistic, with a focus on texture, and lighting. --q 2 --midjourney-beta --stylize 1000, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Bhima from the ancient Indian epic Mahabharata. Role: Warrior. Faction: Pandava. Height and build: Broad-shouldered, V-tapered, with a powerful warrior's physique. Skin tone: Deep wheatish bronze, like the colour of polished copper. Eyes: Lotus-shaped, amber gold, with a calm but piercing intensity. Hair: Dark black, waist-length, tied in a warrior's knot with a peacock feather. Distinctive marks: A small scar above his left eyebrow, and a series of battle scars on his arms and torso. Battle posture: Perfectly upright, with a commanding stillness, and a relaxed confidence. Wearing: A golden dhoti in Kanchipuram silk, with a deep saffron upper body wrap. Armour: The Kavacha Kundala — golden divine armour fused to his skin, with a subtle glow. Weapons: A massive club, slung over his shoulder, and a sword at his left hip. Jewellery: A golden crown, with a large, polished ruby at its centre, and a pair of earrings shaped like lion's heads. Divine elements: A subtle, golden aura surrounding his body, and a series of intricate, divine symbols etched into his armour. Colour palette: Deep gold, rich saffron, and burnished copper. Pose: A wide, aggressive stance, with his club at the ready, and a fierce expression. Lighting: Dramatic, with a focus on high contrast, and deep shadows. A mix of warm, and cool colours, to create a sense of tension, and energy. Camera angle: Low angle, looking up, to emphasize Bhima's size, and power. Visual style: Baahubali film aesthetic, with a focus on grandeur, and epic scope. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+do not include any elements that are not directly related to Bhima, or the Pandavas. Avoid any modern, or anachronistic elements.
+
+── VOICE SETTINGS ──
+  Pitch: Deep baritone, with a commanding resonance | Hz: 75Hz
+  Tone:  Warm, resonant, and authoritative
+  TTS:   ElevenLabs' 'Deep Baritone' voice profile
+
+============================================================
+
+CHARACTER 03: ARJUNA
+Role: Warrior and prince | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+Arjuna, the Pandava prince, standing tall with his Gandiva bow and quiver, wearing the Kavacha Kundala armour, with a golden, gemstone-encrusted crown on his head, set against a backdrop of a sunny, cloudless sky, with a few birds flying in the distance, --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Arjuna, the Pandava prince, in a hyper-realistic, photorealistic style, with intricate details and textures, wearing the Kavacha Kundala armour and carrying the Gandiva bow, with a deep, burnished gold colour palette and a sense of warm, golden light, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Arjuna from the ancient Indian epic Mahabharata. Role: Warrior and prince. Faction: Pandava. Height and build: Broad-shouldered, V-tapered, with a strong warrior's physique honed from years of training and battle. Skin tone: Deep wheatish bronze, similar to the colour of polished copper. Eyes: Lotus-shaped, with an intense, piercing gaze that seems to see right through you, his eyes are an deep, burnished gold. Hair: Dark black, worn long and tied back in a warrior's knot, adorned with a peacock feather. Distinctive marks: A small, intricate scar above his left eyebrow and the Sudarshana chakra mark on his right palm. Battle posture: Upright and confident, with a commanding presence that draws the eye. Wearing: A golden dhoti in Kanchipuram silk, pleated and draped in the traditional style of the Pandavas, in a deep saffron colour. Armour: The Kavacha Kundala - a golden, divine armour fused to his skin, glowing with a soft, ethereal light. Weapons: The Gandiva bow, slung across his back, with two quivers full of arrows and a sword at his left hip. Jewellery: A golden, gemstone-encrusted crown on his head, with earrings and a necklace that match the armour's design. Divine elements: The glowing, ethereal aura of the Kavacha Kundala armour and the Sudarshana chakra mark on his right palm. Colour palette: Gold, deep saffron, burnished copper, and the deep blue of a summer sky. Pose: A wide, strong stance, with his feet shoulder-width apart and his Gandiva bow at the ready. Lighting: Warm, golden lighting with deep shadows, to emphasize Arjuna's strong, chiseled features and the intricate details of his armour. Camera angle: A low angle, looking up at Arjuna, to convey his strength and confidence. Visual style: A mix of Baahubali film aesthetic and Amar Chitra Katha illustrations, with a focus on hyper-realistic CGI. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any depictions of Arjuna as weak, timid, or unsure, and do not include any anachronistic or out-of-place elements
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone | Hz: 85Hz
+  Tone:  Warm, rich, and commanding, with a hint of a growl when he's angry or determined
+  TTS:   Kokoro TTS - 'Deep Baritone' voice profile
+
+============================================================
+
+CHARACTER 04: NAKULA
+Role: Warrior and horse expert | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+Generate a hyper-realistic image of Nakula, the Pandava warrior, standing in a sun-drenched landscape, with a golden aura surrounding him, wearing a golden-yellow dhoti and bronze armor, carrying a longbow and quiver, with a confident and determined expression, --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Create an image of Nakula, with a warm and elegant lighting, using a mix of smooth and rough textures, and a color palette dominated by shades of gold, brown, and beige, with a soft focus on the background, and a sharp focus on the subject, masterpiece, best quality, ultra detailed, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Nakula from the ancient Indian epic Mahabharata. Role: Warrior and horse expert. Faction: Pandava. Height and build: Athletic with broad shoulders and a tapered waist, highlighting his agility and strength. Skin tone: Wheatish golden complexion, similar to the sun-kissed fields of the Indian plains. Eyes: Almond-shaped eyes with an expressive and deep brown color, fringed with thick eyelashes, often sparkling with warmth and kindness. Hair: Dark brown hair that falls to his shoulders, often tied back in a simple yet elegant knot, adorned with a feather or a decorative pin. Distinctive marks: A small scar above his left eyebrow from a childhood accident, and a series of intricate, auspicious marks on his palms, signifying his divine lineage. Battle posture: Carries himself with confidence and poise, reflecting his training as a warrior and his noble upbringing. Wearing: Wears a golden-yellow dhoti made of the finest Kanchipuram silk, wrapped elegantly around his waist, symbolizing his connection to the sun and his role as a warrior. Armour: Wears a pair of bronze gauntlets and greaves, engraved with the emblem of the Pandavas, providing protection without hindering his agility. Weapons: Carries a longbow and a quiver full of arrows on his back, along with a short sword at his hip, ready for battle at a moment's notice. Jewellery: Adorns a simple, yet elegant golden necklace with a small, polished gemstone, a gift from his mother, symbolizing her love and blessings. Divine elements: A soft, golden aura surrounds him, symbolizing his divine heritage and the blessings of the gods. Colour palette: Dominant colors include shades of gold, brown, and beige, reflecting his connection to the earth and the sun. Pose: Assumes a wide and balanced stance, with his feet shoulder-width apart, and his weight evenly distributed between both legs, ready to unleash a powerful attack. Lighting: Use a warm and soft lighting, with a combination of natural and artificial light sources, to create a sense of depth and dimensionality. Camera angle: Shoot from a slightly low angle, looking up at Nakula, to convey a sense of respect and admiration. Visual style: Inspired by the artistic style of the Baahubali film, with a mix of realistic and stylized elements. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid depicting Nakula with a menacing or aggressive expression, or with a cluttered and distracting background
+
+── VOICE SETTINGS ──
+  Pitch: Mid-range tenor, with a warm and resonant quality, capable of conveying a wide range of emotions | Hz: Approximately 120Hz, providing a sense of balance and harmony
+  Tone:  Smooth and melodious, like the sound of a gentle stream, making his voice a joy to listen to
+  TTS:   Closest match would be a warm and resonant male voice, with a mid-range pitch and a smooth tone quality, such as the 'Young Warrior' voice profile
+
+============================================================
+
+CHARACTER 05: SAHADEVA
+Role: Warrior, brother, advisor | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+Sahadeva, son of Madri, standing in a serene, natural environment, with a subtle, golden glow surrounding his body, --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+A calm, compassionate warrior, with a deep sense of inner peace, and a connection to the natural world, standing in a forest glade, with a soft, warm light, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Sahadeva from the ancient Indian epic Mahabharata. Role: Warrior, brother, advisor. Faction: Pandava. Height and build: Broad-shouldered, with a strong core and well-defined limbs, indicative of a skilled warrior. Skin tone: Medium wheatish complexion with a golden undertone, similar to the warm glow of honey. Eyes: Large, expressive eyes with a deep, soulful brown colour, fringed with thick lashes and filled with warmth and kindness. Hair: Dark brown hair, styled in a simple yet elegant manner, often adorned with a few strategically placed strands loose around the face. Distinctive marks: A small, intricate mark on his forehead, reminiscent of a crescent moon, symbolizing his divine parentage. Battle posture: Upright and confident, with a subtle air of humility and a deep sense of inner peace. Wearing: Cream-coloured dhoti made of the finest silk, wrapped elegantly around his waist and legs, with intricate golden thread embroidery. Armour: A golden, scale-like armour covering his torso, with a subtle sheen that hints at its divine origins. Weapons: A longbow and quiver full of arrows, slung over his shoulder, with a sword at his side, sheathed in a leather scabbard. Jewellery: A simple, elegant crown on his head, with a few strategically placed gemstones that accentuate his features, and a delicate, beaded necklace around his neck. Divine elements: A soft, golden glow surrounding his body, with an aura of peace and tranquility that puts those around him at ease. Colour palette: Earthy tones, with shades of gold, cream, and brown, punctuated by the deep blues and greens of the sky and the forest. Pose: Focused, with a deep sense of calm and clarity, and a willingness to adapt to changing circumstances. Lighting: Soft, warm, and natural, with a deep sense of depth and dimensionality. Camera angle: Eye-level, with a subtle, slight low-angle perspective, to emphasize his calm, compassionate nature. Visual style: Amar Chitra Katha illustrations, with a subtle, dreamlike quality. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+No modern clothing, no urban environment, no aggressive or confrontational pose
+
+── VOICE SETTINGS ──
+  Pitch: Low, smooth baritone, with a hint of warmth and kindness | Hz: 80Hz
+  Tone:  Warm, resonant, and soothing, with a subtle depth that commands attention
+  TTS:   Kokoro TTS - 'WarmBaritone'
+
+============================================================
+
+CHARACTER 06: DUSHASANA
+Role: Kaurava warrior, brother of Duryodhana | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+Dushasana, the Kaurava warrior, standing proudly in his golden armour, with his sword at his side and a confident glint in his eye. --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Dushasana, the Kaurava warrior, in his golden armour, with his sword and shield, standing proudly in a sun-drenched landscape. Positive tags: strong, confident, warrior, Kaurava, golden armour, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Dushasana from the ancient Indian epic Mahabharata. Role: Kaurava warrior, brother of Duryodhana. Faction: Kaurava. Height and build: Powerfully built, with well-defined muscles and a commanding presence. Skin tone: Deep golden brown, reminiscent of polished copper. Eyes: Almond-shaped, dark brown eyes that seem to bore into those he looks at, with a sharp, intelligent glint. Hair: Dark brown, shoulder-length hair, often tied back in a simple knot. Distinctive marks: A small scar above his left eyebrow from a childhood accident, and a series of intricate, tribal-like tattoos on his right arm. Battle posture: Confident and assertive, with a tendency to stand tall and expand his chest, as if daring others to challenge him. Wearing: A rich, golden dhoti made from the finest Kanchipuram silk, wrapped around his waist in a complex, elegant pattern. Armour: A pair of sturdy, bronze greaves that protect his shins, and a set of articulated, leather arm guards. Weapons: A long, curved sword at his left hip, and a small, leather quiver on his back containing a dozen arrows. Jewellery: A simple, gold armlet on his right bicep, and a pair of large, polished silver earrings that glint in the light. Divine elements: A small, glowing gemstone set into the hilt of his sword, said to grant the wielder strength and courage in battle. Colour palette: Deep gold, rich brown, and polished silver - a palette that reflects his wealth, status, and martial prowess. Pose: A wide, aggressive stance, with his feet shoulder-width apart and his sword at the ready. Lighting: A warm, golden light that seems to emanate from within Dushasana himself, with deep shadows that accentuate his strong features and powerful physique. Camera angle: A low angle, looking up at Dushasana as he stands proudly, with his sword at his side and his eyes gleaming with confidence. Visual style: A mix of Baahubali film aesthetic and Amar Chitra Katha illustrations, with a focus on bold lines, vibrant colours, and dynamic poses. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any images that depict Dushasana as weak, timid, or unsure of himself. No images that show him without his armour or sword.
+
+── VOICE SETTINGS ──
+  Pitch: A deep, resonant baritone, perfect for commanding attention and inspiring loyalty | Hz: Around 80Hz, with a rich, sonorous quality that seems to vibrate through the air
+  Tone:  Warm and authoritative, with a hint of roughness that suggests a life of hard-won experience
+  TTS:   The 'Deep Voice' profile on ElevenLabs, with a slight adjustment to the pitch and tone to better reflect Dushasana's unique vocal characteristics
+
+============================================================
+
+CHARACTER 07: KARNA
+Role: Warrior | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+Karna, the son of Kunti, standing tall and proud, with his golden armour and his bow, Vijaya, in a golden, sun-kissed landscape, with a sense of drama and flair, --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Karna, the warrior, with his golden armour and his bow, in a heroic, larger-than-life pose, with a sense of movement and energy, and a warm, golden light, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Karna from the ancient Indian epic Mahabharata. Role: Warrior. Faction: Kaurava. Height and build: V-tapered warrior's physique with well-defined muscles, honed from years of intense training and battle. Skin tone: Deep wheatish bronze, like the sun-kissed earth of the Indian plains. Eyes: Almond-shaped, piercing brown eyes that seem to bore into those he looks at, with a hint of sadness and depth. Hair: Dark black hair that falls to his shoulders, often tied back in a simple yet elegant knot. Distinctive marks: A golden Kavacha (armour) that is said to make him invulnerable, a gift from the Sun God Surya. Battle posture: Perfectly upright, with a commanding presence that draws the eye and inspires respect. Wearing: A golden dhoti in Kanchipuram silk, pleated and draped elegantly around his waist. Armour: The Kavacha Kundala, a divine armour that is said to make him invulnerable, fused to his skin and glowing with a soft, golden light. Weapons: A powerful bow, the Vijaya, slung over his shoulder, and a quiver full of arrows at his hip. Jewellery: A golden necklace with a small, gleaming sun emblem, symbolizing his connection to Surya. Divine elements: The Kavacha Kundala, his divine armour, which glows with a soft, golden light and seems to pulse with an inner energy. Colour palette: Gold, bronze, and dark brown, with hints of deep crimson and blue. Pose: A fierce and formidable stance, with his bow at the ready, and a sense of intensity and focus. Lighting: A warm, golden light, with a sense of depth and dimensionality, and a strong emphasis on highlighting Karna's facial features and expressions. Camera angle: A low angle, looking up at Karna, with a sense of awe and respect, and a strong emphasis on capturing his heroic, larger-than-life presence. Visual style: Amar Chitra Katha illustrations, with a sense of drama and flair, and a strong emphasis on colour and texture. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+No dark or muted colours, no dull or lifeless textures, no sense of sadness or defeat
+
+── VOICE SETTINGS ──
+  Pitch: Deep baritone, with a resonant, commanding quality that draws the listener in | Hz: 85Hz
+  Tone:  Warm, rich, and authoritative, with a hint of sadness and depth
+  TTS:   Kokoro TTS, with a custom voice profile that captures his unique tone and timbre
+
+============================================================
+
+CHARACTER 08: SHAKUNI
+Role: Master strategist, warrior, and uncle of the Kauravas | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 3000 a dignified, cunning Shakuni from the Mahabharata, dressed in deep blue and gold silk, with a sharp, strategic gaze, standing against a backdrop of a luxurious, ancient Indian palace, with golden accents and soft, warm lighting
+
+── STABLE DIFFUSION PROMPT ──
+Shakuni from the Mahabharata, dressed in luxury, with a piercing gaze, intricate dice tattoo on his left palm, against a lavish ancient Indian setting, with high detail and realistic lighting, no blur, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Shakuni from the ancient Indian epic Mahabharata. Role: Master strategist, warrior, and uncle of the Kauravas. Faction: Kaurava. Height and build: Lean and wiry, indicative of his strategic and cunning nature rather than brute physical strength. Skin tone: Fair to medium complexion, with a subtle golden undertone, hinting at his noble lineage. Eyes: Piercing brown eyes, almond-shaped and slanted upwards slightly at the outer corners, full of intelligence and cunning. Hair: Dark brown hair, often neatly combed back and tied in a simple knot, reflecting his practical and no-nonsense approach to life. Distinctive marks: A small, intricate tattoo of a dice on his left palm, symbolizing his mastery over chance and fate. Battle posture: Upright and confident, with a subtle air of superiority, reflecting his intellectual prowess and strategic mind. Wearing: Richly embroidered silk dhoti in shades of deep blue and gold, reflecting his noble status and affinity for luxury. Armour: Light, flexible leather armour underneath his garments for protection, allowing for mobility and stealth. Weapons: A short sword at his side and a set of dice hidden in his clothing, reflecting his preference for strategy over brute force. Jewellery: A simple yet elegant gold necklace with a small, polished stone pendant, symbolizing his connection to his family and heritage. Divine elements: A small, almost imperceptible glow around the dice tattoo on his palm, hinting at his divine connection to fate and chance. Colour palette: Deep blues, golds, and creamy whites, reflecting his noble lineage and taste for elegance. Pose: Balanced, with his weight evenly distributed between both feet, ready to move in any direction, with his sword at the ready. Lighting: Soft, warm golden lighting to emphasize luxury and sophistication, with subtle shadows to hint at his mysterious nature. Camera angle: Slightly above eye level, looking down, to convey a sense of power and strategic oversight. Visual style: A mix of traditional Indian art and realistic, detailed CGI, blending historical accuracy with a touch of mythological flair. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+No modern clothing, no weapons visible, no extreme facial expressions, avoid any dark or ominous lighting
+
+── VOICE SETTINGS ──
+  Pitch: Mid-range tenor with a smooth, velvety quality, capable of conveying both warmth and menace | Hz: 120Hz, giving him a voice that is both clear and commanding
+  Tone:  Smooth, with a hint of sharpness when he is being cunning or ironic, making his voice unforgettable
+  TTS:   Kokoro TTS's 'Elegant Strategist' voice profile, capturing the essence of Shakuni's refined and cunning personality
+
+============================================================
+
+CHARACTER 09: KRISHNA
+Role: Divine prince, warrior, and sage | Faction: Pandava / Divine
+
+── MIDJOURNEY PROMPT ──
+--v 6 --q 2 --ar 2:3 a hyper-realistic, divine avatar of Krishna, with a golden dhoti, and a Gandiva bow, in a serene, natural environment, with a warm, golden light, and a sense of profound wisdom and compassion
+
+── STABLE DIFFUSION PROMPT ──
+A divine, hyper-realistic avatar of Krishna, with a golden dhoti, and a Gandiva bow, in a serene, natural environment, with a warm, golden light, and a sense of profound wisdom and compassion, --v 5 --q 2 --ar 2:3, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Krishna from the ancient Indian epic Mahabharata. Role: Divine prince, warrior, and sage. Faction: Pandava / Divine. Height and build: Broad-shouldered, V-tapered physique with a strong, warrior's build. Skin tone: Deep, wheatish bronze, like the colour of dark, polished wood. Eyes: Lotus-shaped, with deep, piercing eyes that shine like amber gold in the sunlight. Hair: Dark black, shoulder-length hair, often tied in a warrior's knot with a peacock feather. Distinctive marks: The Sudarshana chakra mark on his right palm, and lotus-shaped feet. Battle posture: Perfectly upright, with a commanding, relaxed confidence that is both authoritative and calming. Wearing: A golden dhoti in Kanchipuram silk, with intricate, divine embroidery. Armour: The Kavacha Kundala, a golden, divine armour that is fused to his skin and glows with an inner light. Weapons: The Gandiva bow across his back, with two quivers and a sword at his left hip. Jewellery: A golden, divine crown with peacock feathers, and a Kaustubha gemstone around his neck. Divine elements: A glowing, divine aura that surrounds his body, with the Sudarshana chakra mark on his right palm. Colour palette: Gold, blue, and white, with a hint of divine, otherworldly light. Pose: A strong, warrior's stance, with the Gandiva bow at the ready, and a sense of focused, divine intent. Lighting: A warm, golden light, that shines from within, and illuminates the surrounding environment. Camera angle: A low angle, looking up, that captures his divine, authoritative presence. Visual style: Hyper-realistic CGI, with a hint of divine, otherworldly light, and a deep understanding of the cosmic, Vedic scriptures. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any images that depict Krishna as mundane, or worldly, or without his divine, golden aura
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone, like the sound of a divine, cosmic drum | Hz: 85Hz, with a rich, harmonically complex timbre
+  Tone:  Warm, velvety smooth, with a hint of divine, otherworldly authority
+  TTS:   Kokoro TTS, with a customized voice profile that captures his unique, divine timbre
+
+============================================================
+
+CHARACTER 10: DRAUPADI
+Role: Queen of the Pandavas | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 750 a portrait of Draupadi, the queen of the Pandavas, in a traditional Panchala saree, with intricate, gemstone-encrusted ornaments, and a soft, ethereal aura
+
+── STABLE DIFFUSION PROMPT ──
+Draupadi, queen of the Pandavas, in a traditional Panchala saree, with intricate, gemstone-encrusted ornaments, and a soft, ethereal aura, elegant, refined, and cultured, with a deep, inner strength, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Draupadi from the ancient Indian epic Mahabharata. Role: Queen of the Pandavas. Faction: Pandava. Height and build: Lithe, hourglass figure with toned muscles. Skin tone: Deep, golden wheatish complexion with a warm glow. Eyes: Large, expressive, dark brown eyes that seem to hold a deep wisdom. Hair: Long, dark, luscious hair often adorned with flowers and tied in an elegant braid. Distinctive marks: A small, delicate nose ring and a subtle, enigmatic smile. Battle posture: Confident and poised, with an effortless elegance. Wearing: A rich, red silk saree draped in the traditional Panchala style. Armour: No visible armour, but an aura of inner strength and resilience. Weapons: None visible, but often depicted with a small, delicate dagger. Jewellery: Intricate, golden ornaments adorned with precious gems, including a prominent, glittering nose ring. Divine elements: A soft, ethereal aura that hints at her divine, celestial origins. Colour palette: Deep reds, golden yellows, and rich, earthy browns. Pose: Courageous, fierce, and determined, with a strong, steady gaze and a subtle, inner fire. Lighting: Soft, warm, and golden, with a subtle, mystical glow. Camera angle: Eye-level, with a subtle, slight tilt, to convey a sense of intimacy and connection. Visual style: Baahubali film aesthetic, with a blend of traditional, Indian classical art and modern, cinematic flair. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+avoiding clichés, stereotypes, or overly dramatic representations
+
+── VOICE SETTINGS ──
+  Pitch: Melodious, mid-range soprano with a warm, rich timbre | Hz: 230Hz
+  Tone:  Smooth, velvety, and soothing, with a subtle, underlying strength
+  TTS:   Kokoro TTS - Female, Soft, and Soothing
+
+============================================================
+
+CHARACTER 11: KUNTI
+Role: Queen Mother | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 1000 a regal, and refined queen, with a warm, and compassionate smile, wearing a flowing, silk saree, in a deep, rich blue colour, with intricate gold embroidery
+
+── STABLE DIFFUSION PROMPT ──
+A beautiful, and elegant queen, with a gentle, and refined face, wearing a flowing, silk saree, in a deep, rich blue colour, with intricate gold embroidery, standing in a serene, and peaceful environment, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Kunti from the ancient Indian epic Mahabharata. Role: Queen Mother. Faction: Pandava. Height and build: Elegant and refined, with a gentle curves and a quiet strength. Skin tone: Fair, with a warm golden undertone, like the first light of dawn. Eyes: Large and expressive, with a deep, soulful brown colour, like the evening sky. Hair: Long and dark, tied in a elegant braid, adorned with a few subtle ornaments. Distinctive marks: A small, delicate nose ring, and a subtle, enigmatic smile. Battle posture: Upright and confident, with a quiet authority and poise. Wearing: A flowing, silk saree in a deep, rich blue colour, with intricate gold embroidery. Armour: None, with a focus on elegance and refinement over martial protection. Weapons: None, with a focus on her role as a queen and a mother. Jewellery: A few, tasteful ornaments, including a delicate necklace, and a pair of elegant earrings. Divine elements: A subtle, shimmering aura, like the soft glow of a candle flame. Colour palette: Deep blues, rich golds, and warm, golden undertones. Pose: Calm, and resolute, with a focus on protecting her loved ones. Lighting: Soft, and warm, with a focus on conveying a sense of serenity, and peace. Camera angle: Slightly elevated, with a focus on conveying a sense of respect, and admiration. Visual style: Amar Chitra Katha illustrations, with a focus on elegant, and refined lines. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+avoid anything crude, or unrefined, avoid anything that looks too modern, or anachronistic
+
+── VOICE SETTINGS ──
+  Pitch: Warm, and melodious, with a gentle, soothing quality | Hz: 180Hz
+  Tone:  Smooth, and refined, with a subtle, musical cadence
+  TTS:   Kokoro TTS - 'Indian Female 2'
+
+============================================================
+
+CHARACTER 12: GANDHARI
+Role: Queen, matriarch, and a central figure in the Mahabharata | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --q 2 --ar 2:3 A majestic, middle-aged queen with a strong, Gandharan features, wearing a golden-brown sari and adorned with precious gems, standing tall with a commanding presence, blindfolded, with a subtle, divine aura surrounding her, warm, golden lighting, with a slight, soft focus to emphasize her ethereal quality
+
+── STABLE DIFFUSION PROMPT ──
+A regal, mature woman, blindfolded, in a golden-brown sari, with intricate embroidery, precious gems, and a divine aura, warm, golden light, soft focus, elegant, refined, majestic, queenly, Gandharan, mythological, realistic, detailed, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Gandhari from the ancient Indian epic Mahabharata. Role: Queen, matriarch, and a central figure in the Mahabharata. Faction: Kaurava. Height and build: A strong and maternal build, with broad shoulders and a full figure, symbolizing her role as a queen and a mother. Skin tone: A deep, golden brown skin tone, reminiscent of the rich, fertile lands of Gandhara. Eyes: Though blindfolded for most of her life, her eyes are described as being lotus-shaped, with a deep, pools-like quality, and an unwavering intensity. Hair: Long, dark hair, often tied back in a simple yet elegant knot, adorned with a few, choice jewels, reflecting her status and dignity. Distinctive marks: A blindfold covering her eyes, symbolizing her voluntary blindness in solidarity with her husband, and a few, subtle lines etched on her face, telling the story of her life's hardships. Battle posture: Perfectly upright, with a quiet confidence and a deep sense of inner strength, commanding respect without needing to demand it. Wearing: A rich, golden-brown sari, intricately embroidered with patterns reflecting her Gandharan heritage, draped elegantly around her. Armour: No visible armour, as her role is more maternal and diplomatic, though a golden, ornate belt around her waist hints at her royal status. Weapons: None visible, as she is not a warrior, but a queen and a matriarch. Jewellery: A simple, yet elegant golden necklace, with a few, choice gems, and matching earrings, reflecting her refined taste and royal status. Divine elements: A subtle, divine aura surrounding her, hinting at her deep connection to her family's destiny and the larger, cosmic drama unfolding. Colour palette: Earthy tones, with shades of gold, brown, and deep red, reflecting her connection to the land and her royal lineage. Pose: Not applicable, as she is not a warrior, but if needed, a commanding, maternal presence, shielding and protecting those around her. Lighting: Warm, golden lighting, with soft shadows, to emphasize her majestic and ethereal qualities. Camera angle: A slight, low angle, looking up, to convey her commanding presence and authority. Visual style: A blend of traditional Indian and Middle Eastern aesthetics, with an emphasis on elegance, refinement, and a deep connection to the natural world. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+No modern clothing, no urban setting, no futuristic elements, no overtly dramatic or melodramatic expressions
+
+── VOICE SETTINGS ──
+  Pitch: A warm, rich, and commanding alto, with a deep, soothing quality | Hz: Approximately 160Hz, with a range that can drop to 140Hz for emphasis or rise to 180Hz for passion
+  Tone:  Smooth, like honey, with a slight, throaty undertone, giving her voice a sense of warmth and authority
+  TTS:   Closest match would be a customized voice profile blending elements of mature, authoritative voices with a touch of exotic, regal flair
+
+============================================================
+
+CHARACTER 13: BHISHMA
+Role: Warrior, advisor, and grandsire of the Kauravas and Pandavas | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+Generate an image of Bhishma, the son of Ganga, standing tall with his bow and quiver, wearing his golden armor and carrying the weight of his years with dignity and authority. Style: hyper-realistic, with intricate details and textures. Lighting: soft, golden light that reflects his noble lineage and martial prowess. Camera angle: low angle, looking up, to convey a sense of respect and awe. --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Bhishma, the son of Ganga, wearing golden armor, carrying a bow and quiver, with a divine mark on his forehead, standing in a majestic pose, with a deep sense of authority and wisdom. Style: hyper-realistic, with intricate details and textures. Positive tags: noble, majestic, powerful, wise. Negative tags: none, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Bhishma from the ancient Indian epic Mahabharata. Role: Warrior, advisor, and grandsire of the Kauravas and Pandavas. Faction: Kaurava. Height and build: Broad-shouldered, V-tapered, with a warrior's physique honed from centuries of martial training and discipline. Skin tone: Deep wheatish bronze, like the color of aged, polished copper. Eyes: Lotus-shaped, piercing blue eyes that seem to see right through, with an intensity that commands respect and inspires awe. Hair: Waist-length silver hair, often tied in a simple yet elegant knot, symbolizing his detachment and wisdom. Distinctive marks: A divine mark on his forehead, a symbol of his unmatched prowess and his status as a maharathi. Battle posture: Perfectly upright, with a commanding stillness that reflects his unshakeable commitment to his vows and principles. Wearing: A golden dhoti made of the finest Kanchipuram silk, draped in a simple yet elegant manner, symbolizing his nobility and purity. Armour: Kavacha Kundala, a divine armour that has been fused to his skin, glowing with an ethereal light that signifies his invincibility in battle. Weapons: The Bow of Bhishma, a majestic and powerful bow that can shatter even the sturdiest defenses, slung across his back, along with a quiver full of arrows and a sword at his right hip. Jewellery: A divine crown that signifies his status as a maharathi, along with earrings and a necklace that reflect his deep connection to the divine and the natural world. Divine elements: An aura of divine light surrounds him, symbolizing his deep connection to the divine and his status as a demigod. Colour palette: Gold, silver, and bronze, with accents of deep blue and crimson, reflecting his noble lineage, martial prowess, and spiritual depth. Pose: Stands with his feet shoulder-width apart, with his bow at the ready, and his eyes fixed intently on his target. Lighting: Soft, golden light that reflects his noble lineage and martial prowess, with deep shadows that add depth and dimension to the image. Camera angle: Low angle, looking up, to convey a sense of respect and awe. Visual style: Baahubali film aesthetic, with a mix of traditional Indian and Greek influences. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any images that depict Bhishma as weak, timid, or unsure of himself. Avoid any images that show him without his armor, or without his bow and quiver. Avoid any images that depict him in a modern or contemporary setting
+
+── VOICE SETTINGS ──
+  Pitch: A deep, resonant baritone, commanding attention and respect | Hz: Around 75Hz, with a rich, sonorous quality that can both soothe and inspire
+  Tone:  Warm, authoritative, and wise, with a hint of ancient knowledge and experience
+  TTS:   The closest match would be a deep, resonant voice with a hint of authority and wisdom, such as the 'Narrator' voice on ElevenLabs
+
+============================================================
+
+CHARACTER 14: DRONA
+Role: Warrior, Sage, Guru | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+Generate a highly detailed, realistic avatar of Drona, standing tall with his majestic bow and quiver, set against a backdrop of a serene, sun-drenched landscape, with a warm, golden light casting a glow over the entire scene, --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Create a stunning, hyper-realistic image of Drona, with intricate details and textures, showcasing his armor, his bow, and his quiver, with a deep sense of history and tradition, and a warm, inviting color palette, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Drona from the ancient Indian epic Mahabharata. Role: Warrior, Sage, Guru. Faction: Kaurava. Height and build: Strong and athletic, with broad shoulders and a muscular yet lean physique, reflective of his rigorous warrior training and disciplined lifestyle. Skin tone: Fair with a golden undertone, like burnished copper, a testament to his mixed lineage and years of sun-kissed battles. Eyes: Almond-shaped, piercing brown eyes that seem to see right through to the soul, filled with wisdom, experience, and a hint of sadness. Hair: Dark, graying at the temples, and worn in a long, braided queue down his back, adorned with a few, strategically placed peacock feathers. Distinctive marks: A small, almost imperceptible scar above his left eyebrow from a long-forgotten battle, and an intricate, hand-drawn tilak on his forehead, symbolizing his devotion to his craft and his faith. Battle posture: Erect and proud, with the quiet confidence of a master of his art, moving with the fluid grace of a seasoned warrior. Wearing: A simple, yet elegant dhoti in a deep, rich saffron colour, made from the finest Kanchipuram silk, draped with precision and worn with dignity. Armour: The armor is adorned with small, glinting gemstones and has a subtle, divine glow, hinting at its origin and the power it holds. Weapons: A majestic bow, almost as tall as he is, slung over his shoulder, accompanied by a quiver full of arrows, fletched with the feathers of the swiftest birds. Jewellery: A simple, yet elegant golden necklace with a small, crystal pendant that seems to glow from within, and a pair of heavy, golden earrings that reflect his status and wisdom. Divine elements: A soft, ethereal glow emanates from his armor and the crystal pendant around his neck, symbolizing his divine connection and the power that he wields. Colour palette: Deep saffron, golden yellow, burnished copper, and the rich, dark brown of his leather armor and equipment. Pose: A wide, strong stance, with his bow at the ready, and a fierce, determined glint in his eye. Lighting: Warm, golden lighting, with a soft, diffused glow, and deep shadows that add depth and dimension to the image. Camera angle: A low angle, looking up, to convey a sense of power, authority, and reverence. Visual style: Inspired by the intricate, detailed illustrations of the Amar Chitra Katha series, with a deep appreciation for the cultural and historical context of the Mahabharata. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any images that depict Drona as weak, timid, or uncertain, and focus on conveying his strength, wisdom, and authority
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone, with a commanding presence that demands attention and respect | Hz: Around 80Hz, with a rich, sonorous quality that can fill a room or a battlefield
+  Tone:  Warm, authoritative, and wise, with a hint of melancholy and a deep sense of empathy
+  TTS:   The closest match would be a deep, resonant voice with a warm, authoritative tone, reminiscent of a wise and experienced sage or a seasoned warrior
+
+============================================================
+
+CHARACTER 15: VIDURA
+Role: Advisor, Minister, Sage | Faction: Neutral
+
+── MIDJOURNEY PROMPT ──
+Generate a realistic portrait of Vidura, with a warm and compassionate expression, dressed in a simple dhoti and uttariya, with a subtle golden aura surrounding him --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Vidura, the wise and compassionate advisor, with a deep understanding of dharma and a mastery of the Sanskrit language, dressed in simple, earth-toned attire, with a subtle golden aura and a warm, gentle smile, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Vidura from the ancient Indian epic Mahabharata. Role: Advisor, Minister, Sage. Faction: Neutral. Height and build: Lean and wiry, with a subtle strength that speaks of a life of simplicity and discipline. Skin tone: A warm, golden brown, like the sun-kissed earth of the Indian plains. Eyes: Large and expressive, with a deep, soulful brown that seems to see right through to the heart of the matter. Hair: Thin and grey, often worn in a simple knot at the back of his head, adorned with a few strands of sacred tulsi. Distinctive marks: A small, intricate tilak on his forehead, symbolizing his devotion to dharma. Battle posture: Upright and confident, with a subtle relaxation that speaks of a deep inner peace. Wearing: A simple, yet elegant dhoti in a muted shade of beige, made from the finest dhakai silk. Armour: None, as he is a man of peace and wisdom, relying on his wit and intelligence for protection. Weapons: A simple, wooden danda, symbolizing his role as a guardian and advisor. Jewellery: A simple, gold-plated necklace with a small, crystal pendant, representing his connection to the divine. Divine elements: A subtle, golden aura that surrounds him, symbolizing his deep connection to the divine. Colour palette: Earth tones, with shades of brown, beige, and grey dominating his attire. Pose: A calm and collected stance, with a focus on strategy and calculation. Lighting: Soft, natural lighting, with a warm and comforting glow that reflects Vidura's compassionate nature. Camera angle: A slight low-angle shot, looking up at Vidura, to convey his wisdom and authority. Visual style: Amar Chitra Katha illustrations, with a focus on realistic and detailed depictions of the characters and their surroundings. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any depiction of Vidura as a warrior or a king, and focus on his role as a wise and compassionate advisor
+
+── VOICE SETTINGS ──
+  Pitch: Deep and resonant, with a warm, soothing quality that puts those around him at ease | Hz: 90Hz, a frequency that commands attention without being overpowering
+  Tone:  Smooth and velvety, with a subtle vibration that speaks of his deep wisdom and compassion
+  TTS:   Kokoro TTS - 'Vishnu' voice profile, with a subtle adjustment to the pitch and tone to match Vidura's unique voice
+
+============================================================
+
+CHARACTER 16: DHRITARASHTRA
+Role: King of Hastinapura | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --q 2 --ar 2:3 A majestic, aged king with a regal bearing, dressed in golden and cream-colored robes, with a golden crown on his head, and a long, white beard, sitting on a throne, with a wise and authoritative expression
+
+── STABLE DIFFUSION PROMPT ──
+A wise, aged king, with a long white beard, and a golden crown, sitting on a throne, with a regal and authoritative presence, in a luxurious, ornate setting, with intricate carvings and gemstones, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Dhritarashtra from the ancient Indian epic Mahabharata. Role: King of Hastinapura. Faction: Kaurava. Height and build: Slightly stout, with a well-fed and comfortable physique, indicative of his royal status. Skin tone: Pale, almost ivory, with a subtle golden undertone, reflecting his aristocratic lineage. Eyes: Although blind, his eyes are sunken and his eyelids are often closed, as if in constant contemplation or listening. Hair: Thin, silver hair, often neatly combed and tied back, revealing his aged yet dignified face. Distinctive marks: None visible, but his blindness is a defining characteristic. Battle posture: Erect and proud, even in his old age, commanding respect and attention. Wearing: A luxurious, cream-colored dhoti, draped elegantly around his waist, signifying his royal status. Armour: None, as he is a king and not a warrior, but he wears a golden, gem-encrusted belt around his waist. Weapons: None, as he is blind and not expected to engage in combat. Jewellery: A golden, bejeweled crown on his head, symbolizing his kingship, and a pair of elegant, gemstone-studded earrings. Divine elements: None, but his royal presence and authority command respect and awe. Colour palette: Golden yellow, cream, ivory, and rich jewel tones, reflecting his wealth and status. Pose: Not applicable, as he is not a warrior. Lighting: Warm, golden lighting, with a soft, gentle glow, to convey a sense of wisdom and authority. Camera angle: A low angle, looking up at the king, to emphasize his power and majesty. Visual style: Inspired by ancient Indian art and architecture, with intricate carvings, and ornate details. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Do not include any modern or anachronistic elements, and avoid depicting the king as weak or feeble
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone, commanding attention and respect | Hz: 80Hz
+  Tone:  Warm, rich, and authoritative, with a hint of wisdom and Experience
+  TTS:   ElevenLabs: 'Deep Voice' or Kokoro TTS: 'Commanding Baritone'
+
+============================================================
+
+CHARACTER 17: ABHIMANYU
+Role: Warrior | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 750 a youthful Abhimanyu in golden armor with his bow and quiver, standing heroically against a backdrop of a setting sun over the battlefield of Kurukshetra, style reminiscent of epic, mythological illustrations
+
+── STABLE DIFFUSION PROMPT ──
+Abhimanyu, son of Arjuna, wearing golden armor, holding his bow and quiver, standing in a heroic pose, bright, vibrant colors, highly detailed, mythological style, epic lighting, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Abhimanyu from the ancient Indian epic Mahabharata. Role: Warrior. Faction: Pandava. Height and build: V-tapered physique honed from extensive martial training and combat. Skin tone: Deep, golden brown complexion like polished copper. Eyes: Almond-shaped, dark brown eyes that seem to gleam with an inner fire of curiosity and courage. Hair: Dark, chestnut brown hair that falls to his shoulders, often tied back in a neat, warrior's knot. Distinctive marks: A small, intricate mark on his left palm said to signify his destiny and connection to his father, Arjuna. Battle posture: Upright, exuding confidence and readiness, as if always prepared for battle. Wearing: A golden, saffron-hued dhoti made of the finest silk, wrapped elegantly around his waist. Armour: Carries a Kavacha (divine armor) gifted by his father, though it is not always visible, it provides him with unmatched protection in battle. Weapons: Carries his bow, the 'Vijaya', and two quivers full of arrows on his back, with a sword at his left hip for close combat. Jewellery: Wears a golden, gemstone-encrusted necklace, symbolizing his lineage and connection to the Pandavas, along with earrings that reflect his status as a warrior. Divine elements: The glow of his divine armor when activated, and the mystical aura that surrounds him due to his lineage and training. Colour palette: Dominant colours include golden yellow, deep saffron, and the dark brown of his leather armor. Pose: Assumes a wide, balanced stance with his bow at the ready, eyes scanning the horizon for targets, his body tense and alert. Lighting: Dramatic, with the main light source coming from the side, casting a heroic glow on Abhimanyu while the background is slightly darker, emphasizing his presence. Camera angle: Low angle, looking up at Abhimanyu, to convey a sense of power, courage, and heroism. Visual style: Inspired by the illustrations of the Mahabharata in a mix of traditional and digital media, with an emphasis on dramatic lighting and powerful poses. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any depiction that makes him look significantly older than 18, or removes his iconic golden armor and weapons
+
+── VOICE SETTINGS ──
+  Pitch: Mid-range tenor, youthful and energetic, capable of commanding attention without being overly loud | Hz: 120Hz, reflective of his age and agility
+  Tone:  Clear and resonant, with a hint of warmth that inspires confidence and trust
+  TTS:   Closest match would be a youthful, energetic voice profile with a mid-range tenor pitch, possibly the 'Young Warrior' voice
+
+============================================================
+
+CHARACTER 18: GHATOTKACHA
+Role: Warrior and the son of Bhima, playing a crucial role in the Mahabharata war | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+Ghatotkacha, the Rakshasa warrior, standing tall with his sword and quiver, set against a dark, misty forest backdrop, with a full moon rising in the sky, --ar 2:3 --v 6
+
+── STABLE DIFFUSION PROMPT ──
+Ghatotkacha, a powerful Rakshasa warrior, with dark, blue-black skin and glowing, amber-gold eyes, wearing a suit of dark, enchanted armor and carrying a massive, curved sword, in a dark, misty forest, with a hint of magic and mystery in the air, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Ghatotkacha from the ancient Indian epic Mahabharata. Role: Warrior and the son of Bhima, playing a crucial role in the Mahabharata war. Faction: Pandava. Height and build: Broad-shouldered and powerful, with well-defined muscles, reflecting his exceptional strength. Skin tone: Deep, dark blue-black, similar to a monsoon sky, with a slightly reddish undertone, hinting at his Rakshasa lineage. Eyes: Piercing, amber-gold eyes that seem to gleam in the dark, with a sharp, intelligent glint. Hair: Wild, dark black hair that falls to his shoulders, often worn loose and untamed. Distinctive marks: A series of intricate, glowing tattoos on his arms and torso, symbolizing his Rakshasa heritage and magical abilities. Battle posture: Confident and imposing, with a relaxed, athletic stance that belies his incredible strength and agility. Wearing: A dark, indigo-blue dhoti made of a rich, velvety fabric, cinched at the waist with a wide, golden belt. Armour: A suit of dark, enchanted armor that seems to shift and flow like liquid, providing him with enhanced strength and agility. Weapons: A massive, curved sword at his hip, a short, hooked dagger at his belt, and a quiver full of arrows on his back. Jewellery: A golden, gemstone-encrusted necklace that holds a small, glowing crystal, and a pair of heavy, ornate earrings that resemble tiny, demonic masks. Divine elements: A soft, ethereal glow that surrounds his body, hinting at his connection to the divine and his magical abilities. Colour palette: Dark blues and blacks, with accents of gold, crimson, and emerald green, reflecting his Rakshasa heritage and magical abilities. Pose: A fierce, aggressive stance, with his sword at the ready and his eyes blazing with fury, reflecting his intense focus and determination. Lighting: A dark, moody lighting setup, with deep shadows and subtle, glowing accents, reflecting the mysterious and magical nature of the Rakshasa. Camera angle: A low, heroic angle, looking up at Ghatotkacha as he stands tall, with his sword and quiver at the ready. Visual style: A mix of dark, gothic fantasy and Indian mythology, with intricate, glowing tattoos and magical, ethereal effects. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid any depiction of Ghatotkacha as weak, timid, or submissive, and do not show him in a bright, sunny environment
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone, with a hint of a growl, reflecting his Rakshasa heritage and powerful physique | Hz: 75Hz, with a rich, full-bodied tone that commands attention
+  Tone:  Warm, rich, and slightly gravelly, with a hint of a snarl, reflecting his fierce and powerful personality
+  TTS:   Kokoro TTS voice profile: 'Deep, resonant baritone with a hint of a growl'
+
+============================================================
+
+CHARACTER 19: ASHWATTHAMA
+Role: Warrior, Brahmin, and son of Dronacharya | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --q 2 --ar 2:3 A tall, imposing figure with a strong, angular face and piercing brown eyes, wearing a saffron dhoti and leather armor, with a massive sword slung over his back
+
+── STABLE DIFFUSION PROMPT ──
+Ashwatthama, son of Dronacharya, in a formal, heroic pose, with a golden armor and a sword, on a dark, muted background, with a sense of depth and dimensionality, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Ashwatthama from the ancient Indian epic Mahabharata. Role: Warrior, Brahmin, and son of Dronacharya. Faction: Kaurava. Height and build: Broad-shouldered, powerful V-taper, honed from years of intense martial training. Skin tone: Deep, burnished copper with golden undertones, like polished leather. Eyes: Intense, piercing brown eyes that seem to bore into those he looks at, fringed with thick lashes. Hair: Dark, shoulder-length hair, often tied back in a simple, practical knot. Distinctive marks: A series of intricate, ritualistic scars on his cheeks and forehead, symbols of his unwavering dedication to his craft. Battle posture: Perfectly upright, exuding confidence, authority, and an unshakeable sense of self-assurance. Wearing: A flowing, saffron-dyed dhoti, cinched at the waist with a wide, golden belt. Armour: Kavacha Kundala — a golden, divine armor fused to his skin, glowing with an ethereal, otherworldly light. Weapons: A massive, two-handed sword slung over his back, alongside a quiver full of arrows and a short, cruel-looking dagger at his hip. Jewellery: A simple, golden armlet on his right bicep, bearing the emblem of his family, and a pair of heavy, silver earrings that glint in the light. Divine elements: The soft, pulsing glow of his Kavacha Kundala armor, and the shimmering, silver rivets on his leather vest. Colour palette: Deep saffron, burnished gold, dark copper, and rich, chocolate brown. Pose: A wide, balanced stance, with his sword at the ready, and his eyes fixed intently on his opponent. Lighting: Dramatic, high-contrast lighting, with deep shadows and highlights. Camera angle: Low angle, looking up, to emphasize his height and authority. Visual style: Baahubali film aesthetic, with a mix of realistic and stylized elements. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+No smiles, no casual clothes, no bright colors, no modern elements
+
+── VOICE SETTINGS ──
+  Pitch: Low, resonant baritone, with a hint of warmth and authority | Hz: 80Hz
+  Tone:  Deep, rich, and commanding, with a subtle, underlying roughness
+  TTS:   ElevenLabs' 'Baritone' voice profile, with adjustments for a deeper, more resonant tone
+
+============================================================
+
+CHARACTER 20: KRIPACHARYA
+Role: Guru, warrior, and advisor | Faction: Kaurava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 750 'Kripacharya, the wise and venerable guru, stands tall with an aura of quiet confidence, his eyes shining with a deep wisdom. He wears a simple, cream-colored dhoti and a golden, embroidered vest, with a long, slender sword at his side. The background is a warm, golden light, symbolizing his connection to the divine.'
+
+── STABLE DIFFUSION PROMPT ──
+Kripacharya, wise guru, standing with confidence, cream-colored dhoti, golden vest, long sword, warm golden light, divine aura, --v 5 --q 2, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Kripacharya from the ancient Indian epic Mahabharata. Role: Guru, warrior, and advisor. Faction: Kaurava. Height and build: Lean, muscular frame suggesting a life of discipline and self-control. Skin tone: Light wheatish complexion with a warm, golden undertone. Eyes: Piercing brown eyes with a sharp, intelligent glint, fringed with thick eyelashes. Hair: Short, dark grey hair often tied back in a simple knot, with a few loose strands framing his face. Distinctive marks: A small, shining gemstone on his forehead, symbolizing his spiritual attainments. Battle posture: Upright and commanding, with a quiet confidence that inspires respect. Wearing: A simple, cream-colored dhoti made of the finest silk, draped elegantly around his waist. Armour: No visible armor, but an aura of protection surrounds him, as if his very presence is a shield. Weapons: A long, slender sword at his side, with an ornate hilt that shines like polished gold. Jewellery: A delicate, gemstone-encrusted necklace around his neck, and a simple, golden armlet on his right bicep. Divine elements: A soft, ethereal glow emanates from the gemstone on his forehead, symbolizing his connection to the divine. Colour palette: Cream, gold, dark grey, and deep brown. Pose: Assumes a calm, calculated stance, with his sword at the ready, his eyes fixed intently on his opponent. Lighting: Warm, golden light, with a soft, ethereal glow emanating from the gemstone on his forehead. Camera angle: Slightly low angle, looking up at Kripacharya, to convey a sense of respect and admiration. Visual style: Amar Chitra Katha illustrations, with a touch of realism and depth. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Kripacharya, old, frail, weak, timid, dark background, --v 5 --q 2
+
+── VOICE SETTINGS ──
+  Pitch: Low, resonant baritone with a soothing quality | Hz: 80Hz
+  Tone:  Rich, warm, and authoritative, with a hint of kindness
+  TTS:   ElevenLabs - 'Resonant Mentor' voice profile
+
+============================================================
+
+CHARACTER 21: BALARAMA
+Role: Warrior, elder brother of Krishna, and significant figure in the Mahabharata | Faction: Neutral / Divine
+
+── MIDJOURNEY PROMPT ──
+--v 6 --ar 2:3 --q 2 --stylize 750 a majestic, powerful figure with a strong, rugged face, wearing golden armour and carrying a plough, set against a backdrop of a lush, green landscape with a clear blue sky
+
+── STABLE DIFFUSION PROMPT ──
+Balarama, strong and powerful, golden armour, plough, rustic, divine, peaceful landscape, warm lighting, highly detailed, realistic, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Balarama from the ancient Indian epic Mahabharata. Role: Warrior, elder brother of Krishna, and significant figure in the Mahabharata. Faction: Neutral / Divine. Height and build: Broad-shouldered, with a V-taper physique accentuating his warrior's strength and agility. Skin tone: Deep, golden wheatish complexion, like polished bronze, reflecting his divine and rugged outdoor lifestyle. Eyes: Lotus-shaped, with an intense, piercing gaze, and eyes that seem to see right through; his eyes are a deep, burning blue, like the hottest part of a flame. Hair: Dark, waist-length hair, often tied in a simple yet elegant knot, adorned with a peacock feather, signifying his connection to Krishna and his divine lineage. Distinctive marks: A plough-shaped mark on his right palm, symbolizing his role as a farmer and a protector of the land, and his feet have a subtle, divine glow. Battle posture: Carries himself with perfect, relaxed confidence, as if always ready to spring into action, yet exudes a sense of calm authority and wisdom. Wearing: Wears a simple, yet elegant, golden dhoti made of fine silk, draped in the traditional Vedic style, often with a deep saffron or blue upper garment. Armour: His Kavacha (armour) is divine, made from a golden alloy that seems almost liquid in the light, and is said to be impenetrable to any mortal weapon. Weapons: Carries a majestic plough, which serves as both a symbol of his role as a farmer and a powerful weapon in battle, slung over his shoulder. Jewellery: Adorned with a golden, gemstone-encrusted crown on his forehead, earrings that resemble small, shimmering suns, and a necklace made of large, polished rudraksha beads. Divine elements: A soft, divine aura surrounds him, and his presence seems to evoke the calm, peaceful feeling of a clear sky or a lush, green landscape. Colour palette: Dominant colours include golden yellow, deep saffron, sky blue, and the earthy tones of his armour and garments, reflecting his connection to the sun, sky, and land. Pose: Assumes a wide, powerful stance, with his plough at the ready, and a fierce, determined look in his eyes. Lighting: Warm, golden light, with a soft, natural glow, and deep shadows to accentuate the character's features and the texture of his armour and surroundings. Camera angle: Low angle, looking up, to emphasize the character's strength and presence, and to create a sense of awe and reverence. Visual style: Baahubali film aesthetic, with a mix of realistic and stylized elements, and a strong emphasis on showcasing the character's personality and presence. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+avoid dark, ominous, or overly dramatic scenes, and do not depict Balarama with excessive ornamentation or unnecessary accessories
+
+── VOICE SETTINGS ──
+  Pitch: Deep, resonant baritone voice, capable of commanding attention and inspiring awe | Hz: Around 80-90 Hz, giving his voice a sense of depth and gravity
+  Tone:  Warm, rich, and full-bodied, with a hint of a rustic, earthy undertone, reflecting his connection to the land and his role as a protector
+  TTS:   Closest match would be a deep, resonant voice with a slight rustic or earthy undertone, such as the 'Baritone' voice on ElevenLabs
+
+============================================================
+
+CHARACTER 22: SUBHADRA
+Role: Princess of Dwarka, sister of Krishna, and wife of Arjuna | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --q 2 --ar 2:3 a serene and peaceful Subhadra, dressed in a golden sari with intricate, gemstone-encrusted embroidery, standing in a lush, green forest with a subtle, shimmering glow surrounding her person, --style Baahubali film aesthetic, --lighting soft and warm, with a subtle, golden glow
+
+── STABLE DIFFUSION PROMPT ──
+Subhadra, princess of Dwarka, dressed in a golden sari with intricate, gemstone-encrusted embroidery, standing in a lush, green forest with a subtle, shimmering glow surrounding her person, warm, golden lighting, serene and peaceful atmosphere, --v 6, --q 2, --ar 2:3, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Subhadra from the ancient Indian epic Mahabharata. Role: Princess of Dwarka, sister of Krishna, and wife of Arjuna. Faction: Pandava. Height and build: Lean and agile, with a dancer's physique and subtle muscular tone. Skin tone: Golden wheatish complexion with a warm, sun-kissed glow. Eyes: Large, expressive eyes shaped like lotus petals, with a deep, rich brown color and a soft, gentle sparkle. Hair: Long, dark hair that falls in loose waves down her back, often adorned with a delicate golden hairpiece. Distinctive marks: A small, delicate tilak on her forehead and a subtle, shimmering glow around her person, hinting at her divine heritage. Battle posture: Elegant and poised, with a quiet confidence and an unhurried, gentle demeanor. Wearing: A flowing, golden-hued sari with intricate, gemstone-encrusted embroidery and a delicate, beaded border. Armour: No visible armor, but an aura of protection and blessings from her brother Krishna and her husband Arjuna. Weapons: None visible, but a subtle, hidden dagger or a small, delicate bow and quiver, symbolizing her connection to her warrior-husband and brother. Jewellery: Intricate, gemstone-encrusted earrings, a delicate, golden necklace with a small, shining pendant, and a few, subtle, gemstone-encrusted bangles on her wrists. Divine elements: A subtle, shimmering aura that hints at her divine heritage, a delicate, golden glow that surrounds her person, and a few, subtle, gemstone-encrusted symbols that reflect her connection to her brother Krishna and her husband Arjuna. Colour palette: Golden, creamy whites, deep browns, and rich, jewel-toned colors, reflecting her connection to the sun, her divine heritage, and her role as a princess and a warrior's wife. Pose: Calm and peaceful, with a subtle, gentle quality that reflects her connection to her heart and her intuition, and a deep, inner strength that guides her actions and decisions. Lighting: Soft and warm, with a subtle, golden glow that reflects her connection to the sun and her divine heritage. Camera angle: Eye-level, with a subtle, gentle emphasis on her compassionate and nurturing nature, and a deep, inner peace that guides her actions and decisions. Visual style: Baahubali film aesthetic, with a subtle, gentle emphasis on the importance of compassion, empathy, and self-awareness. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+No dark or ominous tones, no conflict or aggression, no negative or hurtful themes
+
+── VOICE SETTINGS ──
+  Pitch: A clear, melodious, and gentle voice, with a subtle, soothing quality that reflects her compassionate and nurturing nature | Hz: Around 220-240 Hz, with a subtle, musical quality that hints at her connection to music, dance, and the arts
+  Tone:  Warm, smooth, and resonant, with a subtle, gentle vibrato that reflects her emotional depth and her connection to her heart
+  TTS:   A gentle, melodious voice with a subtle, soothing quality, similar to the ElevenLabs voice profile 'Luna' or the Kokoro TTS voice profile 'Sakura'
+
+============================================================
+
+CHARACTER 23: HIDIMBA
+Role: Rakshasi, warrior, and wife of Bhima | Faction: Pandava
+
+── MIDJOURNEY PROMPT ──
+--v 6 --q 2 --ar 2:3 'Hidimba, the rakshasi warrior, standing in a sun-dappled forest glade, with a short sword at her hip and a look of fierce determination on her face'
+
+── STABLE DIFFUSION PROMPT ──
+Generate an image of Hidimba, the rakshasi warrior, with a warm, golden light and a sense of dynamic movement, masterpiece, best quality, ultra detailed, sharp focus, professional photography, cinematic lighting, 8K resolution
+
+── GPT IMAGE 2 PROMPT ──
+Hyper-realistic full-body portrait of Hidimba from the ancient Indian epic Mahabharata. Role: Rakshasi, warrior, and wife of Bhima. Faction: Pandava. Height and build: Athletic and toned, reflecting her warrior training and rakshasa strength. Skin tone: Golden brown with a warm, sun-kissed glow, like polished copper. Eyes: Almond-shaped, dark brown eyes with golden flecks, expressive and fierce. Hair: Long, dark black hair that falls in loose waves down her back, often tied with a leather thong. Distinctive marks: A small, intricate tattoo of a snake coiled around her right wrist, symbolizing her rakshasa heritage. Battle posture: Confident and upright, with a subtle, fluid grace that belies her formidable strength. Wearing: A flowing, emerald green saree made of lightweight silk, draped elegantly around her body. Armour: A pair of supple, leather arm guards, adorned with small, shimmering silver accents. Weapons: A short sword at her hip, and a small, ornate dagger tucked into her belt. Jewellery: A delicate, golden necklace with a tiny, polished ruby pendant, and a pair of dangling, silver earrings shaped like tiny bells. Divine elements: A subtle, pulsing aura that surrounds her, reflecting her connection to the natural world and her rakshasa heritage. Colour palette: Emerald green, golden yellow, dark brown, and rich red. Pose: A fierce, aggressive stance, with her sword at the ready and her eyes blazing with determination. Lighting: Warm, golden light with deep shadows, to emphasize Hidimba's fierce and determined personality. Camera angle: Low angle, looking up at Hidimba, to convey a sense of power and strength. Visual style: Baahubali film aesthetic, with a focus on naturalistic lighting and textures. Ultra-high detail, 8K cinematic render, subsurface scattering skin, ray-traced shadows, intricate fabric textures, photorealistic Indian mythology, epic hero composition. No text, no watermarks, no borders.
+
+── NEGATIVE PROMPT ──
+Avoid images with excessive violence, gore, or dark fantasy elements
+
+── VOICE SETTINGS ──
+  Pitch: Mid-range, with a warm, husky quality that is both soothing and commanding | Hz: 140Hz
+  Tone:  Smooth, rich, and slightly resonant, with a hint of a growl when she is angry or passionate
+  TTS:   Kokoro TTS voice profile: 'Warm, husky female'
+
+============================================================

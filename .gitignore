@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.egg-info/
+
+# Output files (too large for git)
+output/
+outputs/
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Large assets
+assets/avatars/
+assets/branding/
+
+# Fix scripts (temporary build scripts)
+fix_*.py
+run_demo_episode.py
+
+# External repos
+SadTalker/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,140 @@
+# Crown of Kaliyug — Production Configuration
+# Phase 0 · config/production_config.yaml
+# All agents read this file for shared settings
+
+# ── LLM ─────────────────────────────────────────────────────────────────────
+llm:
+  model: "claude-sonnet-4-20250514"
+  max_tokens: 8192
+  temperature: 1.0
+  prompt_cache: true                   # cache story bible system prompts
+
+# ── DATABASE ─────────────────────────────────────────────────────────────────
+database:
+  url: "${DATABASE_URL}"               # set in .env
+  pool_size: 10
+  max_overflow: 20
+  echo: false
+
+# ── VECTOR STORE ─────────────────────────────────────────────────────────────
+chromadb:
+  host: "localhost"
+  port: 8000
+  collection_name: "crown_of_kaliyug_story_bible"
+  embedding_model: "text-embedding-3-small"
+
+# ── CACHE / QUEUE ────────────────────────────────────────────────────────────
+redis:
+  url: "${REDIS_URL}"
+  state_ttl_hours: 72                  # LangGraph state kept for 72h
+
+# ── ASSET STORAGE ─────────────────────────────────────────────────────────────
+storage:
+  provider: "s3"                       # s3 or minio
+  bucket: "${AWS_S3_BUCKET}"
+  region: "${AWS_REGION}"
+  folders:
+    avatars:        "avatars/"
+    scene_clips:    "scene_clips/"
+    voiceover:      "audio/{episode_id}/voiceover/"
+    music:          "audio/{episode_id}/music/"
+    sfx:            "audio/{episode_id}/sfx/"
+    final_cuts:     "final_cuts/"
+    exports:        "exports/{episode_id}/"
+
+# ── HITL / NOTIFICATIONS ─────────────────────────────────────────────────────
+hitl:
+  gate_1_approver: "shristi"           # script lock approval
+  gate_2_approvers: ["priya", "shelly"] # final cut approval
+  timeout_hours: 48                    # escalate if no response in 48h
+  wa_phone_id: "${WHATSAPP_PHONE_NUMBER_ID}"
+  wa_token: "${WHATSAPP_TOKEN}"
+
+contacts:
+  shristi: "${SHRISTI_WA_NUMBER}"
+  priya:   "${PRIYA_WA_NUMBER}"
+  shelly:  "${SHELLY_WA_NUMBER}"
+
+# ── STORY ENGINE (Phase 1) ───────────────────────────────────────────────────
+story_engine:
+  max_canon_retries: 3                 # loops before escalating to Shristi
+  script_output_schema: "schemas/script_output.json"
+  teaser_lengths_sec: [30, 60, 90]
+  language_blend: "hindi_english_sanskrit"
+
+# ── VISUAL PRODUCTION (Phase 2) ──────────────────────────────────────────────
+visual:
+  video_api_primary: "runway"          # runway | kling | higgsfield
+  video_api_fallback: "kling"
+  avatar_api: "hedra"                  # hedra | did
+  expression_variants: 6
+  crowd_base_extras: 5000
+  crowd_target: 200000
+  output_format: "h264"
+  output_resolution: "1920x1080"
+  vfx_presets_path: "config/vfx_presets.yaml"
+
+# ── AUDIO PRODUCTION (Phase 3) ───────────────────────────────────────────────
+audio:
+  tts_provider: "elevenlabs"
+  music_provider_primary: "suno"
+  music_provider_fallback: "udio"
+  sfx_provider: "elevenlabs_sfx"
+  sfx_library: "freesound"
+  voice_profiles_path: "config/voice_profiles.yaml"
+  music_themes_path: "config/music_themes.yaml"
+
+# ── POST PRODUCTION (Phase 4) ────────────────────────────────────────────────
+post_production:
+  master_format: "h264"
+  master_resolution: "1920x1080"
+  voiceover_db: 0                      # primary track level
+  music_db_during_dialogue: -18        # ducked under dialogue
+  music_db_instrumental: -8            # when no dialogue
+  subtitle_languages: ["hindi", "english"]
+  episode_tag_enforce: true            # final 8 min = music only, hardcoded
+
+platform_specs:
+  youtube:
+    resolution: "1920x1080"
+    aspect_ratio: "16:9"
+    format: "h264"
+    full_episode: true
+    chapters: true
+  instagram_reel:
+    resolution: "1080x1920"
+    aspect_ratio: "9:16"
+    max_duration_sec: 60
+    source: "teaser_60s"
+  twitter:
+    resolution: "720x720"
+    aspect_ratio: "1:1"
+    max_duration_sec: 30
+    source: "teaser_30s"
+  whatsapp_status:
+    resolution: "1080x1920"
+    aspect_ratio: "9:16"
+    max_size_mb: 16
+    max_duration_sec: 30
+    source: "teaser_30s"
+
+# ── ANALYTICS (Phase 5) ──────────────────────────────────────────────────────
+analytics:
+  weekly_report_day: "monday"
+  weekly_report_time_ist: "09:00"
+  metric_pull_schedule: "daily_00:00_ist"
+  release_strategy:
+    first_two_episodes: "simultaneous"
+    subsequent: "weekly"
+  teaser_ab_test: true                 # track 30s vs 60s vs 90s performance
+
+# ── SERIES CONFIG ─────────────────────────────────────────────────────────────
+series:
+  name: "Crown of Kaliyug"
+  production_company: "Ooumph Networks Pvt. Ltd."
+  framework: "Global Creative Grid"
+  total_seasons: 7
+  total_episodes: 60
+  pilot_runtime_min: 70
+  series_bible_version: "1.0"
+  confidentiality: "STRICTLY CONFIDENTIAL"

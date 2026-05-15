@@ -1,0 +1,48 @@
+{
+  "total_seasons": 7,
+  "total_episodes": 60,
+  "seasons": [
+    {
+      "id": 1,
+      "title": "The Weight of Crowns",
+      "episodes": 10,
+      "arc": "Adi + Sabha Parvas. The rise of the Pandavas and the game of dice."
+    },
+    {
+      "id": 2,
+      "title": "The Long Exile",
+      "episodes": 8,
+      "arc": "Vana + Virata Parvas. Survival and disguise."
+    },
+    {
+      "id": 3,
+      "title": "The Art of Peace",
+      "episodes": 8,
+      "arc": "Udyoga Parva. Diplomacy and the failure of peace."
+    },
+    {
+      "id": 4,
+      "title": "Kurukshetra I",
+      "episodes": 10,
+      "arc": "Bhishma + Drona Parvas. The war begins. Honor starts to crumble."
+    },
+    {
+      "id": 5,
+      "title": "Kurukshetra II",
+      "episodes": 10,
+      "arc": "Shalya + Sauptika Parvas. The end of the war and the massacre at night."
+    },
+    {
+      "id": 6,
+      "title": "The Aftermath",
+      "episodes": 8,
+      "arc": "Stri + Shanti + Anushasana Parvas. The cost of winning."
+    },
+    {
+      "id": 7,
+      "title": "Long Road Home",
+      "episodes": 6,
+      "arc": "Mausala to Svargarohana Parvas. The final journey."
+    }
+  ]
+}

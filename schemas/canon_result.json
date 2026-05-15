@@ -1,0 +1,18 @@
+{
+  "title": "Canon Result Schema",
+  "type": "object",
+  "properties": {
+    "status": { "type": "string", "enum": ["PASS", "FAIL"] },
+    "violations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "scene_id": { "type": "string" },
+          "issue": { "type": "string" },
+          "severity": { "type": "string" }
+        }
+      }
+    }
+  }
+}

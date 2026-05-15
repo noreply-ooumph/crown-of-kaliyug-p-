@@ -1,0 +1,97 @@
+{
+  "crowd_murmur": {
+    "freesound_id": 399934,
+    "description": "Large crowd murmuring",
+    "duration_sec": 30
+  },
+  "crowd_gasp": {
+    "freesound_id": 391599,
+    "description": "Crowd gasping in shock",
+    "duration_sec": 3
+  },
+  "crowd_100k_cheer": {
+    "freesound_id": 264594,
+    "description": "Massive stadium cheering",
+    "duration_sec": 8
+  },
+  "crowd_100k_breathing": {
+    "freesound_id": 399934,
+    "description": "Huge crowd ambient breathing",
+    "duration_sec": 60
+  },
+  "bow_release": {
+    "freesound_id": 170657,
+    "description": "Arrow released from bow",
+    "duration_sec": 1
+  },
+  "arrow_hits_target": {
+    "freesound_id": 170658,
+    "description": "Arrow hitting target",
+    "duration_sec": 1
+  },
+  "sword_clash": {
+    "freesound_id": 198873,
+    "description": "Metal sword clash",
+    "duration_sec": 2
+  },
+  "weighted_dice_click": {
+    "elevenlabs_sfx": "bone dice clicking on stone table, heavy and deliberate",
+    "duration_sec": 2
+  },
+  "armor_glow_divine": {
+    "elevenlabs_sfx": "subtle divine resonance, golden harmonic hum",
+    "duration_sec": 5
+  },
+  "brahmastra_distortion": {
+    "elevenlabs_sfx": "atmospheric catastrophe, reality distortion, massive energy",
+    "duration_sec": 8
+  },
+  "shankha_blast": {
+    "freesound_id": 398623,
+    "description": "Conch shell war trumpet",
+    "duration_sec": 4
+  },
+  "war_drums_distant": {
+    "freesound_id": 264594,
+    "description": "Distant war drums",
+    "duration_sec": 30
+  },
+  "oil_lamp_crackle": {
+    "freesound_id": 397177,
+    "description": "Oil lamp flame crackling",
+    "duration_sec": 60
+  },
+  "iron_pillars_echo": {
+    "elevenlabs_sfx": "large stone hall with iron pillars, footsteps echo, silence",
+    "duration_sec": 30
+  },
+  "river_ghats_dawn": {
+    "freesound_id": 398765,
+    "description": "River ghat at dawn, herons, water",
+    "duration_sec": 60
+  },
+  "forest_dawn_birds": {
+    "freesound_id": 270400,
+    "description": "Forest dawn, bird calls",
+    "duration_sec": 60
+  },
+  "ocean_coastal_wind": {
+    "freesound_id": 361537,
+    "description": "Ocean coast, seagulls, wind",
+    "duration_sec": 60
+  },
+  "chariot_wheels": {
+    "freesound_id": 277291,
+    "description": "Chariot wheels on stone road",
+    "duration_sec": 10
+  },
+  "elephant_trumpet": {
+    "freesound_id": 398732,
+    "description": "Elephant trumpeting",
+    "duration_sec": 3
+  },
+  "sarangi_solo": {
+    "elevenlabs_sfx": "single sarangi string instrument, mournful solo, no other instruments",
+    "duration_sec": 120
+  }
+}

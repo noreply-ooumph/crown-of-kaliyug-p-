@@ -1,0 +1,64 @@
+# Crown of Kaliyug - Music Themes
+# Phase 3 - A-08 Music Composer Agent
+# Source: Series Bible v1.0
+
+themes:
+
+  kuru_court:
+    name: "Kuru Court Theme"
+    instrument_primary: "Raga Bhairav"
+    instruments: ["sitar", "tabla", "sarangi", "tanpura"]
+    mood: "power, ancient authority, internal fracture"
+    suno_prompt: "Raga Bhairav, slow tempo, sitar and tabla, ancient Indian court, melancholic grandeur"
+    locations: ["hastinapur", "throne hall", "court", "palace"]
+    season_restriction: null
+
+  panchala:
+    name: "Panchala Theme"
+    instrument_primary: "Carnatic + West African djembe"
+    instruments: ["mridangam", "djembe", "veena", "nadaswaram"]
+    mood: "proud, vibrant, warrior culture, outsider energy"
+    suno_prompt: "Carnatic classical meets West African drumming, djembe and mridangam, proud and vibrant"
+    locations: ["panchala", "kampilya", "draupadi"]
+    season_restriction: null
+
+  dwarka:
+    name: "Dwarka Theme"
+    instrument_primary: "Coastal percussion + flute"
+    instruments: ["bansuri", "ocean_drums", "ghatam", "veena"]
+    mood: "cosmopolitan, open, divine lightness, coastal freedom"
+    suno_prompt: "Bansuri flute over ocean percussion, Carnatic coastal, light and open, divine peace"
+    locations: ["dwarka", "krishna", "coastal"]
+    season_restriction: null
+
+  battle:
+    name: "Kurukshetra Battle Theme"
+    instrument_primary: "War percussion"
+    instruments: ["dhol", "nagara", "shankha", "war_drums"]
+    mood: "agricultural horror, repetitive, exhausting, not heroic"
+    suno_prompt: "Heavy war drums, dhol and nagara, no melody, repetitive and grinding, not triumphant"
+    locations: ["kurukshetra", "battlefield", "war"]
+    season_restriction: 4
+
+  kurukshetra_theme:
+    name: "Kurukshetra Leitmotif"
+    instrument_primary: "Fragment - barely audible in S1"
+    instruments: ["strings", "distant_drums"]
+    mood: "fragmented in S1, full only in S4"
+    suno_prompt: "Fragmented string melody, barely audible, distant drums, haunting and incomplete"
+    locations: ["any"]
+    season_restriction: null
+    note: "CRITICAL - fragmented only in S1. Full version not before S4."
+
+  abhimanyu_death:
+    name: "Abhimanyu Death Score"
+    instrument_primary: "Single sarangi only"
+    instruments: ["sarangi"]
+    mood: "grief, alone, the most beloved young warrior dies"
+    suno_prompt: "Single sarangi, no other instruments, no percussion, raw grief, solo string"
+    locations: ["chakravyuha", "kurukshetra"]
+    season_restriction: 4
+    episode_restriction: "S4E13"
+    note: "CRITICAL - fragmented only in S1. Full version not before S4."
+
+default_theme: "kuru_court"
